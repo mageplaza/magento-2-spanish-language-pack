@@ -12,7 +12,7 @@ Read more [Magento 2 Spanish Language Pack](https://www.mageplaza.com/magento-2-
 ```
 composer require mageplaza/magento-2-spanish-language-pack:*
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy es-es
+php bin/magento setup:static-content:deploy es-ar
 
 ```
 

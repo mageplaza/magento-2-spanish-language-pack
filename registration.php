@@ -16,6 +16,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'mageplaza_es_es',
+    'mageplaza_es_ar',
     __DIR__
 );
