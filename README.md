@@ -34,7 +34,7 @@ Install the Spanish language pack via composer is never easier.
 **Install Spanish pack**:
 
 ```
-composer require mageplaza/magento-2-spanish-language-pack:*
+composer require mageplaza/magento-2-spanish-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy es-ar
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy es-ar
 **Update  Spanish pack**:
 
 ```
-composer update mageplaza/magento-2-spanish-language-pack:*
+composer update mageplaza/magento-2-spanish-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy es-ar
 
