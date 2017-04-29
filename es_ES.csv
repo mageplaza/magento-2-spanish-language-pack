@@ -2726,6 +2726,9 @@ Payment,Pago,module,Magento_Checkout
 "We received your order!","¡Hemos recibido su pedido!",module,Magento_Checkout
 "Thank you for your purchase!","¡Gracias por su compra!",module,Magento_Checkout
 "Go to Checkout","Ir a pagar",module,Magento_Checkout
+"View and edit cart","Ver y editar carrito de compras",module,Magento_Checkout
+"Item in Cart","Artículo en el carrito de compras",module,Magento_Checkout
+"Items in Cart","Artículos en el carrito de compras",module,Magento_Checkout
 "Terms and Conditions","Términos y condiciones",module,Magento_CheckoutAgreements
 "Add New Condition","Nueva condición",module,Magento_CheckoutAgreements
 "Save Condition","Guardar condición",module,Magento_CheckoutAgreements
@@ -6305,6 +6308,7 @@ Partners,Socios,module,Magento_Marketplace
 "Read More","Leer más",module,Magento_Marketplace
 "Partner Page","Página de socio",module,Magento_Marketplace
 "No partners were found","No se encontraron socios",module,Magento_Marketplace
+"Find Partners & Extensions","Encontrar socios y extensiones",module,Magento_Marketplace
 Synchronize,Sincronizar,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Sincronización de %1 a %2",module,Magento_MediaStorage
 Synchronizing...,"Synchronisierung läuft...",module,Magento_MediaStorage
@@ -9808,14 +9812,14 @@ Inactive,Inactivo,module,Magento_SalesRule
 "Apply Discount","Aplicar descuento",module,Magento_SalesRule
 "Cancel coupon","Cancelar el cupón",module,Magento_SalesRule
 "Your coupon was successfully removed.","Su cupón fue removido con éxito.",module,Magento_SalesRule
-"Your coupon was successfully applied.","Su cupón fue removido con éxito.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Su cupón fue aplicado con éxito.",module,Magento_SalesRule
 Promotion,Promoción,module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Códigos de cupones específicos generados automáticamente",module,Magento_SalesRule
 "Web Site","Sitio web",module,Magento_SalesRule
 Priority,Prioridad,module,Magento_SalesRule
 "Cart Price Rule","Regla de precio para el carrito de compras",module,Magento_SalesRule
 Back,Atrás,module,Magento_SalesRule
-"Currently Active","Currently Active",module,Magento_SalesRule
+"Currently Active","Actualmente activo",module,Magento_SalesRule
 "Rule Information","Información sobre la regla",module,Magento_SalesRule
 "Rule Name","Nombre de la regla",module,Magento_SalesRule
 Description,Descripción,module,Magento_SalesRule
