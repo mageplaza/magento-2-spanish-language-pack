@@ -250,7 +250,7 @@ TestMessage,MensajeDePrueba,module,Magento_Analytics
 "Apps and Games","Aplicaciones y juegos",module,Magento_Analytics
 "Athletic/Sporting Goods","Artículos deportivos",module,Magento_Analytics
 "Art and Design","Arte y diseño",module,Magento_Analytics
-"Free Tier","Free Tier",module,Magento_Analytics
+"Free Tier","Nivel libre",module,Magento_Analytics
 "An error occurred while subscription process.","Ha ocurrido un error en el proceso de suscripción.",module,Magento_Analytics
 Analytics,Análisis,module,Magento_Analytics
 API,API,module,Magento_Analytics
@@ -1558,8 +1558,8 @@ Products,Productos,module,Magento_Catalog
 "You removed product %1 from the comparison list.","Se quito el producto %1 de la lista de comparación.",module,Magento_Catalog
 "1 item","1 artículo",module,Magento_Catalog
 "%1 items","%1 artítulos",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
-"Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","¿Está seguro que desea eliminar este elemento de la lista de productos a comparar?",module,Magento_Catalog
+"Are you sure you want to remove all items from your Compare Products list?","¿Está seguro que desea eliminar todos los elementos de la lista de productos a comparar?",module,Magento_Catalog
 "Invalid attribute %1","Atributo %1 inválido",module,Magento_Catalog
 Grid,Parrilla,module,Magento_Catalog
 List,Lista,module,Magento_Catalog
@@ -1597,7 +1597,7 @@ frontend_label,frontend_label,module,Magento_Catalog
 Manual,Manuell,module,Magento_Catalog
 Fixed,Fijo,module,Magento_Catalog
 Percent,Porcentaje,module,Magento_Catalog
-Discount,Discount,module,Magento_Catalog
+Discount,Descuento,module,Magento_Catalog
 "-- Please select --","-- Por favor, seleccione --",module,Magento_Catalog
 "Product Thumbnail Itself","Miniaturansicht des Artikels selbst",module,Magento_Catalog
 "Parent Product Thumbnail","Hauptartikel Vorschaubild",module,Magento_Catalog
@@ -1640,7 +1640,7 @@ Category,Categoría,module,Magento_Catalog
 "SKU length should be %1 characters maximum.","La longitud de SKU debe ser de un máximo de %1 caracteres.",module,Magento_Catalog
 "Please enter a valid number in this field.","Por favor, introduzca un número válido en este campo.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Se encontró un sitio web duplicado, precios del segmento, grupo de clientes y cantidad.",module,Magento_Catalog
-"Percentage value must be a number between 0 and 100.","Percentage value must be a number between 0 and 100.",module,Magento_Catalog
+"Percentage value must be a number between 0 and 100.","El valor de procentaje debe ser un número entre 0 y 100.",module,Magento_Catalog
 "Invalid option id %1","Opción id %1 no válida",module,Magento_Catalog
 "Can not create attribute set based on non product attribute set.","No se puede crear el conjunto de atributos basado en conjunto de atributos que no es de artículos.",module,Magento_Catalog
 "Can not create attribute set based on not existing attribute set","No se puede crear el conjunto de atributos basado en conjunto de atributos que no existe.",module,Magento_Catalog
@@ -2516,7 +2516,7 @@ Quantity,Cantidad,module,Magento_CatalogStaging
 Visibility,Visibilidad,module,Magento_CatalogStaging
 Websites,"Sitios web",module,Magento_CatalogStaging
 "Create Permanent Redirect for old URL","Crear redirección permanente para URL antigua",module,Magento_CatalogUrlRewrite
-"Invalid URL key","Invalid URL key",module,Magento_CatalogUrlRewrite
+"Invalid URL key","Dirección URL no valida",module,Magento_CatalogUrlRewrite
 "Category URL Suffix","Sufijo URL de categoría",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.","Necesita actualizar la caché.",module,Magento_CatalogUrlRewrite
 "Product URL Suffix","Sufijo de URL de artículo",module,Magento_CatalogUrlRewrite
@@ -4118,7 +4118,7 @@ CSV,CSV,module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
 Segments,Segmentos,module,Magento_CustomerSegment
 "Add Segment","Añadir segmento",module,Magento_CustomerSegment
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_CustomerSegment
+"Are you sure you want to do this?","¿Está seguro de que quiere hacer esto?",module,Magento_CustomerSegment
 "Refresh Segment Data","Actualizar los datos de segmento",module,Magento_CustomerSegment
 "Save and Continue Edit","Save and Continue Edit",module,Magento_CustomerSegment
 "Edit Segment '%1'","Edite el segmento '%1'",module,Magento_CustomerSegment
