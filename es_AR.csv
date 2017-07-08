@@ -123,7 +123,7 @@ Customers,Clientes,module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","Añadiste %1 a tu carrito de compras.",module,Magento_AdvancedCheckout
 "You cannot add a product.","No puede agregar un artículo.",module,Magento_AdvancedCheckout
 "Order by SKU","Comprar por SKU",module,Magento_AdvancedCheckout
-"The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","El SKU no fue encontrado en el catálogo.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Disponibilidad: agotado.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","No tenemos la cantidad que usted desea.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","Imposible añadir esta cantidad al carro.",module,Magento_AdvancedCheckout
@@ -237,27 +237,27 @@ Edit,Editar,module,Magento_AdvancedSearch
 "Message has been rejected: %1","Mensaje ha sido rechazado: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Error al comprobar si el tema es sincrónico",module,Magento_Amqp
 "Subscription status","Estado de la suscripción",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
-"Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
-"Please select a vertical.","Please select a vertical.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-TestMessage,TestMessage,module,Magento_Analytics
-"Error message","Error message",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
-"Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
-"Free Tier","Free Tier",module,Magento_Analytics
-"An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Lo sentimos, ocurrió un error al procesar su petición. Por favor intentalo más tarde.",module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Lo sentimos, ocurrió un error al procesar tu solicitud de registro en Magento Analytics. Por favor intentalo más tarde.",module,Magento_Analytics
+"Error occurred during postponement notification","Se produjo un error durante la notificación de aplazamiento",module,Magento_Analytics
+"Command was not found.","Comando no encontrado.",module,Magento_Analytics
+"There was an error save new configuration value.","Ocurrió un error al guardar el nuevo valor de configuración.",module,Magento_Analytics
+"Please select a vertical.","Por favor, seleccioná un vertical.",module,Magento_Analytics
+"--Please Select--","--Por favor elegí--",module,Magento_Analytics
+"Cannot find predefined integration user!","¡No se puede encontrar el usuario de integración predefinido!",module,Magento_Analytics
+TestMessage,MensajeDePrueba,module,Magento_Analytics
+"Error message","Mensaje de error",module,Magento_Analytics
+"Apps and Games","Aplicaciones y juegos",module,Magento_Analytics
+"Athletic/Sporting Goods","Artículos deportivos",module,Magento_Analytics
+"Art and Design","Arte y diseño",module,Magento_Analytics
+"Free Tier","Nivel gratuito",module,Magento_Analytics
+"An error occurred while subscription process.","Ocurrió un error en el proceso de suscripción.",module,Magento_Analytics
 Analytics,Analytics,module,Magento_Analytics
 API,API,module,Magento_Analytics
-Configuration,Configuration,module,Magento_Analytics
-"BI Essential","BI Essential",module,Magento_Analytics
-"Basic Tier","Basic Tier",module,Magento_Analytics
-"BI Essentials","BI Essentials",module,Magento_Analytics
+Configuration,Configuración,module,Magento_Analytics
+"BI Essential","Esenciales de BI",module,Magento_Analytics
+"Basic Tier","Nivel básico",module,Magento_Analytics
+"BI Essentials","Esenciales de BI",module,Magento_Analytics
 General,General,module,Magento_Analytics
 "Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
 Vertical,Vertical,module,Magento_Analytics

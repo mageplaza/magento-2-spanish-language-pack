@@ -19,7 +19,7 @@ None,Ninguno,module,Magento_AdminGws
 Custom,Personalizado,module,Magento_AdminGws
 "Read Details","Leer detalles",module,Magento_AdminNotification
 "Mark as Read","Marcar como leído",module,Magento_AdminNotification
-"Are you sure?","¿Seguro que quiere continuar?",module,Magento_AdminNotification
+"Are you sure?","¿Seguro que quieres continuar?",module,Magento_AdminNotification
 Remove,Eliminar,module,Magento_AdminNotification
 "Messages Inbox","Bandeja de entrada",module,Magento_AdminNotification
 "You have %1 new system messages","Tiene %1 nuevos mensajes del sistema",module,Magento_AdminNotification
@@ -128,7 +128,7 @@ Customers,Clientes,module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","No tenemos la cantidad que usted desea.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","No puedes añadir esta cantidad a su carrito de compras.",module,Magento_AdvancedCheckout
 "You need to choose options for your item.","Tiene que elegir opciones para su elemento.",module,Magento_AdvancedCheckout
-"We can't add the item to your cart.","No pudimos añadir el artículo a su carrito de compras.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","No pudimos añadir el producto a tu carrito de compras.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","Introduzca un número en el campo ""Cantidad"", por favor.",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","Este artículo se asignó a otro sitio Web.",module,Magento_AdvancedCheckout
 "You can add only enabled products.","Puede agregar sólo artículos habilitados.",module,Magento_AdvancedCheckout
@@ -202,11 +202,11 @@ File,Archivo,module,Magento_AdvancedCheckout
 "The text of the link to the My Account &gt; Order by SKU page","El texto del enlace a mi cuenta &gt; comprar por página SKU",module,Magento_AdvancedCheckout
 "Load a list of SKUs","Cargar una lista de SKU",module,Magento_AdvancedCheckout
 "Order by SKU Template","Pedido por la plantilla de SKU",module,Magento_AdvancedCheckout
-"Please correct the data sent.","Por favor, corrija los datos enviados.",module,Magento_AdvancedPricingImportExport
+"Please correct the data sent.","Corrige los datos enviados.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","No se encuentra el modelo del tipo entidad '%1'",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Modelo de tipo de entidad debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","No se dispone de ningún tipo de producto para la exportación",module,Magento_AdvancedPricingImportExport
-"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","la clase %1 no implementa \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","La clase %1 no implementa \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
 "Sales Rule","Regla de Ventas",module,Magento_AdvancedSalesRule
 "Index sales rule","Indexar regla de venta",module,Magento_AdvancedSalesRule
 "Related Search Terms","Términos de búsqueda relacionados",module,Magento_AdvancedSearch
@@ -217,13 +217,13 @@ button_label,button_label,module,Magento_AdvancedSearch
 "Connection failed! Test again?","¡La conexión ha fallado! ¿Reintentar?",module,Magento_AdvancedSearch
 "Enable Search Recommendations","Habilitar recomendaciones de búsqueda",module,Magento_AdvancedSearch
 "When you enable this option your site may slow down.","Al habilitar esta opción puede ralentizar su sitio.",module,Magento_AdvancedSearch
-"Search Recommendations Count","Conteo de las recomendaciones de búsqueda",module,Magento_AdvancedSearch
-"Show Results Count for Each Recommendation","Mostrar resultados para cada recomendación",module,Magento_AdvancedSearch
+"Search Recommendations Count","Recuento de las recomendaciones de búsqueda",module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation","Mostrar el recuento de resultados para cada recomendación",module,Magento_AdvancedSearch
 "Enable Search Suggestions","Habilitar sugerencias de búsqueda",module,Magento_AdvancedSearch
-"Search Suggestions Count","Conteo de sugerencias de búsqueda",module,Magento_AdvancedSearch
-"Show Results Count for Each Suggestion","Mostrar resultados para cada sugerencia",module,Magento_AdvancedSearch
+"Search Suggestions Count","Recuento de sugerencias de búsqueda",module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion","Mostrar recuento de resultados para cada sugerencia",module,Magento_AdvancedSearch
 ID,ID,module,Magento_AdvancedSearch
-"Search Query","Consulta de búsqueda",module,Magento_AdvancedSearch
+"Search Query","Término de búsqueda",module,Magento_AdvancedSearch
 Store,Tienda,module,Magento_AdvancedSearch
 Results,Resultados,module,Magento_AdvancedSearch
 Uses,Usos,module,Magento_AdvancedSearch
@@ -233,7 +233,7 @@ Yes,Sí,module,Magento_AdvancedSearch
 No,No,module,Magento_AdvancedSearch
 Action,Acción,module,Magento_AdvancedSearch
 Edit,Editar,module,Magento_AdvancedSearch
-"RPC call failed, connection timed out after %time_out.","Error en la llamada RPC, se ha agotado el tiempo de espera después de %time_out.",module,Magento_Amqp
+"RPC call failed, connection timed out after %time_out.","Error en la llamada RPC, después de %time_out, se agotó el tiempo de conexión.",module,Magento_Amqp
 "Message has been rejected: %1","El mensaje ha sido rechazado: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Error al comprobar si el tema es sincrónico",module,Magento_Amqp
 "Subscription status","Estado de suscripción",module,Magento_Analytics
@@ -271,38 +271,38 @@ Back,Atrás,module,Magento_AsynchronousOperations
 Done,Hecho,module,Magento_AsynchronousOperations
 Retry,Reintentar,module,Magento_AsynchronousOperations
 "'Action Details - #' .","'Detalles de la acción - #'.",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
-"Bulk Actions Log","Bulk Actions Log",module,Magento_AsynchronousOperations
-"%1 item(s) are currently being updated.","%1 item(s) are currently being updated.",module,Magento_AsynchronousOperations
-"Task ""%1"":","Task ""%1"":",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.","%1 item(s) have been scheduled for update.",module,Magento_AsynchronousOperations
-"%1 item(s) have been successfully updated.","%1 item(s) have been successfully updated.",module,Magento_AsynchronousOperations
-"%1 item(s) failed to update","%1 item(s) failed to update",module,Magento_AsynchronousOperations
-Details,Details,module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","%1 de elemento(s) han sido catalogados para actualizacion",module,Magento_AsynchronousOperations
+"Bulk Actions Log","Registro de acciones en volumen",module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.","%1 elemento(s) esta siendo actualizado.",module,Magento_AsynchronousOperations
+"Task ""%1"":","Tarea ""%1"":",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.","%1 de elemento(s) han sido catalogados para actualizacion.",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 elemento(s) han sido actualizados correctamente.",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","%1 elemento(s) fallo al actualizarse",module,Magento_AsynchronousOperations
+Details,Detalles,module,Magento_AsynchronousOperations
 "View Details","Mostrar detalles",module,Magento_AsynchronousOperations
-Dismiss,Dismiss,module,Magento_AsynchronousOperations
-"Pending, in queue...","Pending, in queue...",module,Magento_AsynchronousOperations
-"%1 items selected for mass update","%1 items selected for mass update",module,Magento_AsynchronousOperations
-", %1 successfully updated",", %1 successfully updated",module,Magento_AsynchronousOperations
-", %1 failed to update",", %1 failed to update",module,Magento_AsynchronousOperations
-"Something went wrong.","Something went wrong.",module,Magento_AsynchronousOperations
-"Action Log","Action Log",module,Magento_AsynchronousOperations
-"Bulk Actions","Bulk Actions",module,Magento_AsynchronousOperations
-"Days Saved in Log","Days Saved in Log",module,Magento_AsynchronousOperations
-"Description of Operation","Description of Operation",module,Magento_AsynchronousOperations
-Summary,Summary,module,Magento_AsynchronousOperations
-"Start Time","Start Time",module,Magento_AsynchronousOperations
-"Items to Retry","Items to Retry",module,Magento_AsynchronousOperations
-"To retry, select the items and click “Retry”.","To retry, select the items and click “Retry”.",module,Magento_AsynchronousOperations
+Dismiss,Descartar,module,Magento_AsynchronousOperations
+"Pending, in queue...","Pendiente, en lista de espera...",module,Magento_AsynchronousOperations
+"%1 items selected for mass update","%1 elementos seleccionados para la actualización masiva",module,Magento_AsynchronousOperations
+", %1 successfully updated",", %1 actualizado correctamente",module,Magento_AsynchronousOperations
+", %1 failed to update",", %1 no pudo actualizar",module,Magento_AsynchronousOperations
+"Something went wrong.","Algo salió mal.",module,Magento_AsynchronousOperations
+"Action Log","Registro de acciones",module,Magento_AsynchronousOperations
+"Bulk Actions","Acciones en grupo",module,Magento_AsynchronousOperations
+"Days Saved in Log","Días guardados en registro",module,Magento_AsynchronousOperations
+"Description of Operation","Descripción de la operación",module,Magento_AsynchronousOperations
+Summary,Resumen,module,Magento_AsynchronousOperations
+"Start Time","Tiempo de Inicio",module,Magento_AsynchronousOperations
+"Items to Retry","Elementos a reintentar",module,Magento_AsynchronousOperations
+"To retry, select the items and click “Retry”.","Para volver a intentar, seleccione los elementos y haga clic en ""Reintentar"".",module,Magento_AsynchronousOperations
 "Items That Can’t Be Updated.","Elementos que no se pueden actualizar.",module,Magento_AsynchronousOperations
 ID,ID,module,Magento_AsynchronousOperations
-Status,Status,module,Magento_AsynchronousOperations
+Status,Estado,module,Magento_AsynchronousOperations
 Action,Acción,module,Magento_AsynchronousOperations
 "Meta Information","Meta Información",module,Magento_AsynchronousOperations
 Error,Error,module,Magento_AsynchronousOperations
-"Dismiss All Completed Tasks","Dismiss All Completed Tasks",module,Magento_AsynchronousOperations
-"Action Details - #","Action Details - #",module,Magento_AsynchronousOperations
-"Number of Records Affected","Number of Records Affected",module,Magento_AsynchronousOperations
+"Dismiss All Completed Tasks","Descartar Todas las Tareas Completadas",module,Magento_AsynchronousOperations
+"Action Details - #","Detalles de la acción - #",module,Magento_AsynchronousOperations
+"Number of Records Affected","Número de registros afectados",module,Magento_AsynchronousOperations
 "We can't find the role for the user you wanted.","No se puede encontrar el role para el usuario deseado.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Algo salió mal mientras se compilaba una lista de recursos permitidos. Puedes encontrar más información en el registro de excepciones.",module,Magento_Authorization
 "You created the order.","Has creado el pedido.",module,Magento_Authorizenet
@@ -1317,7 +1317,7 @@ Forms,Formularios,module,Magento_Captcha
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Utilice sólo letras (a-z o A-Z) o números (0-9) en este campo. Sin espacios u otros caracteres se permiten. <br /> caracteres similares (por ejemplo, ""i"", ""l"", ""1"") disminuyen posibilidades de reconocimiento correcto por el cliente.",module,Magento_Captcha
 "Case Sensitive","Sensible a mayúsculas",module,Magento_Captcha
 "Enable CAPTCHA on Storefront","Habilitar CAPTCHA en tienda",module,Magento_Captcha
-"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Si así se elige, el CAPTCHA estará siempre en funcionamiento en los formularios de ""Nuevo usuario"" y ""Olvido de contraseña"".",module,Magento_Captcha
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","El CAPTCHA estará habilitado siempre para los formularios de ""Nuevo usuario"" y ""Olvido de contraseña"", sólo si es elegido así.",module,Magento_Captcha
 Root,Raíz,module,Magento_Catalog
 Delete,Borrar,module,Magento_Catalog
 Save,Guardar,module,Magento_Catalog
@@ -1339,7 +1339,7 @@ Year,Año,module,Magento_Catalog
 [WEBSITE],[SITIO_WEB],module,Magento_Catalog
 "[STORE VIEW]","[VISTA DE TIENDA]",module,Magento_Catalog
 "WYSIWYG Editor","Editor WYSIWYG",module,Magento_Catalog
-"Add Product","Añadir artículo",module,Magento_Catalog
+"Add Product","Añadir producto",module,Magento_Catalog
 label,Etiqueta,module,Magento_Catalog
 "Product Attributes","Atributos del artículo",module,Magento_Catalog
 "Add New Attribute","Añadir nuevo atributo",module,Magento_Catalog
@@ -1687,9 +1687,9 @@ px.,px.,module,Magento_Catalog
 "The file is empty. Please choose another one","El archivo está vacío. Por favor, elija otro",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Algunos de los artículos seleccionados no están disponibles en este momento.",module,Magento_Catalog
 "The text is too long.","El texto es demasiado largo.",module,Magento_Catalog
-"Invalid attribute %fieldName = %fieldValue.","Invalid attribute %fieldName = %fieldValue.",module,Magento_Catalog
-"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
-"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
+"Invalid attribute %fieldName = %fieldValue.","Atributo inválido %fieldName = %fieldValue.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Tienda solicitada no se encuentra. ID de la fila: SKU = %SKU, ID de tienda: %storeId.",module,Magento_Catalog
+"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Costo Atributo no válido = %cost. ID de la fila: SKU = %SKU, ID de tienda: %storeId.",module,Magento_Catalog
 "Could not save Prices.","Could not save Prices.",module,Magento_Catalog
 "Could not delete Prices","Could not delete Prices",module,Magento_Catalog
 "Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
@@ -1730,12 +1730,12 @@ Search,Buscar,module,Magento_Catalog
 "Provided link type ""%1"" does not exist","El tipo de vínculo proveído ""%1"" no existe",module,Magento_Catalog
 "Invalid data provided for linked products","Datos proveídos no válidos para productos vinculados",module,Magento_Catalog
 "Product with SKU '%1' is not linked to product with SKU '%2'","El producto con SKU '%1' no está vinculado al producto con SKU '%2'",module,Magento_Catalog
-"Product %1 doesn't have linked %2 as %3","El artículo %1 no tiene un vínculo %2 como %3",module,Magento_Catalog
+"Product %1 doesn't have linked %2 as %3","El producto %1 no tiene vinculado %2 como %3",module,Magento_Catalog
 "Requested product doesn't exist","El producto solicitado no existe",module,Magento_Catalog
 "Requested product does not support images.","El producto solicitado no es compatible con imágenes.",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","El producto con SKU ""%1"" no existe",module,Magento_Catalog
 "Invalid product data: %1","Dato de producto no válido: %1",module,Magento_Catalog
-"Database connection error","Database connection error",module,Magento_Catalog
+"Database connection error","Error de conexión de la base de datos",module,Magento_Catalog
 "Database deadlock found when trying to get lock","Database deadlock found when trying to get lock",module,Magento_Catalog
 "Database lock wait timeout exceeded","Database lock wait timeout exceeded",module,Magento_Catalog
 "Unable to remove product %1","No se puede quitar el producto %1",module,Magento_Catalog
@@ -1763,7 +1763,7 @@ fl,fl,module,Magento_Catalog
 Images,Imágenes,module,Magento_Catalog
 Select...,Seleccionar...,module,Magento_Catalog
 "Advanced Pricing","Sistema avanzado de precios",module,Magento_Catalog
-"Customer Group Price","Customer Group Price",module,Magento_Catalog
+"Customer Group Price","Precio para grupo de clientes",module,Magento_Catalog
 "Customer Group","Grupo del cliente",module,Magento_Catalog
 "Special Price From","Precio especial a partir de",module,Magento_Catalog
 To,Hasta,module,Magento_Catalog
@@ -2102,7 +2102,7 @@ Open,Open,module,Magento_CatalogEvent
 Closed,Cerrado,module,Magento_CatalogEvent
 "Display Countdown Ticker On","Mostrar cuenta regresiva en",module,Magento_CatalogEvent
 "Category Page","Página de categoría",module,Magento_CatalogEvent
-"Product Page","Página de artículo",module,Magento_CatalogEvent
+"Product Page","Página de producto",module,Magento_CatalogEvent
 Status,Estatus,module,Magento_CatalogEvent
 [GLOBAL],[GLOBAL],module,Magento_CatalogEvent
 [WEBSITE],[WEBSEITE],module,Magento_CatalogEvent
@@ -2369,7 +2369,7 @@ Edit,Editar,module,Magento_CatalogRuleStaging
 Name,Nombre,module,Magento_CatalogRuleStaging
 Description,Descripción,module,Magento_CatalogRuleStaging
 "Update Information","Actualizar información",module,Magento_CatalogRuleStaging
-"Remove Catalog Price Rule from Update","Remove Catalog Price Rule from Update",module,Magento_CatalogRuleStaging
+"Remove Catalog Price Rule from Update","Quitar Catálogo precio regla de actualización",module,Magento_CatalogRuleStaging
 "Update Name","Actualizar nombre",module,Magento_CatalogRuleStaging
 "Start Date","Fecha de inicio",module,Magento_CatalogRuleStaging
 "End Date","Fecha de finalización",module,Magento_CatalogRuleStaging
@@ -2401,17 +2401,17 @@ All,Todo,module,Magento_CatalogSearch
 Yes,Sí,module,Magento_CatalogSearch
 No,No,module,Magento_CatalogSearch
 Results,Resultados,module,Magento_CatalogSearch
-"Advanced Search Results","Advanced Search Results",module,Magento_CatalogSearch
+"Advanced Search Results","Resultados de búsqueda avanzada",module,Magento_CatalogSearch
 Grid,Parrilla,module,Magento_CatalogSearch
 List,Lista,module,Magento_CatalogSearch
 "Search Weight","Buscar peso",module,Magento_CatalogSearch
-Relevance,Relevance,module,Magento_CatalogSearch
+Relevance,Relevancia,module,Magento_CatalogSearch
 "Search results for: '%1'","Resultados de búsqueda para: '%1'",module,Magento_CatalogSearch
 "Minimum Search query length is %1","Longitud mínima de consulta de búsqueda es %1",module,Magento_CatalogSearch
-"Please specify at least one search term.","Por favor, especifique al menos un término de búsqueda.",module,Magento_CatalogSearch
+"Please specify at least one search term.","Especifica al menos un término de búsqueda.",module,Magento_CatalogSearch
 "%1 and greater","%1 y mayor",module,Magento_CatalogSearch
 "up to %1","hasta %1",module,Magento_CatalogSearch
-". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver""",module,Magento_CatalogSearch
+". "" which is inconsistent with state of scope resolver""",". que es incompatible con el estado de resolución de alcance""",module,Magento_CatalogSearch
 Category,Categoría,module,Magento_CatalogSearch
 "%1 and above","%1 y superior",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
@@ -2420,16 +2420,16 @@ Category,Categoría,module,Magento_CatalogSearch
 Product,Producto,module,Magento_CatalogSearch
 "Search Settings","Ajustes de búsqueda",module,Magento_CatalogSearch
 Search,Buscar,module,Magento_CatalogSearch
-"Advanced Search","Búsqueda Avanzada",module,Magento_CatalogSearch
+"Advanced Search","Búsqueda avanzada",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>artículo %1</strong> se encontraron con los siguientes criterios de búsqueda",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 artículos</strong> se encontraron con los siguientes criterios de búsqueda",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","No podemos encontrar los elementos que cumplan estos criterios de búsqueda.",module,Magento_CatalogSearch
-"Modify your search.","Modifique su búsqueda.",module,Magento_CatalogSearch
+"Modify your search.","Modifica tu búsqueda.",module,Magento_CatalogSearch
 name,nombre,module,Magento_CatalogSearch
-"Don't see what you're looking for?","¿No encuentra lo que busca?",module,Magento_CatalogSearch
+"Don't see what you're looking for?","¿No encuentras lo que buscas?",module,Magento_CatalogSearch
 "Your search returned no results.","La búsqueda no ha devuelto ningún resultado.",module,Magento_CatalogSearch
 "Popular Search Terms","Términos de búsqueda populares",module,Magento_CatalogSearch
-"Catalog Search","Catálogo de búsquedas",module,Magento_CatalogSearch
+"Catalog Search","Búsqueda en catálogo",module,Magento_CatalogSearch
 "Minimal Query Length","Longitud mínima de búsqueda",module,Magento_CatalogSearch
 "Maximum Query Length","Longitud máxima de consulta",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Reconstruir catálogo Artículo todo el texto búsqueda índice",module,Magento_CatalogSearch
@@ -2524,7 +2524,7 @@ Websites,"Sitios web",module,Magento_CatalogStaging
 "Create Permanent Redirect for URLs if URL Key Changed","Crear redirección permanente para las URL si cambia la clave de URL",module,Magento_CatalogUrlRewrite
 "Catalog Url Rewrite Staging","Escenificación de reescritura de Url de Catálogo",module,Magento_CatalogUrlRewriteStaging
 "Conditions Combination","Combinación de Condiciones",module,Magento_CatalogWidget
-"Product Attribute","Atributos del artículo",module,Magento_CatalogWidget
+"Product Attribute","Atributo de producto",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
 "Please choose a condition to add.","Por favor, elige una condición para añadir.",module,Magento_CatalogWidget
 "Add to Cart","Añadir al carrito",module,Magento_CatalogWidget
@@ -2543,20 +2543,20 @@ Template,Plantilla,module,Magento_CatalogWidget
 "Cache Lifetime (Seconds)","Ciclo de vida caché (segundos)",module,Magento_CatalogWidget
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","La opción predeterminada es 86400, si no se configura. Para actualizarla instantáneamente, borre el caché de salida de bloques HTML.",module,Magento_CatalogWidget
 Conditions,Condiciones,module,Magento_CatalogWidget
-"Shopping Cart","Carrito de compras",module,Magento_Checkout
+"Shopping Cart",Carrito,module,Magento_Checkout
 "Invalid method: %1","Método inválido: %1",module,Magento_Checkout
 City,Ciudad,module,Magento_Checkout
 Country,País,module,Magento_Checkout
 State/Province,Estado/Provincia,module,Magento_Checkout
 "Zip/Postal Code","Código Postal",module,Magento_Checkout
-"My Cart (1 item)","Mi carrito (1 artículo)",module,Magento_Checkout
-"My Cart (%1 items)","Mi carrito de compras (%1 artículos)",module,Magento_Checkout
-"My Cart","Mi carrito de compras",module,Magento_Checkout
+"My Cart (1 item)","Mi carrito (1 producto)",module,Magento_Checkout
+"My Cart (%1 items)","Mi carrito (%1 artículos)",module,Magento_Checkout
+"My Cart","Mi cesta",module,Magento_Checkout
 "For delivery questions.","Para preguntas de entrega.",module,Magento_Checkout
 "Customer is already registered","Cliente ya está registrado",module,Magento_Checkout
-"Your session has expired","Su sesión ha caducado",module,Magento_Checkout
+"Your session has expired","Tu sesión ha caducado",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Se enviara un correo con mas instrucciones a su cuenta de correo.",module,Magento_Checkout
-"You added %1 to your shopping cart.","Añadiste %1 a tu cesta.",module,Magento_Checkout
+"You added %1 to your shopping cart.","Añadiste %1 a tu carrito.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","No podemos añadir este artículo a su carrito de compras ahora mismo.",module,Magento_Checkout
 "Out of stock",Agotado,module,Magento_Checkout
 "We can't find the quote item.","No podemos encontrar el artículo cotizado.",module,Magento_Checkout
@@ -2565,7 +2565,7 @@ State/Province,Estado/Provincia,module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","El cupón ""%1"" no es válido.",module,Magento_Checkout
 "You canceled the coupon code.","Usted canceló el código del cupón.",module,Magento_Checkout
 "We cannot apply the coupon code.","No se puede aplicar el código de cupón.",module,Magento_Checkout
-"We can't remove the item.","No se puede eliminar el artículo.",module,Magento_Checkout
+"We can't remove the item.","No se puede quitar el producto.",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 fueron actualizados en su carrito de la compra.",module,Magento_Checkout
 "We can't update the item right now.","No se puede actualizar el artículo ahora mismo.",module,Magento_Checkout
 "We can't update the shopping cart.","No podemos actualizar el carrito.",module,Magento_Checkout
@@ -2588,7 +2588,7 @@ Checkout,Cobro,module,Magento_Checkout
 "This quote item does not exist.","Este elemento cotizado no existe.",module,Magento_Checkout
 "Display number of items in cart","Mostrar el número de artículos en el carrito",module,Magento_Checkout
 "Display item quantities","Mostrar las cantidades de artículo",module,Magento_Checkout
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Checkout
+"An error occurred on the server. Please try to place the order again.","Se ha producido un error en el servidor. Intente realizar el pedido de nuevo.",module,Magento_Checkout
 "Shipping address is not set","La dirección de envió no esta establecida",module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","No se puede guardar la información de envío. Por favor, comprueba los datos introducidos.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Portador con tal método no encontrado: %1, %2",module,Magento_Checkout
@@ -2618,22 +2618,22 @@ Price,Precio,module,Magento_Checkout
 Qty,Cantidad,module,Magento_Checkout
 Subtotal,Subtotal,module,Magento_Checkout
 "Continue Shopping","Continuar comprando",module,Magento_Checkout
-"Clear Shopping Cart","Vaciar el Cesta",module,Magento_Checkout
-"Update Shopping Cart","Actualizar la Cesta",module,Magento_Checkout
-"Update Cart","Actualizar Carro",module,Magento_Checkout
+"Clear Shopping Cart","Vaciar el carrito",module,Magento_Checkout
+"Update Shopping Cart","Actualizar carrito",module,Magento_Checkout
+"Update Cart","Actualizar carrito",module,Magento_Checkout
 "See price before order confirmation.","Consulte el precio antes de la confirmación del pedido.",module,Magento_Checkout
 "What's this?","¿Qué es esto?",module,Magento_Checkout
-"Edit item parameters","Editar los parámetros del artículo",module,Magento_Checkout
+"Edit item parameters","Editar parámetros del artículo",module,Magento_Checkout
 Edit,Editar,module,Magento_Checkout
 "Remove item","Quitar artículo",module,Magento_Checkout
-"You have no items in your shopping cart.","No tienes ningún artículo en la cesta.",module,Magento_Checkout
+"You have no items in your shopping cart.","No tienes ningún artículo en tu carrito.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Haga clic <a href=""%1""> aquí</a> para continuar haciendo compras.",module,Magento_Checkout
 "Estimate Tax","Calcular impuestos",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimación de envío e impuestos",module,Magento_Checkout
 "Excl. Tax","Impuestos NO Incl.",module,Magento_Checkout
 Loading...,Cargando...,module,Magento_Checkout
 "Order #","Pedido nº",module,Magento_Checkout
-"Proceed to Checkout","Pasar por caja",module,Magento_Checkout
+"Proceed to Checkout","Tramitar pedido",module,Magento_Checkout
 "Product Name","Nombre del producto",module,Magento_Checkout
 "Incl. Tax","Impuestos incl.",module,Magento_Checkout
 "Your order number is: %1.","Su número de pedido es: %1.",module,Magento_Checkout
@@ -2644,7 +2644,7 @@ Loading...,Cargando...,module,Magento_Checkout
 Reason,Razón: ,module,Magento_Checkout
 "Checkout Type","Tipo de pago",module,Magento_Checkout
 Customer:,Cliente:,module,Magento_Checkout
-Items,Artículos,module,Magento_Checkout
+Items,Productos,module,Magento_Checkout
 Total:,Total:,module,Magento_Checkout
 "Billing Address:","Dirección de facturación:",module,Magento_Checkout
 "Shipping Address:","Direccion de envio:",module,Magento_Checkout
@@ -2662,16 +2662,16 @@ Cancel,Cancelar,module,Magento_Checkout
 "Estimated Total","Total estimado",module,Magento_Checkout
 "You can create an account after checkout.","Puede crear una cuenta después del cobro.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Ya tienes una cuenta con nosotros. Ingresar o continuar como invitado.",module,Magento_Checkout
-Login,"Inicio de sesión",module,Magento_Checkout
+Login,"Iniciar sesión",module,Magento_Checkout
 "See Details","Ver información",module,Magento_Checkout
 "Options Details","Detalles de las opciones",module,Magento_Checkout
 Remove,Eliminar,module,Magento_Checkout
-"Cart Subtotal","Subtotal del carrito de compras",module,Magento_Checkout
+"Cart Subtotal","Subtotal del carrito",module,Magento_Checkout
 "Payment Information","Información de pago",module,Magento_Checkout
 "No Payment method available.","Ningún método de pago está disponible.",module,Magento_Checkout
 "You can track your order status by creating an account.","Puedes verificar el estado de tu orden creando una cuenta.",module,Magento_Checkout
 "Place Order","Comprar ahora",module,Magento_Checkout
-"Forgot an Item?","¿Ha olvidado un artículo?",module,Magento_Checkout
+"Forgot an Item?","¿Ha olvidado un producto?",module,Magento_Checkout
 "Edit Your Cart","Editar Carrito",module,Magento_Checkout
 "Ship Here","Entregar aquí",module,Magento_Checkout
 "Ship To:","Enviar a:",module,Magento_Checkout
@@ -2685,22 +2685,22 @@ edit,editar,module,Magento_Checkout
 Next,Siguiente,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Lo sentimos, no hay cotizaciones disponibles para este pedido en este momento",module,Magento_Checkout
 "Order Summary","Resumen del pedido",module,Magento_Checkout
-"View and Edit Cart","Ver y Editar Carrito",module,Magento_Checkout
+"View and Edit Cart","Ver y editar carrito",module,Magento_Checkout
 "View Details","Ver información",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","El Código Postal parece no ser válido.",module,Magento_Checkout
 Example:,Ejemplo:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Si usted cree que es el correcto, puede ignorar este aviso.",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","¿Seguro que desea eliminar este artículo del carrito de la compra?",module,Magento_Checkout
 "Review & Payments","Revisión y Pagos",module,Magento_Checkout
-"Select a new payment method","Select a new payment method",module,Magento_Checkout
+"Select a new payment method","Seleccione un nuevo método de pago",module,Magento_Checkout
 Shipping,Envío,module,Magento_Checkout
 "Save Address","Guardar dirección",module,Magento_Checkout
 "Please specify a shipping method.","Por favor, especifique un modo de envío.",module,Magento_Checkout
 "Checkout Options","Opciones para el proceso de pago",module,Magento_Checkout
-"Enable Onepage Checkout","Habilitar proceso de pago en una sola página",module,Magento_Checkout
+"Enable Onepage Checkout","Habilitar Checkout en una sola página",module,Magento_Checkout
 "Allow Guest Checkout","Permitir proceso de pago para visitantes",module,Magento_Checkout
 "Display Billing Address On","Display Billing Address On",module,Magento_Checkout
-"Maximum Number of Items to Display in Order Summary","Maximum Number of Items to Display in Order Summary",module,Magento_Checkout
+"Maximum Number of Items to Display in Order Summary","Número máximo de elementos a mostrar en resumen de pedido",module,Magento_Checkout
 "Quote Lifetime (days)","Gültigkeit der Preise im Warenkorb (in Tagen)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Nach Hinzufügen eines Artikels zum Warenkorb weiterleiten",module,Magento_Checkout
 "Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
@@ -2709,7 +2709,7 @@ Shipping,Envío,module,Magento_Checkout
 "Shopping Cart Sidebar","Barra lateral del carrito de compras",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Mostrar la barra lateral del carrito de compras",module,Magento_Checkout
 "Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
-"Maximum Number of Items to Display","Maximum Number of Items to Display",module,Magento_Checkout
+"Maximum Number of Items to Display","Número máximo de elementos a mostrar",module,Magento_Checkout
 "Payment Failed Emails","Fehlgeschlagene Zahlung - eMail",module,Magento_Checkout
 "Payment Failed Email Sender","Fehlgeschlagene Zahlung - eMail-Absender",module,Magento_Checkout
 "Payment Failed Email Receiver","Receptor de Email de Pagos Fallidos",module,Magento_Checkout
@@ -2723,12 +2723,12 @@ Summary,Resumen,module,Magento_Checkout
 "We'll send your order confirmation here.","Aquí te enviaremos la confirmación de tu pedido.",module,Magento_Checkout
 Payment,Pago,module,Magento_Checkout
 "Not yet calculated","Aún no se ha calculado",module,Magento_Checkout
-"We received your order!","¡Hemos recibido su pedido!",module,Magento_Checkout
-"Thank you for your purchase!","¡Gracias por su compra!",module,Magento_Checkout
+"We received your order!","¡Hemos recibido tu pedido!",module,Magento_Checkout
+"Thank you for your purchase!","¡Gracias por tu compra!",module,Magento_Checkout
 "Go to Checkout","Ir a pagar",module,Magento_Checkout
-"View and edit cart","Ver y editar carrito de compras",module,Magento_Checkout
-"Item in Cart","Artículo en el carrito de compras",module,Magento_Checkout
-"Items in Cart","Artículos en el carrito de compras",module,Magento_Checkout
+"View and edit cart","Ver y editar carrito",module,Magento_Checkout
+"Item in Cart","Producto en el carrito",module,Magento_Checkout
+"Items in Cart","Productos en el carrito de compras",module,Magento_Checkout
 "Terms and Conditions","Términos y condiciones",module,Magento_CheckoutAgreements
 "Add New Condition","Añadir Nueva Condición",module,Magento_CheckoutAgreements
 "Save Condition","Guardar condición",module,Magento_CheckoutAgreements
@@ -2936,7 +2936,7 @@ Name,Nombre,module,Magento_CmsStaging
 Description,Descripción,module,Magento_CmsStaging
 Action,Acción,module,Magento_CmsStaging
 "Update Information","Actualizar información",module,Magento_CmsStaging
-"Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
+"Remove CMS block from Update","Quitar bloque CMS de actualización",module,Magento_CmsStaging
 "Update Name","Actualizar nombre",module,Magento_CmsStaging
 "Start Date","Fecha de inicio",module,Magento_CmsStaging
 "End Date","Fecha de finalización",module,Magento_CmsStaging
@@ -2994,8 +2994,8 @@ Add,Agregar,module,Magento_Config
 Enable,Activado,module,Magento_Config
 Disable,Desactivar,module,Magento_Config
 Configuration,Configuración,module,Magento_Config
-"Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Config
-"%1 should implement %2","%1 should implement %2",module,Magento_Config
+"Class for type ""%1"" was not declared","No se declaró la clase de tipo ""%1""",module,Magento_Config
+"%1 should implement %2","%1 debe implementar %2",module,Magento_Config
 "We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.","We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.",module,Magento_Config
 "The value you set has already been locked. To change the value, use the --%1 option.","The value you set has already been locked. To change the value, use the --%1 option.",module,Magento_Config
 %1,%1,module,Magento_Config
@@ -3111,7 +3111,7 @@ Summary,Resumen,module,Magento_ConfigurableProduct
 "Choose an Option...","Elegir una opción...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Este atributo se utiliza en artículos configurables.",module,Magento_ConfigurableProduct
 "Product has been already attached","El producto ya se adjunto",module,Magento_ConfigurableProduct
-"Parent product does not have configurable product options","Parent product does not have configurable product options",module,Magento_ConfigurableProduct
+"Parent product does not have configurable product options","El producto principal no tiene opciones configurables de producto",module,Magento_ConfigurableProduct
 "Child product does not have attribute value %1","Child product does not have attribute value %1",module,Magento_ConfigurableProduct
 "Product with specified sku: %1 is not a configurable product","Producto con el sku: %1 no es un producto configurable",module,Magento_ConfigurableProduct
 "Requested option doesn't exist","La opción solicitada no existe",module,Magento_ConfigurableProduct
@@ -3291,7 +3291,7 @@ Contacts,Contactos,module,Magento_Contact
 "Invalid cookie lifetime: %1","Duración de cookie inválida: %1",module,Magento_Cookie
 "Invalid cookie path","Ruta de cookie no válida",module,Magento_Cookie
 "We use cookies to make your experience better.","Utilizamos cookies para mejorar tu experiencia.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Para cumplir con la nueva Directiva sobre privacidad electrónica, tenemos que pedir su consentimiento establecer cookies.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Para cumplir con la nueva directiva sobre privacidad electrónica, necesitamos el consentimiento para utilizar tus cookies.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1""> Aprende más</a>.",module,Magento_Cookie
 "Allow Cookies","Permitir Cookies",module,Magento_Cookie
 "Default Cookie Settings","Opciones de Cookies por defecto",module,Magento_Cookie
@@ -3302,8 +3302,8 @@ Contacts,Contactos,module,Magento_Contact
 "Cookie Restriction Mode","Modo restrictivo de la cookie",module,Magento_Cookie
 "We can't save the cron expression.","No podemos guardar la expresión cron.",module,Magento_Cron
 Daily,Diario,module,Magento_Cron
-Weekly,Semanalmente,module,Magento_Cron
-Monthly,Mensualmente,module,Magento_Cron
+Weekly,Semanal,module,Magento_Cron
+Monthly,Mensual,module,Magento_Cron
 "Invalid cron expression: %1","Expresión cron inválida: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'match/modulus': %1","La expresión de cron no es válida, se espera 'match/modulus': %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Expresión cron inválida, esperando módulo numérico: %1",module,Magento_Cron
@@ -3350,20 +3350,20 @@ No,No,module,Magento_CustomAttributeManagement
 Yes,Sí,module,Magento_CustomAttributeManagement
 "Use helper with defined EAV entity.","Usar helper con entidad EAV definida.",module,Magento_CustomAttributeManagement
 "Default EAV Form","Formulario EAV predeterminado",module,Magento_CustomAttributeManagement
-"Please correct the values for minimum and maximum text length validation rules.","Por favor corrija los valores para las reglas de validación de longitud mínima y máxima de texto.",module,Magento_CustomAttributeManagement
-"Please correct the values for minimum and maximum date validation rules.","Por favor corrija los valores para las reglas de validación de fecha mínima y máxima.",module,Magento_CustomAttributeManagement
+"Please correct the values for minimum and maximum text length validation rules.","Por favor corrige los valores para las reglas de validación de longitud mínima y máxima de texto.",module,Magento_CustomAttributeManagement
+"Please correct the values for minimum and maximum date validation rules.","Por favor corrige los valores para las reglas de validación de fecha mínima y máxima.",module,Magento_CustomAttributeManagement
 "Text Field","Campo de texto",module,Magento_CustomAttributeManagement
 "Text Area","Área de texto",module,Magento_CustomAttributeManagement
 "Multiple Line","Línea múltiple",module,Magento_CustomAttributeManagement
 Date,Fecha,module,Magento_CustomAttributeManagement
 Dropdown,"Lista desplegable",module,Magento_CustomAttributeManagement
 "Multiple Select","Selección múltiple",module,Magento_CustomAttributeManagement
-Yes/No,Si/No,module,Magento_CustomAttributeManagement
+Yes/No,Sí/No,module,Magento_CustomAttributeManagement
 "File (attachment)","Archivo (adjunto)",module,Magento_CustomAttributeManagement
 "Image File","Archivo de imagen",module,Magento_CustomAttributeManagement
 Alphanumeric,Alfanumérico,module,Magento_CustomAttributeManagement
 "Numeric Only","Sólo numérico",module,Magento_CustomAttributeManagement
-"Alpha Only","Alpha únicamente",module,Magento_CustomAttributeManagement
+"Alpha Only","Sólo alfanumérico",module,Magento_CustomAttributeManagement
 URL,URL,module,Magento_CustomAttributeManagement
 Email,"Correo electrónico",module,Magento_CustomAttributeManagement
 "Strip HTML Tags","Eliminar etiquetas HTML",module,Magento_CustomAttributeManagement
@@ -3426,7 +3426,7 @@ Purchased,Comprada,module,Magento_Customer
 "Order Total","Total del Pedido",module,Magento_Customer
 "Purchase Point","Punto de compra",module,Magento_Customer
 "Customer View","Vista cliente",module,Magento_Customer
-"There are no items in customer's shopping cart.","No hay artículos en la cesta de la compra del cliente.",module,Magento_Customer
+"There are no items in customer's shopping cart.","No hay productos en la cesta de la compra del cliente.",module,Magento_Customer
 Qty,Cantidad,module,Magento_Customer
 Confirmed,Confirmado,module,Magento_Customer
 "Confirmation Required","Confirmación necesaria",module,Magento_Customer
@@ -4330,13 +4330,13 @@ Debug,Depurar,module,Magento_Cybersource
 "Class for type ""%1"" was not declared","No se declaró la clase de tipo ""%1""",module,Magento_Deploy
 "%1 does not implement %2","%1 no implementa %2",module,Magento_Deploy
 "Value can't be empty","El valor no puede estar vacío",module,Magento_Deploy
-"A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive",module,Magento_Deploy
-"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","File app/etc/%1 can't be read. Please check if it exists and has read permissions.",module,Magento_Deploy
-"There are no sensitive configurations to fill","There are no sensitive configurations to fill",module,Magento_Deploy
+"A configuration with this path does not exist or is not sensitive","Una configuración con esta ruta no existe o no es sensible",module,Magento_Deploy
+"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","No se puede leer el archivo de la aplicación/etcetera/%1. Por favor comprueba si existe y tiene permisos de lectura.",module,Magento_Deploy
+"There are no sensitive configurations to fill","Hay no hay configuraciones sensibles para llenar",module,Magento_Deploy
 "Cannot switch into given mode ""%1""","No se puede cambiar al modo dado ""%1""",module,Magento_Deploy
-"Compilation from source:","Compilation from source:",module,Magento_Deploy
-"Wrong deploy strategy type: %1","Wrong deploy strategy type: %1",module,Magento_Deploy
-"some message","some message",module,Magento_Deploy
+"Compilation from source:","Compilación de fuente:",module,Magento_Deploy
+"Wrong deploy strategy type: %1","Implementar mal tipo de estrategia: %1",module,Magento_Deploy
+"some message","algún mensaje",module,Magento_Deploy
 "Format for IDE '%1' is not supported","Formato para IDE '%1' no es compatible",module,Magento_Developer
 "Client side compilation doesn't work in production mode","La compilación desde el lado cliente no funciona en modo producción",module,Magento_Developer
 "Client side less compilation","Compilación Less Client Side",module,Magento_Developer
@@ -4347,8 +4347,8 @@ Debug,Depurar,module,Magento_Cybersource
 "Developer Client Restrictions","Desarrolo Restricciones del cliente",module,Magento_Developer
 "Allowed IPs (comma separated)","IP permitidas (separadas por comas)",module,Magento_Developer
 "Leave empty for access from any location.","Dejar en blanco para acceder desde cualquier lugar.",module,Magento_Developer
-"Log to File","Log to File",module,Magento_Developer
-"Not available in production mode.","Not available in production mode.",module,Magento_Developer
+"Log to File","Registrar en archivo",module,Magento_Developer
+"Not available in production mode.","No disponible en modo de producción.",module,Magento_Developer
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Seleccione esta opción para permitir a DHL optimizar gastos de envío mediante la división del pedido si excede %1 %2.",module,Magento_Dhl
 "Wrong Content Type","Tipo de contenido incorrecto",module,Magento_Dhl
 Pounds,Libras,module,Magento_Dhl
@@ -4500,7 +4500,7 @@ Unlimited,Ilimitado,module,Magento_Downloadable
 "Invalid download link type.","Tipo de enlace de descarga no válido.",module,Magento_Downloadable
 "Something went wrong while saving the file(s).","Algo salió mal al guardar los archivos.",module,Magento_Downloadable
 "Provided content must be valid base64 encoded data.","El contenido proporcionado debe ser datos base64 codificado válido.",module,Magento_Downloadable
-"Provided file name contains forbidden characters.","Provided file name contains forbidden characters.",module,Magento_Downloadable
+"Provided file name contains forbidden characters.","El nombre del archivo contiene caracteres prohibidos.",module,Magento_Downloadable
 "Link file not provided","Archivo de enlace no proporcionado",module,Magento_Downloadable
 "Link price must have numeric positive value.","Precio de enlace debe tener valor numérico positivo.",module,Magento_Downloadable
 "Number of downloads must be a positive integer.","Número de descargas debe ser un número entero positivo.",module,Magento_Downloadable
@@ -4953,7 +4953,7 @@ Pounds,Libras,module,Magento_Fedex
 Kilograms,Kilogramos,module,Magento_Fedex
 "Invalid response from carrier","Invalid response from carrier",module,Magento_Fedex
 "No available tracking items","No available tracking items",module,Magento_Fedex
-"For some reason we can't retrieve tracking info right now.","Por alguna razón no se puede obtener la información de rastreo en este momento.",module,Magento_Fedex
+"For some reason we can't retrieve tracking info right now.","Por alguna razón no se puede obtener la información de seguimiento en este momento.",module,Magento_Fedex
 status,estado,module,Magento_Fedex
 "Empty response","Respuesta vacía",module,Magento_Fedex
 None,Ninguno,module,Magento_Fedex
@@ -5570,7 +5570,7 @@ Listed,Listado,module,Magento_GiftRegistry
 "Gift Wrapping","Envolver para regalo",module,Magento_GiftWrapping
 "Add Gift Wrapping","Agregar envoltura de regalo",module,Magento_GiftWrapping
 "Save and Continue Edit","Save and Continue Edit",module,Magento_GiftWrapping
-"Are you sure you want to delete this gift wrapping?","¿Está seguro que desea eliminar esta envoltura de regalo?",module,Magento_GiftWrapping
+"Are you sure you want to delete this gift wrapping?","¿Estás seguro que desea eliminar esta envoltura de regalo?",module,Magento_GiftWrapping
 "Edit Gift Wrapping ""%1""","Editar envoltura de regalo ""%1""",module,Magento_GiftWrapping
 "New Gift Wrapping","Nueva envoltura de regalo",module,Magento_GiftWrapping
 "Gift Wrapping Information","Información de la envoltura de regalo",module,Magento_GiftWrapping
@@ -5589,7 +5589,7 @@ Image,Imagen,module,Magento_GiftWrapping
 "Something went wrong while updating the wrapping(s) status.","Algo salió mal al actualizar el estado de la envoltura.",module,Magento_GiftWrapping
 "You deleted the gift wrapping.","Eliminó la envoltura de regalos.",module,Magento_GiftWrapping
 %1,%1,module,Magento_GiftWrapping
-"Please select items.","Por favor seleccione los artículos.",module,Magento_GiftWrapping
+"Please select items.","Por favor selecciona productos.",module,Magento_GiftWrapping
 "You deleted a total of %1 records.","Ha eliminado un total de %1 registros.",module,Magento_GiftWrapping
 "You have not uploaded the image.","No ha subido la imagen.",module,Magento_GiftWrapping
 "You saved the gift wrapping.","Guardaste la envoltura de regalo.",module,Magento_GiftWrapping
@@ -5701,7 +5701,7 @@ SKU,"Unidad de mantenimiento de existencias (SKU)",module,Magento_GroupedProduct
 Price,Precio,module,Magento_GroupedProduct
 "Default Quantity","Cantidad predeterminada",module,Magento_GroupedProduct
 Actions,Acciones,module,Magento_GroupedProduct
-"Associated Products","Artículos asociados",module,Magento_GroupedProduct
+"Associated Products","Productos asociados",module,Magento_GroupedProduct
 Availability:,Disponibilidad:,module,Magento_GroupedProduct
 "Out of stock",Agotado,module,Magento_GroupedProduct
 "Product Name","Nombre del artículo",module,Magento_GroupedProduct
@@ -5735,11 +5735,11 @@ Export,Exportar,module,Magento_ImportExport
 "Export Settings","Exportar la configuración",module,Magento_ImportExport
 "Entity Type","Tipo de datos",module,Magento_ImportExport
 "Export File Format","Exportar el formato de archivo",module,Magento_ImportExport
-"Fields Enclosure","Fields Enclosure",module,Magento_ImportExport
+"Fields Enclosure","Recinto de los campos",module,Magento_ImportExport
 From,Desde,module,Magento_ImportExport
 To,Hasta,module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","No podemos filtrar un atributo sin opciones de atributo.",module,Magento_ImportExport
-"Fixed Price: From","Fixed Price: From",module,Magento_ImportExport
+"Fixed Price: From","Precio fijo: de",module,Magento_ImportExport
 Exclude,Excluir,module,Magento_ImportExport
 "Attribute Label","Etiqueta de atributo",module,Magento_ImportExport
 "Attribute Code","Código de atributo",module,Magento_ImportExport
@@ -6880,7 +6880,7 @@ Import,Importar,module,Magento_OfflineShipping
 "Backend port","Puerto de backend",module,Magento_PageCache
 "Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Especificar el puerto de backend para la generación de archivo de config. Si el campo está vacío se guardará el valor predeterminado 8080.",module,Magento_PageCache
 "Grace period","Período de gracia",module,Magento_PageCache
-"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.",module,Magento_PageCache
+"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Especifique el período de gracia en segundos para generación de archivo de config. Si el campo está vacío se guardarán el valor por defecto 300. Este período de gracia se utilizará para servir contenido almacenado en caché cuando el servidor está sano. Si el servidor no es saludable, contenido almacenado en caché se servirá durante 3 días antes.",module,Magento_PageCache
 "TTL for public content","TTL para contenido público",module,Magento_PageCache
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","En duración en caché de contenido público en segundos. Si el campo está vacío se guardarán el valor por defecto 86400.",module,Magento_PageCache
 "Page Cache","Caché de la página",module,Magento_PageCache
@@ -7585,7 +7585,7 @@ User,Usuario,module,Magento_Paypal
 "We can't update the alert subscription right now.","No podemos actualizar la suscripción de alerta en este momento.",module,Magento_ProductAlert
 "Alert subscription has been saved.","Alerta de suscripción guardada.",module,Magento_ProductAlert
 "You deleted the alert subscription.","Eliminó la suscripción de alertas.",module,Magento_ProductAlert
-"We can't find the product.","No se puede encontrar el artículo.",module,Magento_ProductAlert
+"We can't find the product.","No podemos encontrar el producto.",module,Magento_ProductAlert
 "You will no longer receive price alerts for this product.","Usted no recibirá más alertas de precio para este artículo.",module,Magento_ProductAlert
 "Unable to update the alert subscription.","Imposible actualizar la suscripción de alerta.",module,Magento_ProductAlert
 "You will no longer receive stock alerts for this product.","Usted no recibirá más alertas de existencias para este artículo.",module,Magento_ProductAlert
@@ -7627,7 +7627,7 @@ Description,Descripción,module,Magento_ProductVideo
 Role,Rol,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","Youtube y Vimeo admitidos.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo aceptado.< br />Para agregar el video de YouTube, por favor <a href=""%1""> Introduzca la clave de la API de YouTube</a> primero.",module,Magento_ProductVideo
-"Protocol isn't allowed","Protocol isn't allowed",module,Magento_ProductVideo
+"Protocol isn't allowed","Protocolo no está permitido",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","No se pudo obtener información de la imagen de vista previa. Por favor, compruebe su conexión y vuelva a intentarlo.",module,Magento_ProductVideo
 "Add Video","Añadir vídeo",module,Magento_ProductVideo
 "Browse to find or drag image here","Selecciona o arrastra la imagen aquí",module,Magento_ProductVideo
@@ -7899,7 +7899,7 @@ No,No,module,Magento_Reports
 Refresh,Actualizar,module,Magento_Reports
 "We can't find records for this period.","No encontramos registros durante este período.",module,Magento_Reports
 "Show Reviews","Kundenrezensionen anzeigen",module,Magento_Reports
-"Products Report","Informe de artículos",module,Magento_Reports
+"Products Report","Informe de productos",module,Magento_Reports
 Downloads,Descargas,module,Magento_Reports
 Product,Producto,module,Magento_Reports
 Link,Enlace,module,Magento_Reports
@@ -8553,7 +8553,7 @@ Price,Precio,module,Magento_Rma
 "This is the wrong RMA ID.","Esta es la ID de RMA incorrecta.",module,Magento_Rma
 "We cannot display the available shipping methods.","No podemos mostrar los métodos de envío disponibles.",module,Magento_Rma
 "We cannot initialize an RMA to delete a tracking number.","No podemos inicializar un RMA para borrar un número de seguimiento.",module,Magento_Rma
-"We can't delete the tracking number right now.","No podemos eliminar el número de rastreo en este momento.",module,Magento_Rma
+"We can't delete the tracking number right now.","No podemos eliminar el número de seguimiento en este momento.",module,Magento_Rma
 "We can't save this RMA.","No podemos guardar este RMA.",module,Magento_Rma
 "You saved the RMA request.","Guardó la solicitud RMA.",module,Magento_Rma
 "You did not email your customer. Please check your email settings.","No enviar un mensaje por correo electrónico a su cliente. Por favor, compruebe su configuración de correo electrónico.",module,Magento_Rma
@@ -8563,7 +8563,7 @@ Price,Precio,module,Magento_Rma
 "Page not found.","Página no encontrada.",module,Magento_Rma
 "Shipping Labels are not allowed.","No se permiten etiquetas de envío.",module,Magento_Rma
 "Please select a valid carrier.","Por favor, seleccione un operador válido.",module,Magento_Rma
-"Please enter a valid tracking number.","Por favor, introduzca un número de rastreo válido.",module,Magento_Rma
+"Please enter a valid tracking number.","Por favor, introduce un número de seguimiento válido.",module,Magento_Rma
 "We can't add a label right now.","No podemos añadir una etiqueta en este momento.",module,Magento_Rma
 "You selected the wrong RMA.","Ha seleccionado la RMA incorrecta.",module,Magento_Rma
 "We can't create a return transaction for order #%1.","No podemos crear una transacción de devolución para la orden #%1.",module,Magento_Rma
@@ -9685,7 +9685,7 @@ Shipment,Envío,module,Magento_SalesArchive
 "Total Quantity","Cantidad Total",module,Magento_SalesArchive
 "Go to Archive","Ir a archivo",module,Magento_SalesArchive
 "The ""%1"" product is not part of the current creditmemo.","El producto ""%1"" no forma parte de la devolución.",module,Magento_SalesInventory
-"The return to stock argument contains product item that is not part of the original order.","The return to stock argument contains product item that is not part of the original order.",module,Magento_SalesInventory
+"The return to stock argument contains product item that is not part of the original order.","La vuelta al argumento común contiene producto de que no es parte de la orden original.",module,Magento_SalesInventory
 "Cart Price Rules","Regla de precio para el carrito de compras",module,Magento_SalesRule
 "Add New Rule","Añadir nueva regla",module,Magento_SalesRule
 Delete,Borrar,module,Magento_SalesRule
@@ -9859,7 +9859,7 @@ Edit,Editar,module,Magento_SalesRuleStaging
 Name,Nombre,module,Magento_SalesRuleStaging
 Description,Descripción,module,Magento_SalesRuleStaging
 "Update Information","Actualizar información",module,Magento_SalesRuleStaging
-"Remove Cart Price Rule from Update","Remove Cart Price Rule from Update",module,Magento_SalesRuleStaging
+"Remove Cart Price Rule from Update","Quitar carrito precio regla de actualización",module,Magento_SalesRuleStaging
 "Update Name","Actualizar nombre",module,Magento_SalesRuleStaging
 "Start Date","Fecha de inicio",module,Magento_SalesRuleStaging
 "End Date","Fecha de finalización",module,Magento_SalesRuleStaging
@@ -10066,7 +10066,7 @@ Store,Tienda,module,Magento_Search
 "ex. http://domain.com","por ejemplo, http://dominio.es",module,Magento_Search
 "Display in Suggested Terms","Mostrar en términos sugeridos",module,Magento_Search
 "The synonym group has been deleted.","Se ha eliminado el grupo de sinónimos.",module,Magento_Search
-"An error was encountered while performing delete operation.","An error was encountered while performing delete operation.",module,Magento_Search
+"An error was encountered while performing delete operation.","Se ha producido un error mientras realiza la operación de eliminación.",module,Magento_Search
 "We can't find a synonym group to delete.","No podemos encontrar un grupo de sinónimos para borrar.",module,Magento_Search
 "This synonyms group no longer exists.","El grupo de sinónimos, ya no existe.",module,Magento_Search
 "Edit Synonym Group","Editar grupo de sinónimos",module,Magento_Search
@@ -10204,7 +10204,7 @@ Enabled,Habilitado,module,Magento_SendFriend
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Estas tratando de agregar una cantidad para algunos productos que no coincide con la cantidad que fue enviada.",module,Magento_Shipping
 "Products should be added to package(s)","Los artículos deberían ser añadidos a paquete(s)",module,Magento_Shipping
 "The value that you entered is not valid.","El valor que ha introducido no es válido.",module,Magento_Shipping
-"Add Tracking Number","Añadir código de seguimiento",module,Magento_Shipping
+"Add Tracking Number","Añadir número de seguimiento",module,Magento_Shipping
 "Custom Value","Valor personalizado",module,Magento_Shipping
 Add,Agregar,module,Magento_Shipping
 "Send Tracking Information","Enviar información de seguimiento",module,Magento_Shipping
@@ -10222,7 +10222,7 @@ Print,Imprimir,module,Magento_Shipping
 "View Another Order","Ver otro pedido",module,Magento_Shipping
 "Please enter a comment.","Por favor, escribe un comentario.",module,Magento_Shipping
 "Cannot add new comment.","No se puede agregar un nuevo comentario.",module,Magento_Shipping
-"Please specify a carrier.","Por favor especifique un portador.",module,Magento_Shipping
+"Please specify a carrier.","Por favor especifica una mensajería.",module,Magento_Shipping
 "Please enter a tracking number.","Por favor, introduzca un número de seguimiento.",module,Magento_Shipping
 Shipments,Albaranes,module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","No podemos inicializar envío para agregar el número de seguimiento.",module,Magento_Shipping
@@ -10235,7 +10235,7 @@ Shipments,Albaranes,module,Magento_Shipping
 "New Shipment","Nuevo envío",module,Magento_Shipping
 "We don't recognize or support the file extension in this shipment: %1.","No reconocemos o admitimos la extensión de archivo en este envío: %1.",module,Magento_Shipping
 "We can't initialize shipment for delete tracking number.","No podemos inicializar el envío para borrar el número de seguimiento.",module,Magento_Shipping
-"We can't delete tracking number.","No podemos eliminar el número de rastreo.",module,Magento_Shipping
+"We can't delete tracking number.","No podemos eliminar el número de seguimiento.",module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","No podemos cargar la pista con el identificador de recoleccion en este momento.",module,Magento_Shipping
 "We can't save the shipment right now.","No podemos guardar el envío en este momento.",module,Magento_Shipping
 """Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" .",module,Magento_Shipping
@@ -10278,13 +10278,13 @@ Qty,Cantidad,module,Magento_Shipping
 "No detail for number ""%1""","Ningún detalle para el número ""%1""",module,Magento_Shipping
 "Shipping labels is not available.","Las etiquetas de envío no están disponibles.",module,Magento_Shipping
 "Response info is not exist.","No existe información de la respuesta.",module,Magento_Shipping
-"Invalid carrier: %1","Portador no válido: %1",module,Magento_Shipping
+"Invalid carrier: %1","Transportista no válido: %1",module,Magento_Shipping
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","No tenemos suficiente información para crear etiquetas de envío. Por favor, asegúrese de que su información y configuración están completas.",module,Magento_Shipping
 "Per Order","Por pedido",module,Magento_Shipping
 "Per Package","Por paquete",module,Magento_Shipping
 Fixed,Fijo,module,Magento_Shipping
 Percent,Porcentaje,module,Magento_Shipping
-"Tracking information is unavailable.","Información de rastreo no está disponible.",module,Magento_Shipping
+"Tracking information is unavailable.","Información de seguimiento no disponible.",module,Magento_Shipping
 message,mensaje,module,Magento_Shipping
 "Email has not been sent","Correo electrónico no ha sido enviado",module,Magento_Shipping
 "Payment &amp; Shipping Method","Pago y método de envío",module,Magento_Shipping
@@ -10304,7 +10304,7 @@ Ship,Enviar,module,Magento_Shipping
 "Append Comments","Anexar comentarios",module,Magento_Shipping
 "Email Copy of Shipment","Enviar una copia del envío por correo electrónico",module,Magento_Shipping
 "Invalid value(s) for Qty to Ship","Valor(es) invalidos de Cantidad para Envio",module,Magento_Shipping
-"Select All","Seleccionar Todo",module,Magento_Shipping
+"Select All","Seleccionar todo",module,Magento_Shipping
 "Product Name","Nombre del producto",module,Magento_Shipping
 Delete,Borrar,module,Magento_Shipping
 "Create Packages","Crear paquetes",module,Magento_Shipping
@@ -10314,7 +10314,7 @@ Save,Guardar,module,Magento_Shipping
 "Add Selected Product(s) to Package","Añadir artículo(s) seleccionado(s) al paquete",module,Magento_Shipping
 "Add Products to Package","Añadir productos al paquete",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","Envíos nacionales de USPS no utilizan tipos de paquetes.",module,Magento_Shipping
-in,en,module,Magento_Shipping
+in,in,module,Magento_Shipping
 cm,cm,module,Magento_Shipping
 lb,lb,module,Magento_Shipping
 kg,kg,module,Magento_Shipping
@@ -10324,27 +10324,27 @@ Carrier,Transportista,module,Magento_Shipping
 Title,Título,module,Magento_Shipping
 Number,Número,module,Magento_Shipping
 Action,Acción,module,Magento_Shipping
-"Are you sure?","¿Seguro que quiere continuar?",module,Magento_Shipping
+"Are you sure?","¿Estás seguro?",module,Magento_Shipping
 "Shipping &amp; Handling Information","Información sobre manejos y envío",module,Magento_Shipping
 "Track Order","Seguimiento de pedidos",module,Magento_Shipping
 "No shipping information available","No hay información disponible sobre el envío",module,Magento_Shipping
 "Shipping and Tracking Information","Información de envío y seguimiento",module,Magento_Shipping
 "Track this shipment","Realizar un seguimiento de este envío",module,Magento_Shipping
 "Items Shipped","Artículos enviados",module,Magento_Shipping
-"Order Total","Total del Pedido",module,Magento_Shipping
-"Shipment History","Historial de envío",module,Magento_Shipping
+"Order Total","Total del pedido",module,Magento_Shipping
+"Shipment History","Historial del envío",module,Magento_Shipping
 "Qty Shipped","Cantidad enviada",module,Magento_Shipping
 "Print All Shipments","Imprimir todos los envíos",module,Magento_Shipping
 "Shipment #","Envío nº",module,Magento_Shipping
 "Print Shipment","Imprimir envío",module,Magento_Shipping
-"Tracking Number(s):","Número(s) de seguimiento(s)",module,Magento_Shipping
+"Tracking Number(s):","Número(s) de seguimiento(s):",module,Magento_Shipping
 SKU,SKU,module,Magento_Shipping
-"Order tracking","Rastreo de pedido",module,Magento_Shipping
+"Order tracking","Seguimiento de pedido",module,Magento_Shipping
 "Tracking Number:","Número de seguimiento:",module,Magento_Shipping
 Carrier:,Transportista:,module,Magento_Shipping
 Error:,Error:,module,Magento_Shipping
 "Tracking information is currently not available. Please","La información de seguimiento actualmente no está disponible. Por favor",module,Magento_Shipping
-"contact us","póngase en contacto con nosotros",module,Magento_Shipping
+"contact us","ponte en contacto con nosotros",module,Magento_Shipping
 "for more information or","para más información o",module,Magento_Shipping
 "email us at","envíenos un email a",module,Magento_Shipping
 Info:,Información:,module,Magento_Shipping
@@ -10353,9 +10353,9 @@ Track:,Seguimiento:,module,Magento_Shipping
 "Delivered on:","Entregado el:",module,Magento_Shipping
 N/A,N/A,module,Magento_Shipping
 "There is no tracking available for this shipment.","No se dispone de seguimiento para este envío.",module,Magento_Shipping
-"There is no tracking available.","No se dispone de seguimiento.",module,Magento_Shipping
+"There is no tracking available.","No hay seguimiento disponible.",module,Magento_Shipping
 "Close Window","Cerrar ventana",module,Magento_Shipping
-"Track history","Historia de la pista",module,Magento_Shipping
+"Track history","Historial del seguimiento",module,Magento_Shipping
 Location,Ubicación,module,Magento_Shipping
 Date,Fecha,module,Magento_Shipping
 "Local Time","Hora local",module,Magento_Shipping
@@ -10380,29 +10380,29 @@ City,Ciudad,module,Magento_Shipping
 Yes,Sí,module,Magento_Signifyd
 No,No,module,Magento_Signifyd
 "Submit Guarantee Request","Presentar solicitud de garantía",module,Magento_Signifyd
-"Cancel Guarantee Request","Cancel Guarantee Request",module,Magento_Signifyd
+"Cancel Guarantee Request","Cancelar solicitud de garantía",module,Magento_Signifyd
 "Order id is required.","Se requiere la ID de pedido.",module,Magento_Signifyd
-"Guarantee has been cancelled for your order.","Guarantee has been cancelled for your order.",module,Magento_Signifyd
-"Sorry, we cannot cancel Guarantee for your order.","Sorry, we cannot cancel Guarantee for your order.",module,Magento_Signifyd
-"Order has been submitted for Guarantee.","Order has been submitted for Guarantee.",module,Magento_Signifyd
-"Sorry, we cannot submit order for Guarantee.","Sorry, we cannot submit order for Guarantee.",module,Magento_Signifyd
-"This order already has associated case entity","This order already has associated case entity",module,Magento_Signifyd
-"The case entity should not be empty.","The case entity should not be empty.",module,Magento_Signifyd
-"Cannot update Case entity.","Cannot update Case entity.",module,Magento_Signifyd
-"The ""%1"" should not be empty.","The ""%1"" should not be empty.",module,Magento_Signifyd
-"Case entity not found.","Case entity not found.",module,Magento_Signifyd
-"Case Update: New score for the order is %1. Previous score was %2.","Case Update: New score for the order is %1. Previous score was %2.",module,Magento_Signifyd
+"Guarantee has been cancelled for your order.","Garantía ha sido cancelada para su orden.",module,Magento_Signifyd
+"Sorry, we cannot cancel Guarantee for your order.","Lo sentimos, nosotros no podemos cancelar garantía para su orden.",module,Magento_Signifyd
+"Order has been submitted for Guarantee.","Orden ha sido enviada para la garantía.",module,Magento_Signifyd
+"Sorry, we cannot submit order for Guarantee.","Lo sentimos, no podemos presentar orden de garantía.",module,Magento_Signifyd
+"This order already has associated case entity","Este orden ya se caso en la entidad asociada",module,Magento_Signifyd
+"The case entity should not be empty.","La entidad caso no debe estar vacía.",module,Magento_Signifyd
+"Cannot update Case entity.","No se puede actualizar entidad caso.",module,Magento_Signifyd
+"The ""%1"" should not be empty.","El ""%1"" no debe estar vacío.",module,Magento_Signifyd
+"Case entity not found.","Caso entidad no encontrado.",module,Magento_Signifyd
+"Case Update: New score for the order is %1. Previous score was %2.","Caso de actualización: Nueva puntuación para la orden es %1. Cuenta anterior era %2.",module,Magento_Signifyd
 Error,Error,module,Magento_Signifyd
-"Cannot generate message.","Cannot generate message.",module,Magento_Signifyd
-"Message is generated.","Message is generated.",module,Magento_Signifyd
-"Fraud Protection Information","Fraud Protection Information",module,Magento_Signifyd
-"Case Status","Case Status",module,Magento_Signifyd
+"Cannot generate message.","No se puede generar el mensaje.",module,Magento_Signifyd
+"Message is generated.","Mensaje generado.",module,Magento_Signifyd
+"Fraud Protection Information","Información de Protección de Fraude",module,Magento_Signifyd
+"Case Status","Estado del caso",module,Magento_Signifyd
 "Case Score","Case Score",module,Magento_Signifyd
 "Guarantee Eligible","Guarantee Eligible",module,Magento_Signifyd
 "Guarantee Disposition","Guarantee Disposition",module,Magento_Signifyd
 "Associated Team","Associated Team",module,Magento_Signifyd
 "Review Disposition","Review Disposition",module,Magento_Signifyd
-"Case Created","Case Created",module,Magento_Signifyd
+"Case Created","Caso Creado",module,Magento_Signifyd
 "Case Updated","Caso actualizado",module,Magento_Signifyd
 "Fraud Protection Section","Fraud Protection Section",module,Magento_Signifyd
 "Fraud Protection","Protección contra fraude",module,Magento_Signifyd
@@ -10502,11 +10502,11 @@ Save,Guardar,module,Magento_Staging
 "View Specific Date","Ver fecha específica",module,Magento_Staging
 "Date & Time","Fecha y hora",module,Magento_Staging
 "This update not exists.","Esta actualización no existe.",module,Magento_Staging
-"Content Staging Dashboard","Content Staging Dashboard",module,Magento_Staging
+"Content Staging Dashboard","Panel contenido puesta en escena",module,Magento_Staging
 "Edit Existing Update","Editar actualización existente",module,Magento_Staging
-"Assign to Another Update","Assign to Another Update",module,Magento_Staging
+"Assign to Another Update","Asignar a otra actualización",module,Magento_Staging
 "Save as a New Update","Guardar como una nueva actualización",module,Magento_Staging
-"Assign to Existing Update","Assign to Existing Update",module,Magento_Staging
+"Assign to Existing Update","Asignar a actualización vigente",module,Magento_Staging
 "You removed this %1 from the update and saved it in the other one.","Ha removido este %1 de la actualización y lo guardo en el otro.",module,Magento_Staging
 "%1 is required parameter.","%1 es parámetro necesario.",module,Magento_Staging
 "You removed this %1 from the update.","Ha removido este %1 de la actualización.",module,Magento_Staging
@@ -10856,7 +10856,7 @@ Stores,Tiendas,module,Magento_Support
 Swatch,Swatch,module,Magento_Swatches
 Description,Descripción,module,Magento_Swatches
 Delete,Borrar,module,Magento_Swatches
-"The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Swatches
+"The value of Admin must be unique.","El valor de Admin debe ser único.",module,Magento_Swatches
 "Choose a color","Selecciona un color",module,Magento_Swatches
 "Upload a file","Subir un archivo",module,Magento_Swatches
 Clear,Limpiar,module,Magento_Swatches
@@ -11363,7 +11363,7 @@ Settings,Configuración,module,Magento_Theme
 "Dictionary (Translation on Storefront side)","Diccionario (traducción en lado de la tienda)",module,Magento_Translation
 "Embedded (Translation on Admin side)","Incrustado (traducción en lado de Admin)",module,Magento_Translation
 "Error while translating phrase ""%s"" in file %s.","Error traduciendo el término ""%s"" en el archivo %s.",module,Magento_Translation
-"Error while generating js translation dictionary: ""%s""","Error while generating js translation dictionary: ""%s""",module,Magento_Translation
+"Error while generating js translation dictionary: ""%s""","Error al generar Diccionario de traducción de js: ""%s""",module,Magento_Translation
 "Translation Strategy","Estrategia de traducción",module,Magento_Translation
 Translations,Traducciones,module,Magento_Translation
 "Translation files","Archivos de traducción",module,Magento_Translation
@@ -11759,7 +11759,7 @@ username,usuario,module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Passwort muss sowohl numerische als auch alphabetische Zeichen enthalten.",module,Magento_User
 "Your password confirmation must match your password.","La confirmación de su contraseña debe coincidir con la contraseña.",module,Magento_User
 "It's time to change your password.","Es tiempo de cambiar tu contraseña.",module,Magento_User
-"It's time to <a href=""%1"">change your password</a>.","It's time to <a href=""%1"">change your password</a>.",module,Magento_User
+"It's time to <a href=""%1"">change your password</a>.","Es momento de <a href=""%1""> cambiar tu contraseña</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Su contraseña ha caducado; por favor, póngase en contacto con su administrador.",module,Magento_User
 "Password Help","Ayuda para contraseña",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Introduzca su dirección de correo electrónico.  Usted recibirá un correo electrónico con un enlace para restablecer tu contraseña.",module,Magento_User
@@ -11900,7 +11900,7 @@ Yes,Sí,module,Magento_Usps
 No,No,module,Magento_Usps
 "Not Required","No requerido",module,Magento_Usps
 Required,Requerido,module,Magento_Usps
-"For some reason we can't retrieve tracking info right now.","Por alguna razón no se puede obtener la información de rastreo en este momento.",module,Magento_Usps
+"For some reason we can't retrieve tracking info right now.","Por alguna razón no se puede obtener la información de seguimiento en este momento.",module,Magento_Usps
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Lo sentimos, algo salió mal. Por favor, inténtelo de nuevo o contáctenos y lo trataremos de ayudar.",module,Magento_Usps
 track_summary,track_summary,module,Magento_Usps
 "Empty response","Respuesta vacía",module,Magento_Usps
@@ -11970,7 +11970,7 @@ Name,Nombre,module,Magento_Variable
 "Deletion failure. Please try again.","Falla en el borrado. Por favor, inténtelo de nuevo.",module,Magento_Vault
 "Stored Payment Method was successfully removed","El método de pago almacenado ha sido eliminado",module,Magento_Vault
 "Stored Payment Methods","Métodos de pago almacenados",module,Magento_Vault
-"No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
+"No available payment tokens for specified order payment.","No fichas de pago disponibles para el pago de la orden especificado.",module,Magento_Vault
 "Card Number","Número de la tarjeta",module,Magento_Vault
 "Expiration Date","Fecha de vencimiento",module,Magento_Vault
 Type,Tipo,module,Magento_Vault
@@ -11978,7 +11978,7 @@ Type,Tipo,module,Magento_Vault
 ending,fin,module,Magento_Vault
 Actions,Acciones,module,Magento_Vault
 Delete,Eliminar,module,Magento_Vault
-"PayPal Account","PayPal Account",module,Magento_Vault
+"PayPal Account","Cuenta PayPal",module,Magento_Vault
 Cancel,Cancelar,module,Magento_Vault
 "Delete Current Hierarchy","Eliminar la jerarquía actual",module,Magento_VersionsCms
 Copy,Copiar,module,Magento_VersionsCms
@@ -12104,7 +12104,7 @@ Template,Plantilla,module,Magento_VersionsCms
 "CMS Page Link Block Template","Plantilla en bloque de la página de enlaces del CMS",module,Magento_VersionsCms
 "CMS Page Link Inline Template","Plantilla en línea de la página de enlaces del CMS",module,Magento_VersionsCms
 "All Store Views","Todas las vistas de la tienda",module,Magento_VersionsCms
-"Search All Products","Buscar artículos",module,Magento_VisualMerchandiser
+"Search All Products","Buscar productos",module,Magento_VisualMerchandiser
 "Add Product by SKU","Añadir artículos por SKU",module,Magento_VisualMerchandiser
 Position,Posición,module,Magento_VisualMerchandiser
 Action,Acción,module,Magento_VisualMerchandiser
@@ -12341,12 +12341,12 @@ Conditions,Condiciones,module,Magento_Widget
 "My Wish List","Mi lista de deseos",module,Magento_Wishlist
 "%1's Wish List","Lista de deseos de %1",module,Magento_Wishlist
 "Page not found.","Página no encontrada.",module,Magento_Wishlist
-"We can't specify a product.","No se puede especificar un artículo.",module,Magento_Wishlist
+"We can't specify a product.","No podemos especificar un producto.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","No se puede añadir el elemento a lista de deseos ahora mismo: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","No se puede añadir el elemento a lista de deseos ahora mismo.",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Añadiste %1 a tu cesta.",module,Magento_Wishlist
 "This product(s) is out of stock.","Este producto está fuera de stock.",module,Magento_Wishlist
-"We can't add the item to the cart right now.","No se puede añadir el artículo al carrito de compras ahora mismo.",module,Magento_Wishlist
+"We can't add the item to the cart right now.","No se puede añadir el producto al carrito de compras ahora mismo.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","No se puede cargar la lista de deseos ahora mismo.",module,Magento_Wishlist
 "We can't configure the product right now.","No se puede configurar el artículo ahora mismo.",module,Magento_Wishlist
 "The requested cart item doesn't exist.","El artículo de carro solicitado no existe.",module,Magento_Wishlist
@@ -12460,7 +12460,7 @@ Delete,Borrar,module,Magento_Wishlist
 "Address AVS check","Comprobación de dirección AVS",module,Magento_Worldpay
 "Country comparison check","Comprobación de comparación de país",module,Magento_Worldpay
 "Risk Score","Calificación de riesgo",module,Magento_Worldpay
-"Not supported","No suportado",module,Magento_Worldpay
+"Not supported","No soportado",module,Magento_Worldpay
 "Not checked","No comprobado",module,Magento_Worldpay
 Matched,Emparejado,module,Magento_Worldpay
 "Not matched","No coincide",module,Magento_Worldpay
@@ -12517,7 +12517,7 @@ Settings,Ajustes,theme,frontend/Magento/blank
 "Now Shopping by","Ahora comprando por",theme,frontend/Magento/luma
 Previous,Anterior,theme,frontend/Magento/luma
 Remove,Eliminar,theme,frontend/Magento/luma
-"Remove This Item","Eliminar este artículo",theme,frontend/Magento/luma
+"Remove This Item","Quitar este producto",theme,frontend/Magento/luma
 "Shop By","Comprar por",theme,frontend/Magento/luma
 "Clear All","Eliminar todo",theme,frontend/Magento/luma
 "Shopping Options","Opciones de compra",theme,frontend/Magento/luma
@@ -12529,7 +12529,7 @@ Email:,Email:,theme,frontend/Magento/luma
 Password:,Contraseña:,theme,frontend/Magento/luma
 "Password you set when creating account","Contraseña utilizada al crear tu cuenta",theme,frontend/Magento/luma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Haga clic <a href=""%reset_url""> aquí</a> para restablecerla.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Cuando inicie sesión en su cuenta, usted será capaz de:",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Cuando inicies sesión en tu cuenta, podrás:",theme,frontend/Magento/luma
 "Quick Checkout","Checkout rápido",theme,frontend/Magento/luma
 "Proceed through checkout faster","Procede a través del checkout más rápido",theme,frontend/Magento/luma
 "Order Status","Estado del pedido",theme,frontend/Magento/luma
@@ -12543,24 +12543,24 @@ Footer,"Pie de página",theme,frontend/Magento/luma
 "About Us","Acerca de nosotros",theme,frontend/Magento/luma
 "Customer Service","Atención al cliente",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horas de operación:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horario de atención:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Factura rectificativa para su pedido en %store_name",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Gracias por su pedido de %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Puede comprobar el estado de su pedido <a href=""%account_url"">accediendo a su cuenta</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si usted tiene preguntas acerca de su pedido, puede enviarnos un email a <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si tienes alguna duda acerca de tu pedido, puede enviarnos un email a <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Su factura rectificativa #%creditmemo_id para el pedido #%order_id",theme,frontend/Magento/luma
 "Billing Info","Información de facturación",theme,frontend/Magento/luma
 "Shipping Info","Información de envío",theme,frontend/Magento/luma
 "Payment Method","Método de pago",theme,frontend/Magento/luma
 "Shipping Method","Método de envío",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Actualizar su credit memo de %store_name",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","El pedido # %increment_id se ha actualizado con un estado de <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Invoice for your %store_name order","Factura para el pedido en %store_name",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Su factura #%invoice_id para el pedido #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Actualizar su factura en %store_name",theme,frontend/Magento/luma
 "Your %store_name order confirmation","Confirmación de su pedido en %store_name",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Una vez que el paquete sea enviado le enviaremos un número de rastreo.",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Una vez que el paquete sea enviado te enviaremos un número de seguimiento.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Su pedido <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Creada el <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Actualizar su orden en %store_name",theme,frontend/Magento/luma
