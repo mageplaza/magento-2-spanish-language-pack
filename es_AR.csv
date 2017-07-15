@@ -259,15 +259,14 @@ Configuration,Configuración,module,Magento_Analytics
 "Basic Tier","Nivel básico",module,Magento_Analytics
 "BI Essentials","Esenciales de BI",module,Magento_Analytics
 General,General,module,Magento_Analytics
-"Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
+"Send the system and transaction data to Magento Analytics service","Enviar los datos de transacciones y sistema al servicio de Magento Analytics",module,Magento_Analytics
 Vertical,Vertical,module,Magento_Analytics
-"Analytics Subscription","Analytics Subscription",module,Magento_Analytics
-"Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
-Cancel,Cancel,module,Magento_Analytics
-Ok,Ok,module,Magento_Analytics
+"Analytics Subscription","Suscripción de Analytics",module,Magento_Analytics
+"Subscription Confirmation","Confirmación de suscripción",module,Magento_Analytics
+Cancel,Cancelar,module,Magento_Analytics
+Ok,Aceptar,module,Magento_Analytics
 "I agree with sending my system
-                            configuration and transaction data to Magento Analytics.","I agree with sending my system
-                            configuration and transaction data to Magento Analytics.",module,Magento_Analytics
+                            configuration and transaction data to Magento Analytics.","Estoy de acuerdo con el envío de mis datos de configuración y transacciones del sistema a Magento Analytics.",module,Magento_Analytics
 Back,Volver,module,Magento_AsynchronousOperations
 Done,Done,module,Magento_AsynchronousOperations
 Retry,Retry,module,Magento_AsynchronousOperations
@@ -374,7 +373,7 @@ Debug,Depurar,module,Magento_Authorizenet
 "Minimum Order Total","Total mínimo de pedido",module,Magento_Authorizenet
 "Maximum Order Total","Total máximo de pedido",module,Magento_Authorizenet
 "Sort Order",Ordenación,module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.","Clave de formulario inválida. Por favor, actualize la página.",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Clave de formulario inválida. Por favor, actualice la página.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Has introducido una clave secreta inválida. Por favor actualice la página.",module,Magento_Backend
 "Cache Storage Management","Administración de almacenamiento de memoria caché",module,Magento_Backend
 "Flush Magento Cache","Vaciar la caché de Magento",module,Magento_Backend
@@ -524,7 +523,7 @@ Submit,Enviar,module,Magento_Backend
 "You flushed the cache storage.","Se vació la memoria cache.",module,Magento_Backend
 "The Magento cache storage has been flushed.","La memoria cache de magento se vació.",module,Magento_Backend
 "Cache Management","Gestión de caché",module,Magento_Backend
-"You can't change status of cache type(s) in production mode","You can't change status of cache type(s) in production mode",module,Magento_Backend
+"You can't change status of cache type(s) in production mode","No puedes cambiar el estado de caché en modo producción",module,Magento_Backend
 "%1 cache type(s) disabled.","%1 tipo(s) de memoria cache deshabilitado(s).",module,Magento_Backend
 "An error occurred while disabling cache.","Ocurrió un error al desactivar la memoria caché.",module,Magento_Backend
 "%1 cache type(s) enabled.","%1 tipo(s) de memoria cache habilitado(s).",module,Magento_Backend
@@ -590,7 +589,7 @@ YTD,YTD,module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","La duración de la sesión de Admin debe ser mayor o igual a 60 segundos",module,Magento_Backend
 Order,Pedido,module,Magento_Backend
 "Order #%1","Pedido #%1",module,Magento_Backend
-"Cannot apply unknown condition","Cannot apply unknown condition",module,Magento_Backend
+"Cannot apply unknown condition","No se puede aplicar la condición",module,Magento_Backend
 "Access denied","Acceso denegado",module,Magento_Backend
 "Please try to sign out and sign in again.","Por favor, intenta cerrar sesión e iniciar otra vez.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Si continúa recibiendo este mensaje, por favor contactar con el dueño de tienda.",module,Magento_Backend
@@ -613,7 +612,7 @@ password,contraseña,module,Magento_Backend
 "Reload Data","Recargar datos",module,Magento_Backend
 "Browse Files...","Buscar archivos...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
-"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright© %1 Magento Commerce Inc. Todos los derechos reservados.",module,Magento_Backend
 "ver. %1","ver. %1",module,Magento_Backend
 "Magento Admin Panel","Panel de administración de Magento",module,Magento_Backend
 "Account Setting","Configuración de la cuenta",module,Magento_Backend
@@ -631,7 +630,7 @@ Minute,Minuto,module,Magento_Backend
 "JavaScript may be disabled in your browser.","Posiblemente JavaScript esté desactivado en su navegador.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Para utilizar este sitio web primero debe activar JavaScript en su navegador.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Esto es sólo una tienda de demostración. Usted puede navegar y realizar pedidos, pero no se procesarán.",module,Magento_Backend
-"Report a Bug","Report a Bug",module,Magento_Backend
+"Report a Bug","Informar de un error",module,Magento_Backend
 "Store View:","Vista de la tienda:",module,Magento_Backend
 "Stores Configuration","Configuración de las tiendas",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Por favor, confirme el cambio en el campo. Todos los datos que no se hayan guardado se perderán.",module,Magento_Backend
@@ -1001,8 +1000,8 @@ Authorize,Autorizar,module,Magento_Braintree
 "Please, enter valid Card Verification Number","Por favor, indique el número de verificación de tarjeta válido",module,Magento_Braintree
 ending,finalizando,module,Magento_Braintree
 expires,vence,module,Magento_Braintree
-"PayPal Account","PayPal Account",module,Magento_Braintree
-"PayPal Logo","PayPal Logo",module,Magento_Braintree
+"PayPal Account","Cuenta PayPal",module,Magento_Braintree
+"PayPal Logo","Logo PayPal",module,Magento_Braintree
 Actions,Acciones,module,Magento_Braintree
 Delete,Eliminar,module,Magento_Braintree
 "Credit Card Information","Información de tarjeta de crédito",module,Magento_Braintree
@@ -1014,9 +1013,9 @@ MM,MM,module,Magento_Braintree
 YY,YY,module,Magento_Braintree
 "Please try again with another form of payment.","Por favor, inténtelo de nuevo con otra forma de pago.",module,Magento_Braintree
 "Sorry, but something went wrong.","Lo sentimos, pero algo salió mal.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,Pago,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Acepta tarjetas de crédito/débito y PayPal en su tienda Magento. <br/> Sin cargos mensuales o de instalación y los clientes nunca abandonan su tienda para completar la compra.",module,Magento_Braintree
 "Enable this Solution","Habilitar esta solución",module,Magento_Braintree
 "Enable PayPal through Braintree","Activar PayPal a través de Braintree",module,Magento_Braintree
 "Vault Enabled","Vault Enabled",module,Magento_Braintree
@@ -1216,13 +1215,13 @@ Separately,"Por separado",module,Magento_Bundle
 "We can't add this item to your shopping cart right now.","No podemos añadir este artículo a su cesta de la compra en este momento.",module,Magento_Bundle
 N/A,"No disponible",module,Magento_Bundle
 Percent,Porcentaje,module,Magento_Bundle
-"We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
+"We can't save custom-defined options for bundles with dynamic pricing.","No podemos guardar las opciones personalizadas para conjuntos con precio dinámico.",module,Magento_Bundle
 Cancel,Cancelar,module,Magento_Bundle
 "Add Selected Products","Añadir los artículos seleccionados",module,Magento_Bundle
 "Add Option","Agregar opción",module,Magento_Bundle
 "New Option","Nueva opción",module,Magento_Bundle
 "Option Title","Título de opciones",module,Magento_Bundle
-"Default Title","Default Title",module,Magento_Bundle
+"Default Title","Título (predeterminado)",module,Magento_Bundle
 "Store View Title","Título de vista de tienda",module,Magento_Bundle
 "Input Type","Introducir tipo",module,Magento_Bundle
 Drop-down,"Menú desplegable",module,Magento_Bundle
@@ -2995,12 +2994,12 @@ Add,Agregar,module,Magento_Config
 Enable,Habilitar,module,Magento_Config
 Disable,Desactivar,module,Magento_Config
 Configuration,Configuración,module,Magento_Config
-"Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Config
-"%1 should implement %2","%1 should implement %2",module,Magento_Config
-"We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.","We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.",module,Magento_Config
-"The value you set has already been locked. To change the value, use the --%1 option.","The value you set has already been locked. To change the value, use the --%1 option.",module,Magento_Config
+"Class for type ""%1"" was not declared","No se declaró una clase para el tipo ""%1""",module,Magento_Config
+"%1 should implement %2","%1 debe implementar %2",module,Magento_Config
+"We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.","No podemos guardar esta opción porque no Magento no esta instalado. Para fijar este valor, escriba el comando utilizando la opción --%1.",module,Magento_Config
+"The value you set has already been locked. To change the value, use the --%1 option.","El valor que seteo está bloqueado. Para cambiar el valor, utilice la opción --%1.",module,Magento_Config
 %1,%1,module,Magento_Config
-"Configuration for path: ""%1"" doesn't exist","Configuration for path: ""%1"" doesn't exist",module,Magento_Config
+"Configuration for path: ""%1"" doesn't exist","La configuración para la ruta: ""%1"" no existe",module,Magento_Config
 System,Sistema,module,Magento_Config
 "You saved the configuration.","Ha guardado la configuración.",module,Magento_Config
 "Something went wrong while saving this configuration:","Algo salió mal al guardar esta condición:",module,Magento_Config
@@ -3054,11 +3053,11 @@ Specified,Especificado,module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead",module,Magento_Config
 "Invalid XML in file %1:\n%2","XML no válido en archivo %1:\n%2",module,Magento_Config
 .,.,module,Magento_Config
-"'There is no defined type ' .","'There is no defined type ' .",module,Magento_Config
-"'Object is not instance of ' .","'Object is not instance of ' .",module,Magento_Config
-"Filesystem is not writable.","Filesystem is not writable.",module,Magento_Config
-"Test exception","Test exception",module,Magento_Config
-"error message","error message",module,Magento_Config
+"'There is no defined type ' .","'No hay un tipo definido'.",module,Magento_Config
+"'Object is not instance of ' .","'El objeto no es instancia de'.",module,Magento_Config
+"Filesystem is not writable.","El archivo %1 no es modificable.",module,Magento_Config
+"Test exception","Excepción de prueba",module,Magento_Config
+"error message","mensaje de error",module,Magento_Config
 some_label,some_label,module,Magento_Config
 some_comment,some_comment,module,Magento_Config
 "some prefix","algunos prefijo",module,Magento_Config
