@@ -2571,7 +2571,7 @@ State/Province,Estado/Provincia,module,Magento_Checkout
 "We can't update the shopping cart.","No podemos actualizar el carrito.",module,Magento_Checkout
 "One-page checkout is turned off.","Pago en una página está desactivado.",module,Magento_Checkout
 "Guest checkout is disabled.","Pago de invitado está deshabilitado.",module,Magento_Checkout
-Checkout,Cobro,module,Magento_Checkout
+Checkout,"Realizar pedido",module,Magento_Checkout
 "Page not found.","Página no encontrada.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Por favor, acepta todos los términos y condiciones antes de realizar el pedido.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Algo salió mal durante el procesamiento de su pedido. Por favor, inténtalo más tarde.",module,Magento_Checkout
