@@ -2383,7 +2383,7 @@ No,No,module,Magento_CatalogRuleStaging
 "Save as a New Update","Guardar como una nueva actualización",module,Magento_CatalogRuleStaging
 "Move to Another Update","Move to Another Update",module,Magento_CatalogRuleStaging
 "Delete the Update","Eliminar la actualización",module,Magento_CatalogRuleStaging
-"The catalog price rule will be removed from the update and all scheduled changes will be lost.","The catalog price rule will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
+"The catalog price rule will be removed from the update and all scheduled changes will be lost.","Se eliminará la regla del precio de catálogo de la actualización y se perderán todos los cambios programados.",module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
 30,30,module,Magento_CatalogRuleStaging
 50,50,module,Magento_CatalogRuleStaging
