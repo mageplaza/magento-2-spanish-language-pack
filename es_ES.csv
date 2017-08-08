@@ -4786,7 +4786,7 @@ Unknown,Desconocido,module,Magento_Email
 "We can't delete email template data right now. Please review log and try again.","No podemos borrar datos de la plantilla de correo electrónico ahora mismo. Revise el registro y vuelva a intentarlo.",module,Magento_Email
 "We can't find an email template to delete.","No podemos encontrar una plantilla de correo electrónico para eliminar.",module,Magento_Email
 "Edit Template","Editar la plantilla",module,Magento_Email
-"Edit System Template","Systemvorlage bearbeiten",module,Magento_Email
+"Edit System Template","Edit System Template",module,Magento_Email
 "New Template","Nueva plantilla",module,Magento_Email
 "New System Template","Neue Systemvorlage",module,Magento_Email
 "Email Templates","Plantillas de correo electrónico",module,Magento_Email
