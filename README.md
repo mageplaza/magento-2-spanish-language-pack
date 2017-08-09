@@ -19,7 +19,6 @@ Below are two active buttons which are required operations before installing the
 
 - [Download .zip](https://github.com/mageplaza/magento-2-spanish-language-pack/archive/master.zip)
 - [Download .tar.gz](https://github.com/mageplaza/magento-2-spanish-language-pack/tarball/master)
-- [Copy & paste package](https://crowdin.com/project/magento-2/es_AR.zip)
 
 
 Find other [language packs here]({https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -34,9 +33,10 @@ Install the Spanish language pack via composer is never easier.
 **Install Spanish pack**:
 
 ```
-composer require mageplaza/magento-2-spanish-language-pack:*
+composer require mageplaza/magento-2-spanish-language-pack:dev-master
+php bin/magento setup:static-content:deploy es_AR
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy es-ar
+php bin/magento cache:flush
 
 ```
 
@@ -44,15 +44,17 @@ php bin/magento setup:static-content:deploy es-ar
 **Update  Spanish pack**:
 
 ```
-composer update mageplaza/magento-2-spanish-language-pack:*
+composer update mageplaza/magento-2-spanish-language-pack:dev-master
+php bin/magento setup:static-content:deploy es_AR
+php bin/magento indexer:reindex
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy es-ar
+php bin/magento cache:flush
 
 ```
 
 #### Authentication required (Optional)
 
-[Authentication required](https://i.imgur.com/dmryiPk.png)
+![Authentication required](https://cdn.mageplaza.com/media/general/dmryiPk.png)
 
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
 
@@ -108,11 +110,11 @@ Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza
 ## How to active language pack
 
 Now time to active the language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
-![{{Magento 2 Spanish language pack}}](https://i.imgur.com/aPSUA0l.png)
+![{{Magento 2 Spanish language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
-## Translation process of Spanish Language Pack
-![process](http://progressed.io/bar/80)
+<!-- ## Translation process of Spanish Language Pack
+![process](http://progressed.io/bar/80) -->
 
 Contribute to this language at https://crowdin.com/project/magento-2/es_AR
 
@@ -130,12 +132,18 @@ Contribute to this language at https://crowdin.com/project/magento-2/es_AR
 - Magento v2.0.9
 - Magento v2.0.10
 - Magento v2.0.11
+- Magento v2.0.12
+- Magento v2.0.13
+- Magento v2.0.14
+- Magento v2.0.15
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
 - Magento v2.1.3
 - Magento v2.1.4
 - Magento v2.1.5
+- Magento v2.1.6
+- Magento v2.1.7
 
 
 
@@ -145,6 +153,8 @@ Contribute to this language at https://crowdin.com/project/magento-2/es_AR
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
-References:
+## References:
+
 - https://www.mageplaza.com/magento-2-spanish-language-pack.html
 - https://www.mageplaza.com/kb/magento-2-language-pack/
+- https://crowdin.com/project/magento-2
