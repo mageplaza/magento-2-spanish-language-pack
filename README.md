@@ -35,7 +35,6 @@ Install the Spanish language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-spanish-language-pack:dev-master
 php bin/magento setup:static-content:deploy es_AR
-php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -46,8 +45,6 @@ php bin/magento cache:flush
 ```
 composer update mageplaza/magento-2-spanish-language-pack:dev-master
 php bin/magento setup:static-content:deploy es_AR
-php bin/magento indexer:reindex
-php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -120,36 +117,9 @@ Contribute to this language at https://crowdin.com/project/magento-2/es_AR
 
 ## Supported Magento versions
 
-- Magento v2.0.0
-- Magento v2.0.1
-- Magento v2.0.2
-- Magento v2.0.3
-- Magento v2.0.4
-- Magento v2.0.5
-- Magento v2.0.6
-- Magento v2.0.7
-- Magento v2.0.8
-- Magento v2.0.9
-- Magento v2.0.10
-- Magento v2.0.11
-- Magento v2.0.12
-- Magento v2.0.13
-- Magento v2.0.14
-- Magento v2.0.15
-- Magento v2.0.16
-- Magento v2.1.0
-- Magento v2.1.1
-- Magento v2.1.2
-- Magento v2.1.3
-- Magento v2.1.4
-- Magento v2.1.5
-- Magento v2.1.6
-- Magento v2.1.7
-- Magento v2.1.8
-- Magento v2.1.10
-- Magento v2.2.0
-- Magento v2.2.1
-- Magento v2.2.2
+- Magento v2.0.x
+- Magento v2.1.x
+- Magento v2.2.x
 
 
 
