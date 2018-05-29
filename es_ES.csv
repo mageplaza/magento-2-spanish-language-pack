@@ -2909,45 +2909,45 @@ Close,Cerrar,module,Magento_CheckoutAgreements
 "Static Blocks","Bloques Estáticos",module,Magento_Cms
 "Add New Block","Añadir Nuevo Bloque",module,Magento_Cms
 Back,Volver,module,Magento_Cms
-"Delete Block","Block löschen",module,Magento_Cms
+"Delete Block","Eliminar bloque",module,Magento_Cms
 "Are you sure you want to do this?","¿Está seguro que desea hacer esto?",module,Magento_Cms
 Reset,Restablecer,module,Magento_Cms
 "Save and Continue Edit","Save and Continue Edit",module,Magento_Cms
-"Save Block","Block speichern",module,Magento_Cms
+"Save Block","Guardar bloque",module,Magento_Cms
 ID,ID,module,Magento_Cms
 Title,Título,module,Magento_Cms
-Identifier,Bezeichner,module,Magento_Cms
+Identifier,Identificador,module,Magento_Cms
 Status,Estatus,module,Magento_Cms
 Disabled,Deshabilitada,module,Magento_Cms
 Enabled,Habilitado,module,Magento_Cms
-"Manage Pages","Seiten verwalten",module,Magento_Cms
-"Add New Page","Neue Seite",module,Magento_Cms
-"Delete Page","Seite löschen",module,Magento_Cms
-"Save Page","Seite speichern",module,Magento_Cms
-"URL Key",URL-Bezeichner,module,Magento_Cms
+"Manage Pages","Administrar páginas",module,Magento_Cms
+"Add New Page","Añadir nueva página",module,Magento_Cms
+"Delete Page","Eliminar página",module,Magento_Cms
+"Save Page","Guardar página",module,Magento_Cms
+"URL Key","Clave URL",module,Magento_Cms
 Layout,Diseño,module,Magento_Cms
 "Store View","Vista de la tienda",module,Magento_Cms
 Created,Creado,module,Magento_Cms
 Modified,Modificado,module,Magento_Cms
 Action,Acción,module,Magento_Cms
 Preview,"Vista previa",module,Magento_Cms
-"Media Storage","Almacenamiento de medios",module,Magento_Cms
-"Create Folder...","Verzeichnis anlegen...",module,Magento_Cms
-"Delete Folder","Verzeichnis löschen",module,Magento_Cms
-"Delete File","Datei löschen",module,Magento_Cms
-"Insert File","Datei einfügen",module,Magento_Cms
-"New Folder Name:","Neuer Verzeichnisname:",module,Magento_Cms
+"Media Storage","Almacenamiento multimedia",module,Magento_Cms
+"Create Folder...","Crear Carpeta...",module,Magento_Cms
+"Delete Folder","Eliminar carpeta",module,Magento_Cms
+"Delete File","Eliminar archivo",module,Magento_Cms
+"Insert File","Insertar archivo",module,Magento_Cms
+"New Folder Name:","Nuevo nombre de la carpeta:",module,Magento_Cms
 "Are you sure you want to delete this folder?","¿Está seguro de que desea eliminar esta carpeta?",module,Magento_Cms
 "Are you sure you want to delete this file?","¿Está seguro que desea eliminar este archivo?",module,Magento_Cms
 "Images (%1)","Imágenes (%1)",module,Magento_Cms
-"Storage Root","Hauptverzeichnis des Speichers",module,Magento_Cms
+"Storage Root","Raíz de almacenamiento",module,Magento_Cms
 Home,"Página de inicio",module,Magento_Cms
 "Go to Home Page","Ir a la página de inicio",module,Magento_Cms
 CMS,CMS,module,Magento_Cms
 "You deleted the block.","Ha eliminado el block.",module,Magento_Cms
 "We can't find a block to delete.","No podemos encontrar un bloque a eliminar.",module,Magento_Cms
 "This block no longer exists.","Dieser Block existiert nicht mehr.",module,Magento_Cms
-"Edit Block","Block bearbeiten",module,Magento_Cms
+"Edit Block","Editar bloque",module,Magento_Cms
 "New Block","Neuer Block",module,Magento_Cms
 Blocks,Bloques,module,Magento_Cms
 "Please correct the data sent.","Por favor corrija los datos enviados.",module,Magento_Cms
@@ -2956,9 +2956,9 @@ Blocks,Bloques,module,Magento_Cms
 "Something went wrong while saving the block.","Algo salió mal al guardar el bloque.",module,Magento_Cms
 "The page has been deleted.","Die Seite wurde gelöscht.",module,Magento_Cms
 "We can't find a page to delete.","No podemos encontrar una página para eliminarla.",module,Magento_Cms
-"This page no longer exists.","Diese Seite existiert nicht mehr.",module,Magento_Cms
-"Edit Page","Seite bearbeiten",module,Magento_Cms
-"New Page","Neue Seite",module,Magento_Cms
+"This page no longer exists.","Esta página ya no existe.",module,Magento_Cms
+"Edit Page","Editar página",module,Magento_Cms
+"New Page","Nueva Página",module,Magento_Cms
 Pages,Páginas,module,Magento_Cms
 "Something went wrong while saving the page.","Algo salió mal al guardar la página.",module,Magento_Cms
 "A total of %1 record(s) have been disabled.","Se han deshabilitado un total de %1 registro(s).",module,Magento_Cms
@@ -3117,18 +3117,18 @@ Status,Estado,module,Magento_CmsStaging
 "Default Config","Configuración por defecto",module,Magento_Config
 "Save Config","Guardar configuración",module,Magento_Config
 [GLOBAL],[GLOBAL],module,Magento_Config
-[WEBSITE],[WEBSEITE],module,Magento_Config
+[WEBSITE],[WEBSITE],module,Magento_Config
 "[STORE VIEW]","[VISTA DE TIENDA]",module,Magento_Config
 "Use system value","Usar valor del sistema",module,Magento_Config
-"Use Default","Verwende Voreinstellungen",module,Magento_Config
-"Use Website","Webseite verwenden",module,Magento_Config
+"Use Default","Usar predeterminado",module,Magento_Config
+"Use Website","Usar Website",module,Magento_Config
 Add,Agregar,module,Magento_Config
-"Delete File","Datei löschen",module,Magento_Config
+"Delete File","Eliminar archivo",module,Magento_Config
 "Search String","Cadena de búsqueda",module,Magento_Config
 "Design Theme","Tema del diseño",module,Magento_Config
 "Add \Exception","Añadir \Exception",module,Magento_Config
-"-- No Theme --","-Sin tema--",module,Magento_Config
-Enable,Activado,module,Magento_Config
+"-- No Theme --","-- Sin tema --",module,Magento_Config
+Enable,Habilitar,module,Magento_Config
 Disable,Desactivar,module,Magento_Config
 Configuration,Configuración,module,Magento_Config
 "Class for type ""%1"" was not declared","No se declaró la clase de tipo ""%1""",module,Magento_Config
@@ -8305,6 +8305,7 @@ Action,Acción,module,Magento_Reports
 Report,Informe,module,Magento_Reports
 Description,Descripción,module,Magento_Reports
 undefined,"no definido",module,Magento_Reports
+"Item in Cart","Producto en el carrito",module,Magento_Reports
 "Save Review","Guardar reseña",module,Magento_Review
 "New Review","Nueva revisión",module,Magento_Review
 "Review Details","Detalles de reseña",module,Magento_Review

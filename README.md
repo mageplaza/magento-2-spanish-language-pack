@@ -1,6 +1,7 @@
 ## Magento 2 Spanish Language Pack
 
-
+Magento 2 platform approves multiple languages around the world, so **Magento 2 Spanish Language Pack** is created to conduct the change of language via the in-line translation dictionary on Magento 2 store. The in-line translation dictionary is developed based on the community project at Crowdin where you can download over 12,000 phrases in Spanish to replace the default language.
+			Magento 2 Spanish Language Package will involve the list of comprehensive guides which are essential for the perfect translation. Please keep tracking the topic to finish the interpretation at all.
 
 Read more [Magento 2 Spanish Language Pack](https://www.mageplaza.com/magento-2-spanish-language-pack.html)
 
@@ -34,7 +35,7 @@ Install the Spanish language pack via composer is never easier.
 
 ```
 composer require mageplaza/magento-2-spanish-language-pack:dev-master
-php bin/magento setup:static-content:deploy es_AR
+php bin/magento setup:static-content:deploy es_ES
 php bin/magento cache:flush
 
 ```
@@ -44,7 +45,7 @@ php bin/magento cache:flush
 
 ```
 composer update mageplaza/magento-2-spanish-language-pack:dev-master
-php bin/magento setup:static-content:deploy es_AR
+php bin/magento setup:static-content:deploy es_ES
 php bin/magento cache:flush
 
 ```
@@ -76,7 +77,7 @@ Unzip the Spanish language pack to Magento 2 root folder. In this guide, we extr
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip fr.zip app/code/Mageplaza/es_ar
+unzip fr.zip app/i18n/Mageplaza/es_es
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -97,7 +98,7 @@ To download and install Spanish pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `es_AR.zip` into `app/i18n/mageplaza/es_AR/es_AR.csv`
+Unzip the compressed file and upload file `es_ES.zip` into `app/i18n/mageplaza/es_ES/es_ES.csv`
 
 #### Step 2: Flush cache
 
@@ -110,12 +111,14 @@ Now time to active the Spanish language pack for your Magento 2 store. From Mage
 ![{{Magento 2 Spanish language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
-<!-- ## Translation process of Spanish Language Pack
-![process](http://progressed.io/bar/80) -->
+## 4. How to contribute
 
-Contribute to this language at https://crowdin.com/project/magento-2/es_AR
+Contribute to this language at https://crowdin.com/project/magento-2/es-ES
 
-## Supported Magento versions
+## 5. Supported Magento versions
+
+It supports all Magento 2 versions include [Magento 2 Open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
+
 
 - Magento v2.0.x
 - Magento v2.1.x
@@ -123,101 +126,24 @@ Contribute to this language at https://crowdin.com/project/magento-2/es_AR
 
 
 
-## Note
+## 6. Note
 
 - This project automatically updates weekly from Crowdin.
 - Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-spanish-language-pack/issues/new)
 
-## Language package authors
+## 7. Language package authors
 
 - [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
-## References:
+## 8. References:
 
 - https://www.mageplaza.com/magento-2-spanish-language-pack.html
-- https://www.mageplaza.com/kb/magento-2-language-pack/
 - https://crowdin.com/project/magento-2
 
 
 
-## SWEET MAGEPLAZA EXTENSIONS TO BRING YOU MORE MONEY
-
-### [✓ One Step Checkout](https://www.mageplaza.com/magento-2-one-step-checkout-extension/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ ↑30% INCREASE CONVERSION RATE 
-
-☞ ↓66% DECREASE ABANDONMENT CART
-
-☞ ↓80% REDUCE CHECKOUT TIME
-
-### [✓ Layered Navigation](https://www.mageplaza.com/magento-2-layered-navigation-extension/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ ↑84% USER'S FILTERING EXPERIENCE
-
-☞ ↑25% CONVERSION RATE
-
-☞ ↓67% SHOPPING TIME
-
-### [✓ Frequently Bought Together](https://www.mageplaza.com/magento-2-frequently-bought-together/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ Amazon Product Recommendation Solution
- 
-☞ AJAX loading for better performance
-
-☞ Support Custom Options and all product types
-
-
-
-### [✓ Gift Card](https://www.mageplaza.com/magento-2-gift-card-extension/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ Physical, virtual or combined gift cards
- 
-☞ Different gift card values from prices
-
-☞ Send cards via email, SMS, post office or messenger
-
-
-### [✓ Who Bought This Also Bought](https://www.mageplaza.com/magento-2-who-bought-this-also-bought/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ Display on Product Page, Category Page, Shopping Cart page
-
-☞ AJAX loading for better performance.
-
-☞ Flexible layout and design.
-
-
-### [✓ Social Login](https://www.mageplaza.com/magento-2-social-login-extension/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ Increase signup rate up-to 30%
-
-☞ Supports 11 Types: Facebook, Google Plus, Twitter, Linkedin, Instagram, Yahoo, Github, Foursquare, VK, Live, Amazon
-
-☞ Easy custom design fit with your store design
-
-☞ [Social Login on Github](https://github.com/mageplaza/magento-2-social-login)
-
-
-
-### [✓ Shop By Brand](https://www.mageplaza.com/magento-2-shop-by-brand/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ Fully Compatible with Layered Navigation
-
-☞ Instant Search brands
-
-☞ Import brands
-
-
-
-
-### [✓ Affiliate](https://www.mageplaza.com/magento-2-affiliate-extension/?utm_source=github.com&utm_medium=link&utm_campaign=related-extension)
-
-☞ Multiple Affiliate Campaigns
-
-☞ Smart Referral Links
-
-☞ Affiliate Report
 
 
 
@@ -226,20 +152,22 @@ Contribute to this language at https://crowdin.com/project/magento-2/es_AR
 ## Mageplaza extensions on Magento Marketplace, Github
 
 
+- [Layered Navigation](https://marketplace.magento.com/mageplaza-layered-navigation-m2.html)
+- [One Step Checkout](https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html)
+- [SMTP](https://marketplace.magento.com/mageplaza-module-smtp.html) ; [SMTP on Github](https://github.com/mageplaza/magento-2-smtp)
+- [Blog](https://github.com/mageplaza/magento-2-blog)
+- [Security](https://marketplace.magento.com/mageplaza-module-security.html)
+- [Social Login](https://github.com/mageplaza/magento-2-social-login)
 
-☞ [Blog](https://github.com/mageplaza/magento-2-blog)
+- [SEO](https://github.com/mageplaza/magento-2-seo) ; [SEO on Marketplace](https://marketplace.magento.com/mageplaza-magento-2-seo-extension.html)
 
-☞ [Social Login](https://github.com/mageplaza/magento-2-social-login)
+- [SMTP](https://github.com/mageplaza/magento-2-smtp)
 
-☞ [SEO](https://github.com/mageplaza/magento-2-seo)
+- [Product Slider](https://github.com/mageplaza/magento-2-product-slider)
 
-☞ [SMTP](https://github.com/mageplaza/magento-2-smtp)
+- [Banner](https://github.com/mageplaza/magento-2-banner-slider)
 
-☞ [Product Sliderthub](https://github.com/mageplaza/magento-2-product-slider)
-
-☞ [Banner](https://github.com/mageplaza/magento-2-banner-slider)
-
-☞ [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
+- [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
 
 
 
