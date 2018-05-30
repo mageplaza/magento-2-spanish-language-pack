@@ -106,18 +106,21 @@ Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza
 
 
 ## 3. How to active Spanish language pack
-
+O
 Now time to active the Spanish language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Spanish language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
 ## 4. How to contribute
 
+This language pack has been translated 
+![language pack](http://progressed.io/bar/80)
+
 Contribute to this language at https://crowdin.com/project/magento-2/es-ES
 
 ## 5. Supported Magento versions
 
-It supports all Magento 2 versions include [Magento 2 Open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
+It supports all Magento 2 versions include [Magento 2 pen-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
 
 
 - Magento v2.0.x
