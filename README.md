@@ -113,14 +113,13 @@ Now time to active the Spanish language pack for your Magento 2 store. From Mage
 
 ## 4. How to contribute
 
-This language pack has been translated 
-![language pack](http://progressed.io/bar/80)
+![language pack](http://progressed.io/bar/{{process}}?title=translated)
 
 Contribute to this language at https://crowdin.com/project/magento-2/es-ES
 
 ## 5. Supported Magento versions
 
-It supports all Magento 2 versions include [Magento 2 pen-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
+It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
 
 
 - Magento v2.0.x
