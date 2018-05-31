@@ -8,18 +8,21 @@ Read more [Magento 2 Spanish Language Pack](https://www.mageplaza.com/magento-2-
 
 ## Overview
 
-- Download & Contribute
-- Install Spanish Language Pack
-- How to Install Spanish Language Pack
+- 1. Language Package Process
+- 2. Install Spanish Language Pack
+- 3. How to active Spanish language pack
+- 4. How to contribute
+- 5. Supported Magento versions
 
-## 1. Download & Contribute to Spanish Language Pack
+## 1. Language Package Process
 
-Below are two active buttons which are required operations before installing the language package. Let's hit them to download and contribute Magento 2 Spanish Language Pack immediately!
+This is status of Spanish Language Pack, you can see how many percentage of this project has been done.
 
-**Download packages**:
+![language pack](http://progressed.io/bar/95?title=translated)
 
-- [Download .zip](https://github.com/mageplaza/magento-2-spanish-language-pack/archive/master.zip)
-- [Download .tar.gz](https://github.com/mageplaza/magento-2-spanish-language-pack/tarball/master)
+It is not fully translated? Feel free to contribute:
+- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
+- [On Github])(https://github.com/mageplaza/magento-2-spanish-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -77,7 +80,7 @@ Unzip the Spanish language pack to Magento 2 root folder. In this guide, we extr
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip fr.zip app/i18n/Mageplaza/es_es
+unzip master.zip app/i18n/Mageplaza/es_es
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -106,14 +109,12 @@ Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza
 
 
 ## 3. How to active Spanish language pack
-O
+
 Now time to active the Spanish language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Spanish language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
 ## 4. How to contribute
-
-![language pack](http://progressed.io/bar/95?title=translated)
 
 Contribute to this language at https://crowdin.com/project/magento-2/es-ES
 
@@ -147,10 +148,6 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 
 
 
-
-
-
-
 ## Mageplaza extensions on Magento Marketplace, Github
 
 
@@ -160,15 +157,10 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - [Blog](https://github.com/mageplaza/magento-2-blog)
 - [Security](https://marketplace.magento.com/mageplaza-module-security.html)
 - [Social Login](https://github.com/mageplaza/magento-2-social-login)
-
 - [SEO](https://github.com/mageplaza/magento-2-seo) ; [SEO on Marketplace](https://marketplace.magento.com/mageplaza-magento-2-seo-extension.html)
-
 - [SMTP](https://github.com/mageplaza/magento-2-smtp)
-
 - [Product Slider](https://github.com/mageplaza/magento-2-product-slider)
-
 - [Banner](https://github.com/mageplaza/magento-2-banner-slider)
-
 - [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
 
 
