@@ -436,7 +436,7 @@
 "Flush Cache Storage","Vaciar almacenamiento de caché",module,Magento_Backend
 "Invalidated","Invalidado",module,Magento_Backend
 "Orders","Pedidos",module,Magento_Backend
-"Amounts","Cantidad",module,Magento_Backend
+"Amounts","Cantidades",module,Magento_Backend
 "Bestsellers","Más vendidos",module,Magento_Backend
 "Most Viewed Products","Productos más vistos",module,Magento_Backend
 "New Customers","Nuevos clientes",module,Magento_Backend
