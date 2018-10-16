@@ -1705,7 +1705,7 @@
 "SKU for product %1 has been changed to %2.","SKU de producto %1 se ha cambiado a %2.",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","La imagen no se puede eliminar, ya que se ha asignado a la otra función de imagen",module,Magento_Catalog
 "New Attribute Set","Nuevo conjunto de atributos",module,Magento_Catalog
-"The attribute set has been removed.","Die Merkmalgruppe wurde entfernt.",module,Magento_Catalog
+"The attribute set has been removed.","El conjunto de atributos ha sido eliminado.",module,Magento_Catalog
 "We can't delete this set right now.","No se puede eliminar este conjunto en este momento.",module,Magento_Catalog
 "New Set","Nuevo conjunto",module,Magento_Catalog
 "Manage Product Sets","Gestionar conjuntos de artículos",module,Magento_Catalog
@@ -1804,8 +1804,8 @@
 "We found a duplicate website, tier price, customer group and quantity.","Se encontró un sitio web duplicado, precios del segmento, grupo de clientes y cantidad.",module,Magento_Catalog
 "Percentage value must be a number between 0 and 100.","El valor de procentaje debe ser un número entre 0 y 100.",module,Magento_Catalog
 "Invalid option id %1","Opción id %1 no válida",module,Magento_Catalog
-"The attribute set couldn't be created because it's based on a non-product attribute set.","The attribute set couldn't be created because it's based on a non-product attribute set.",module,Magento_Catalog
-"The attribute set couldn't be created because it's based on a non-existing attribute set.","The attribute set couldn't be created because it's based on a non-existing attribute set.",module,Magento_Catalog
+"The attribute set couldn't be created because it's based on a non-product attribute set.","No se ha podido crear el atributo porque no está basado en un conjunto de atributos de producto.",module,Magento_Catalog
+"The attribute set couldn't be created because it's based on a non-existing attribute set.","No se ha podido crear el atributo porque está basado en un conjunto de atributos inexistente.",module,Magento_Catalog
 "Provided Attribute set non product Attribute set.","El conjunto de atributos proporcionado no es un conjunto de atributos de artículo.",module,Magento_Catalog
 "Use config","Usar config",module,Magento_Catalog
 "Enabled","Habilitado",module,Magento_Catalog
@@ -2205,9 +2205,9 @@
 "Cache Lifetime (Seconds)","Ciclo de vida caché (segundos)",module,Magento_Catalog
 "Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.",module,Magento_Catalog
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Tiempo en segundos entre actualizaciones de widgets.
+<br/>Si no está establecido, valor por defecto de 86400 segundos (24 horas). Para actualizar un widget de manera instantánea, vaya a Gestión de Caché y limpie la caché Salida HTML de Bloques.
+<br/>Los widgets no mostrarán productos que comiencen a coincidir con las condiciones especificadas hasta que la caché sea refrescada.",module,Magento_Catalog
 "Catalog Product Link","Enlace al catálgo de artículos",module,Magento_Catalog
 "Link to a Specified Product","Enlace a un artículo específico",module,Magento_Catalog
 "Select Product...","Seleccionar artículo...",module,Magento_Catalog
@@ -2274,7 +2274,7 @@
 "Image Position","Posición de la imagen",module,Magento_Catalog
 "Attribute Properties","Propiedades de atributo",module,Magento_Catalog
 "Attribute Label","Etiqueta de atributo",module,Magento_Catalog
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Catalog
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","El tipo de entrada Editor de Texto requiere que WYSIWYG sea habilitado en Tiendas > Configuración > Gestión de Contenido.",module,Magento_Catalog
 "Catalog Input Type for Store Owner","Tipo de entrada de catálogo para el dueño de la tienda",module,Magento_Catalog
 "Values","Valores",module,Magento_Catalog
 "Add this attribute to the list of column options in the product grid.","Añadir este atributo a la lista de opciones de la columna en la cuadrícula de producto.",module,Magento_Catalog
@@ -3078,19 +3078,19 @@
 "Directory %1 is not under storage root path.","Directorio %1 no esta bajo la ruta raíz de almacenamiento.",module,Magento_Cms
 "The directory %1 is not writable by server.","El servidor no puede escribir en el directorio %1.",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Asegúrese de que contenido de bloque estático no hace referencia a el propio bloque.",module,Magento_Cms
-"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist.",module,Magento_Cms
+"The CMS block with the ""%1"" ID doesn't exist.","El bloque CMS con el ID ""%1"" no existe.",module,Magento_Cms
 "Enabled by Default","Aktiviert (voreingestellt)",module,Magento_Cms
 "Disabled by Default","Deaktiviert (voreingestellt)",module,Magento_Cms
 "Disabled Completely","Komplett deaktiviert",module,Magento_Cms
-"The CMS page with the ""%1"" ID doesn't exist.","The CMS page with the ""%1"" ID doesn't exist.",module,Magento_Cms
+"The CMS page with the ""%1"" ID doesn't exist.","La página CMS con el ID ""%1"" no existe.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Route Page"" in configuration.","Este identificador está reservado para ""Página sin Ruta del CMS"" en la configuración.",module,Magento_Cms
 "This identifier is reserved for ""CMS Home Page"" in configuration.","Este identificador está reservado para ""Página de Inicio del CMS"" en la configuración.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Cookies Page"" in configuration.","Este identificador está reservado para""Página sin Cookies del CMS"" en la configuración.",module,Magento_Cms
 "Could not save the page: %1","No se puede guardar la página: %1",module,Magento_Cms
 "Could not delete the page: %1","No se puede eliminar la página: %1",module,Magento_Cms
 "A block identifier with the same properties already exists in the selected store.","Ein Block-Bezeichner mit denselben Eigenschaften existiert bereits in dem ausgewählten Laden.",module,Magento_Cms
-"The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.",module,Magento_Cms
-"The page URL key can't use only numbers. Add letters or words and try again.","The page URL key can't use only numbers. Add letters or words and try again.",module,Magento_Cms
+"The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","El enlace de la página no puede utilizar mayúsculas o símbolos no permitidos. Quitar las letras y símbolos y vuelva a intentarlo.",module,Magento_Cms
+"The page URL key can't use only numbers. Add letters or words and try again.","El enlace de la página no puede utilizar solamente números. Añadir letras o palabras y vuelva a intentarlo.",module,Magento_Cms
 "Please rename the folder using only letters, numbers, underscores and dashes.","Por favor, cambia el nombre de la carpeta usando sólo letras, números, guiones bajos y guiones.",module,Magento_Cms
 "We found a directory with the same name. Please try another folder name.","Encontramos una carpeta con el mismo nombre. Por favor, intente otro nombre para la carpeta.",module,Magento_Cms
 "We cannot create a new directory.","No podemos crear un nuevo directorio.",module,Magento_Cms
@@ -3795,7 +3795,7 @@
 "Currency ""%1"" is used as %2 in %3.","La moneda ""%1"" se utiliza como %2 en %3.",module,Magento_Config
 "The time zone is incorrect. Verify the time zone and try again.","La zona horaria es incorrecta. Verifica la zona horario e inténtelo de nuevo.",module,Magento_Config
 "The ""%1"" file doesn't exist.","El archivo ""%1"" no existe.",module,Magento_Config
-"The ""%1"" path doesn't exist. Verify and try again.","The ""%1"" path doesn't exist. Verify and try again.",module,Magento_Config
+"The ""%1"" path doesn't exist. Verify and try again.","La ruta ""%1"" no existe. Verifique y vuelva a intentarlo.",module,Magento_Config
 "Always (during development)","Immer (während der Entwicklung)",module,Magento_Config
 "Only Once (version upgrade)","Nur einmal (Upgrade der Version)",module,Magento_Config
 "Never (production)","Niemals (Produktivumgebung)",module,Magento_Config
@@ -3889,10 +3889,10 @@
 "The product with the ""%1"" SKU isn't a configurable product.","El producto con el ""%1"" SKU no es un producto configurable.",module,Magento_ConfigurableProduct
 "The option that was requested doesn't exist. Verify the entity and try again.","La opción que ha solicitado no existe. Verificar la entidad e inténtelo de nuevo.",module,Magento_ConfigurableProduct
 "The ""%1"" entity that was requested doesn't exist. Verify the entity and try again.","La entidad ""%1"" solicitada no existe. Verificar la entidad e inténtelo de nuevo.",module,Magento_ConfigurableProduct
-"The variations from the ""%1"" product can't be deleted.","The variations from the ""%1"" product can't be deleted.",module,Magento_ConfigurableProduct
-"The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted.",module,Magento_ConfigurableProduct
+"The variations from the ""%1"" product can't be deleted.","Las variaciones del producto ""%1"" no se pueden eliminar.",module,Magento_ConfigurableProduct
+"The option with ""%1"" ID can't be deleted.","La opción con el ID ""%1"" no se puede eliminar.",module,Magento_ConfigurableProduct
 "Option with id ""%1"" not found","Opción con id ""%1"" no encontrado",module,Magento_ConfigurableProduct
-"An error occurred while saving the option. Please try to save again.","An error occurred while saving the option. Please try to save again.",module,Magento_ConfigurableProduct
+"An error occurred while saving the option. Please try to save again.","Se produjo un error al guardar la opción. Vuelva a intentarlo.",module,Magento_ConfigurableProduct
 "This is implemented for the ""%1"" configurable product only.","This is implemented for the ""%1"" configurable product only.",module,Magento_ConfigurableProduct
 "Option attribute ID is not specified.","No se especifica el ID de atributo de opción.",module,Magento_ConfigurableProduct
 "Option label is not specified.","No se especifica la etiqueta Opción.",module,Magento_ConfigurableProduct
@@ -5149,7 +5149,7 @@
 "Log to File","Registrar en archivo",module,Magento_Developer
 "Not available in production mode.","No disponible en modo de producción.",module,Magento_Developer
 "Syslog","Syslog",module,Magento_Developer
-"Log to Syslog","Log to Syslog",module,Magento_Developer
+"Log to Syslog","Log usando syslog",module,Magento_Developer
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Seleccione esta opción para permitir a DHL optimizar gastos de envío mediante la división del pedido si excede %1 %2.",module,Magento_Dhl
 "Wrong Content Type","Tipo de contenido incorrecto",module,Magento_Dhl
 "Pounds","Libras",module,Magento_Dhl
@@ -5239,14 +5239,14 @@
 "--Please Select--","--Por favor, seleccione--",module,Magento_Directory
 "lbs","lbs",module,Magento_Directory
 "kgs","kgs",module,Magento_Directory
-"The country isn't available.","The country isn't available.",module,Magento_Directory
+"The country isn't available.","El país solicitado no está disponible.",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Tarifa indefinida de ""%1-%2"".",module,Magento_Directory
 "Please correct the target currency.","Por favor corrija la moneda de destino.",module,Magento_Directory
 "label","etiqueta",module,Magento_Directory
 "We can't retrieve a rate from %1 for %2.","No podemos recuperar la tarifa de %1 para %2.",module,Magento_Directory
 "We can't retrieve a rate from %1.","No se puede obtener el tipo de cambio de %1.",module,Magento_Directory
 "FATAL ERROR:","ERROR FATAL:",module,Magento_Directory
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again.",module,Magento_Directory
+"The import model can't be initialized. Verify the model and try again.","El modelo de importación no puede ser inicializado. Verificar el modelo y vuelva a intentarlo.",module,Magento_Directory
 "Please specify the correct Import Service.","Por favor especifique un servicio de importación correcto.",module,Magento_Directory
 "WARNING:","ADVERTENCIA:",module,Magento_Directory
 "Please correct the country code: %1.","Por favor, corregir el código del país: %1.",module,Magento_Directory
@@ -5313,9 +5313,9 @@
 "Sample URL must have valid format.","Muestra URL debe tener formato válido.",module,Magento_Downloadable
 "Order id cannot be null","El ID del pedido no puede ser nulo",module,Magento_Downloadable
 "Order item id cannot be null","El ID del artículo del pedido no puede ser nulo",module,Magento_Downloadable
-"The product needs to be the downloadable type. Verify the product and try again.","The product needs to be the downloadable type. Verify the product and try again.",module,Magento_Downloadable
-"The link information is invalid. Verify the link and try again.","The link information is invalid. Verify the link and try again.",module,Magento_Downloadable
-"The link type is invalid. Verify and try again.","The link type is invalid. Verify and try again.",module,Magento_Downloadable
+"The product needs to be the downloadable type. Verify the product and try again.","El producto debe ser del tipo descargable. Verifique el producto y vuelva a intentarlo.",module,Magento_Downloadable
+"The link information is invalid. Verify the link and try again.","La información del enlace no es válida. Verifica el enlace y vuelve a intentarlo.",module,Magento_Downloadable
+"The link type is invalid. Verify and try again.","El tipo de enlace no es válido. Verifique y vuelva a intentarlo.",module,Magento_Downloadable
 "The link title is empty. Enter the link title and try again.","The link title is empty. Enter the link title and try again.",module,Magento_Downloadable
 "No downloadable link with the provided ID was found. Verify the ID and try again.","No downloadable link with the provided ID was found. Verify the ID and try again.",module,Magento_Downloadable
 "The downloadable link isn't related to the product. Verify the link and try again.","The downloadable link isn't related to the product. Verify the link and try again.",module,Magento_Downloadable
@@ -5476,17 +5476,17 @@
 "The attribute group doesn't belong to the attribute set.","The attribute group doesn't belong to the attribute set.",module,Magento_Eav
 "The ""%1"" attribute set wasn't found. Verify and try again.","The ""%1"" attribute set wasn't found. Verify and try again.",module,Magento_Eav
 "The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.","The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.",module,Magento_Eav
-"The system attribute can't be deleted.","The system attribute can't be deleted.",module,Magento_Eav
+"The system attribute can't be deleted.","No se puede eliminar el atributo de sistema.",module,Magento_Eav
 "The attribute can't be saved.","No se puede guardar el atributo.",module,Magento_Eav
 "The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.","The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.",module,Magento_Eav
 "The attribute can't be deleted.","No puede eliminarse este atributo.",module,Magento_Eav
 "The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.","El atributo con el ID ""%1"" no existe. Compruebe el atributo y vuelva a intentarlo.",module,Magento_Eav
 "The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Eav
-"The default attribute set can't be deleted.","The default attribute set can't be deleted.",module,Magento_Eav
-"The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.",module,Magento_Eav
+"The default attribute set can't be deleted.","No se puede eliminar el conjunto de atributos predeterminado.",module,Magento_Eav
+"The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","El conjunto de atributos no puede ser eliminado debido a un error. Vuelva a intentarlo, si el error persiste, por favor Inténtalo más tarde.",module,Magento_Eav
 "Invalid entity_type specified: %1","Se especificó un entity_type inválido: %1",module,Magento_Eav
 "Entity is not initialized","La entidad no está inicializada",module,Magento_Eav
-"This parameter is unknown. Verify and try again.","This parameter is unknown. Verify and try again.",module,Magento_Eav
+"This parameter is unknown. Verify and try again.","Este parámetro es desconocido. Verifique y vuelva a intentarlo.",module,Magento_Eav
 "Unique constraint violation found","Violación de restricción única encontrada",module,Magento_Eav
 "The attribute code '%1' is reserved by system. Please try another attribute code","El código de atributo '%s' está reservado por el sistema. Por favor, prueba con otro código de atributo.",module,Magento_Eav
 "The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","El código de atributo debe ser %1 caracteres o menos. Vuelva a introducir el código y vuelva a intentarlo.",module,Magento_Eav
@@ -5500,7 +5500,7 @@
 "Invalid date","Fecha no válida",module,Magento_Eav
 "The attribute code is empty. Enter the code and try again.","The attribute code is empty. Enter the code and try again.",module,Magento_Eav
 "The ""%1"" attribute doesn't work with options.","The ""%1"" attribute doesn't work with options.",module,Magento_Eav
-"The ""%1"" attribute can't be saved.","The ""%1"" attribute can't be saved.",module,Magento_Eav
+"The ""%1"" attribute can't be saved.","No se puede guardar el atributo ""%1"".",module,Magento_Eav
 "The ""%1"" attribute has no option.","El atributo de ""%1"" no tiene ninguna opción.",module,Magento_Eav
 "The options for ""%1"" attribute can't be loaded.","Las opciones para el atributo de ""%1"" no se puede cargar.",module,Magento_Eav
 "The ""%1"" attribute doesn't include an option with ""%2"" ID.","El atributo ""%1"" no incluye una opción con el ID ""%2"".",module,Magento_Eav
@@ -7469,8 +7469,8 @@
 "Catalog Total Price (Incl. Tax)","Catalog Total Price (Incl. Tax)",module,Magento_NegotiableQuote
 "Catalog Total Price","Catalog Total Price",module,Magento_NegotiableQuote
 "Negotiated Discount","Negotiated Discount",module,Magento_NegotiableQuote
-"Back","Back",module,Magento_NegotiableQuote
-"Print","Print",module,Magento_NegotiableQuote
+"Back","Atrás",module,Magento_NegotiableQuote
+"Print","Imprimir",module,Magento_NegotiableQuote
 "Save as Draft","Save as Draft",module,Magento_NegotiableQuote
 "Decline","Decline",module,Magento_NegotiableQuote
 "Send","Send",module,Magento_NegotiableQuote
@@ -8651,7 +8651,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Actions","Acciones",module,Magento_Paypal
 "Manage","Administrar",module,Magento_Paypal
 "Place Order Using Billing Agreements","Hacer el pedido utilizando los acuerdos de facturación",module,Magento_Paypal
-"Orders","Orders",module,Magento_Paypal
+"Orders","Pedidos",module,Magento_Paypal
 "Payment Amount Authorization","Payment Amount Authorization",module,Magento_Paypal
 "Merchant Location","Ubicación del minorista",module,Magento_Paypal
 "Merchant Country","País de envío",module,Magento_Paypal
@@ -8990,20 +8990,20 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Enter Multiple SKUs","Introducir múltiples SKU",module,Magento_QuickOrder
 "Use commas or paragraph to separate SKUs.","Usar comas o párrafo para separar SKU.",module,Magento_QuickOrder
 "Add to List","Añadir a la lista",module,Magento_QuickOrder
-"Order by SKU","Order by SKU",module,Magento_QuickOrder
+"Order by SKU","Ordenar por SKU",module,Magento_QuickOrder
 "Enter SKU or Product Name","Enter SKU or Product Name",module,Magento_QuickOrder
-"Qty","Qty",module,Magento_QuickOrder
-"Add to Cart","Add to Cart",module,Magento_QuickOrder
-"Remove Row","Remove Row",module,Magento_QuickOrder
+"Qty","Cant",module,Magento_QuickOrder
+"Add to Cart","Añadir al carrito",module,Magento_QuickOrder
+"Remove Row","Eliminar fila",module,Magento_QuickOrder
 "product(s) require(s) your attention.","product(s) require(s) your attention.",module,Magento_QuickOrder
 "Enable Quick Order","Enable Quick Order",module,Magento_QuickOrder
 "Download Sample","Download Sample",module,Magento_QuickOrder
 "The address failed to save. Verify the address and try again.","The address failed to save. Verify the address and try again.",module,Magento_Quote
 "The ""%1"" Cart doesn't contain products.","The ""%1"" Cart doesn't contain products.",module,Magento_Quote
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
-"The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
-"The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
+"The coupon code couldn't be applied. Verify the coupon code and try again.","El código de cupón no puede ser aplicado. Comprobar el código y vuelva a intentarlo.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","El código de cupón no es válido. Comprobar el código y vuelva a intentarlo.",module,Magento_Quote
+"The coupon code couldn't be deleted. Verify the coupon code and try again.","El código de cupón no se puede borrar. Comprobar el código y vuelva a intentarlo.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
 "The requested Payment Method is not available.","El método de pago solicitado no está disponible.",module,Magento_Quote
@@ -9046,7 +9046,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "This item price or quantity is not valid for checkout.","Este precio del artículo o la cantidad no es válido para efectuar el checkout.",module,Magento_Quote
 "Please check the shipping address information. %1","Por favor compruebe la información de la dirección de envío. %1",module,Magento_Quote
 "Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries.",module,Magento_Quote
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Quote
+"The shipping method is missing. Select the shipping method and try again.","No se encuentra el método de envío. Seleccione el método de envío y vuelva a intentarlo.",module,Magento_Quote
 "Please check the billing address information. %1","Por favor compruebe la información de la dirección de envío. %1",module,Magento_Quote
 "Enter a valid payment method and try again.","Enter a valid payment method and try again.",module,Magento_Quote
 "Store Credit","Crédito de tienda",module,Magento_Quote
@@ -9060,7 +9060,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Carts","Carritos",module,Magento_Quote
 "Manage carts","Administrar carritos",module,Magento_Quote
 "It is impossible to log user action","It is impossible to log user action",module,Magento_ReleaseNotification
-"Error message","Error message",module,Magento_ReleaseNotification
+"Error message","Mensaje de error",module,Magento_ReleaseNotification
 "An error occurred while logging process.","An error occurred while logging process.",module,Magento_ReleaseNotification
 "Release Notification","Release Notification",module,Magento_ReleaseNotification
 "Sorry, we had a problem loading our “What’s new” content.","Sorry, we had a problem loading our “What’s new” content.",module,Magento_ReleaseNotification
@@ -12521,7 +12521,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Remove Option","Eliminar opción",module,Magento_Swatches
 "Create New Value","Crear un nuevo valor",module,Magento_Swatches
 "Sending swatch values as package.","Sending swatch values as package.",module,Magento_Swatches
-"More","More",module,Magento_Swatches
+"More","Más",module,Magento_Swatches
 "Swatches","Muestras",module,Magento_Swatches
 "Swatches per Product","Muestras por producto",module,Magento_Swatches
 "Show Swatches in Product List","Mostrar muestras en la lista de productos",module,Magento_Swatches
@@ -13678,19 +13678,19 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Validation has failed.","La validación ha fallado.",module,Magento_Variable
 "%1","%1",module,Magento_Variable
 "Insert Variable...","Insertar variable...",module,Magento_Variable
-"Custom Variable","Custom Variable",module,Magento_Variable
-"Base URL","Base URL",module,Magento_Variable
-"Secure Base URL","Secure Base URL",module,Magento_Variable
+"Custom Variable","Variable personalizada",module,Magento_Variable
+"Base URL","URL base",module,Magento_Variable
+"Secure Base URL","URL Base segura",module,Magento_Variable
 "Web","Web",module,Magento_Variable
-"Edit Variable","Edit Variable",module,Magento_Variable
-"Insert Variable","Insert Variable",module,Magento_Variable
+"Edit Variable","Editar variable",module,Magento_Variable
+"Insert Variable","Insertar variable",module,Magento_Variable
 "The variable %1 is no longer available. Select a different variable.","The variable %1 is no longer available. Select a different variable.",module,Magento_Variable
-"Cancel","Cancel",module,Magento_Variable
-"Save","Save",module,Magento_Variable
+"Cancel","Cancelar",module,Magento_Variable
+"Save","Guardar",module,Magento_Variable
 "Variable ID","Variable ID",module,Magento_Variable
 "Name","Nombre",module,Magento_Variable
-"Type","Type",module,Magento_Variable
-"Code","Code",module,Magento_Variable
+"Type","Tipo",module,Magento_Variable
+"Code","Código",module,Magento_Variable
 "No token found.","Ningún token encontrado.",module,Magento_Vault
 "Wrong request.","Solicitud incorrecta.",module,Magento_Vault
 "Deletion failure. Please try again.","Falla en el borrado. Por favor, inténtelo de nuevo.",module,Magento_Vault
@@ -13996,7 +13996,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Include FPT In Subtotal","Includir impuestos en el subtotal",module,Magento_Weee
 "Widget Insertion","Inserción del widget",module,Magento_Widget
 "Insert Widget","Insertar aplicación",module,Magento_Widget
-"Cancel","Cancel",module,Magento_Widget
+"Cancel","Cancelar",module,Magento_Widget
 "label","etiqueta",module,Magento_Widget
 "Choose...","Elegir...",module,Magento_Widget
 "Close","Cerrar",module,Magento_Widget
@@ -14127,8 +14127,8 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Product Exception.","Excepción de producto.",module,Magento_Wishlist
 "Localized Exception.","Excepción localizada.",module,Magento_Wishlist
 "Are you sure you want to remove this item?","¿Está seguro que desea eliminar este artículo?",module,Magento_Wishlist
-"Special Price","Special Price",module,Magento_Wishlist
-"Regular Price","Regular Price",module,Magento_Wishlist
+"Special Price","Precio especial",module,Magento_Wishlist
+"Regular Price","Precio habitual",module,Magento_Wishlist
 "Share Wish List","Compartir favoritos",module,Magento_Wishlist
 "Add All to Cart","Añadir todo al carrito",module,Magento_Wishlist
 "Update Wish List","Actualizar favoritos",module,Magento_Wishlist
@@ -14202,8 +14202,8 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Not matched","No coincide",module,Magento_Worldpay
 "Partially matched","Parcialmente emparejados",module,Magento_Worldpay
 "No such order id.","No hay tal id de pedido.",module,Magento_Worldpay
-"Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
-"Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
+"Transaction has been canceled","La transacción ha sido cancelada",module,Magento_Worldpay
+"Transaction has been declined","La transacción ha sido declinada",module,Magento_Worldpay
 "Your purchase process has been cancelled.","El proceso de compra ha sido cancelado.",module,Magento_Worldpay
 "Something went wrong while processing your order. Please try again later.","Algo salió mal durante el procesamiento de su pedido. Por favor Inténtalo más tarde.",module,Magento_Worldpay
 "Gateway response is not valid.","La respuesta del Gateway no es válida.",module,Magento_Worldpay
@@ -14305,6 +14305,6 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Your shipping confirmation is below. Thank you again for your business.","La confirmación de su envío está abajo. Gracias otra vez por su compra.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Su envío nº %shipment_id para el pedido nº %order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Actualización el envío de %store_name",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","Mi Cuenta",theme,frontend/Magento/luma
 "Address Book","Libreta de direcciones",theme,frontend/Magento/luma
 "Account Information","Información de la cuenta",theme,frontend/Magento/luma
