@@ -4858,11 +4858,11 @@ Back,Volver,module,Magento_CustomerCustomAttributes
 "Customer id ""%customer_id"" does not exist.","El id de cliente ""%customer_id"" no existe.",module,Magento_CustomerGraphQl
 "Provide the current ""password"" to change ""email"".","Proporcione la ""contraseña"" actual para cambiar ""correo electrónico"".",module,Magento_CustomerGraphQl
 "A customer with the same email address already exists in an associated website.","Ya existe un cliente con la misma dirección de correo electrónico en un sitio web asociado.",module,Magento_CustomerGraphQl
-"Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value.",module,Magento_CustomerGraphQl
-"Specify the ""newPassword"" value.","Specify the ""newPassword"" value.",module,Magento_CustomerGraphQl
+"Specify the ""currentPassword"" value.","Especifique el valor de ""currentPassword"".",module,Magento_CustomerGraphQl
+"Specify the ""newPassword"" value.","Especifique el valor de ""newPassword"".",module,Magento_CustomerGraphQl
 "Specify the ""email"" value.","Especifique el valor de ""email"".",module,Magento_CustomerGraphQl
-"Specify the ""password"" value.","Specify the ""password"" value.",module,Magento_CustomerGraphQl
-"""input"" value should be specified","""input"" value should be specified",module,Magento_CustomerGraphQl
+"Specify the ""password"" value.","Especifique el valor de ""contraseña"".",module,Magento_CustomerGraphQl
+"""input"" value should be specified","Se debe especificar el valor de ""input""",module,Magento_CustomerGraphQl
 "Please specify a website.","Por favor especifique un sitio web.",module,Magento_CustomerImportExport
 "Please specify an email.","Por favor especifique un correo electrónico.",module,Magento_CustomerImportExport
 "We found an invalid value in a website column.","Encontramos un valor inválido en una columna de sitio Web.",module,Magento_CustomerImportExport
@@ -6008,7 +6008,7 @@ CSV,CSV,module,Magento_GiftCardAccount
 "Are you sure you want to delete these gift card accounts?","¿Está seguro que desea eliminar estas cuentas de tarjeta de regalo?",module,Magento_GiftCardAccount
 Code,Código,module,Magento_GiftCardAccount
 End,Fin,module,Magento_GiftCardAccount
-"Amount can be returned to Store Credit.","Amount can be returned to Store Credit.",module,Magento_GiftCardAccount
+"Amount can be returned to Store Credit.","La cantidad puede ser devuelta al crédito de la tienda.",module,Magento_GiftCardAccount
 """model"" value should be specified","Se debe especificar el valor del ""model""",module,Magento_GiftCardGraphQl
 "Gift Messages are not applicable for empty cart","Los mensajes para regalo no son aplicables en un carrito vacío",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","Los mensajes de regalo no son aplicables a artículos virtuales",module,Magento_GiftMessage
@@ -6672,7 +6672,7 @@ Status,Estatus,module,Magento_Indexer
 Updated,Actualizado,module,Magento_Indexer
 "Your order number is: %1.","Tu numero de orden es: %1.",module,Magento_InstantPurchase
 "Something went wrong while processing your order. Please try again later.","Algo salió mal mientras procesaba su pedido. Por favor, inténtelo de nuevo más tarde.",module,Magento_InstantPurchase
-"A payment method isn't defined for instance purchase. Verify and try again.","Un método de pago no está definido para esta compra. Compruebelo y vuelva a intentarlo.",module,Magento_InstantPurchase
+"A payment method isn't defined for instance purchase. Verify and try again.","Un método de pago no está definido para este caso de compra. Compruébelo y vuelva a intentarlo.",module,Magento_InstantPurchase
 "Shipping address is not defined for instance purchase.","La dirección de envío no está definida para compra de instancia.",module,Magento_InstantPurchase
 "Billing address is not defined for instance purchase.","La dirección de facturación no está definida para compra de instancia.",module,Magento_InstantPurchase
 "Shipping method is not defined for instance purchase.","El método de envío no está definido para compra de instancia.",module,Magento_InstantPurchase
@@ -6689,7 +6689,7 @@ Updated,Actualizado,module,Magento_Indexer
 "Payment Method","Método de pago",module,Magento_InstantPurchase
 "Shipping Method","Método de envío",module,Magento_InstantPurchase
 Enabled,Habilitado,module,Magento_InstantPurchase
-"Payment method with vault and instant purchase support should be enabled.","Payment method with vault and instant purchase support should be enabled.",module,Magento_InstantPurchase
+"Payment method with vault and instant purchase support should be enabled.","El soporte para el método de pago con caja fuerte y compra instantánea debe estar habilitado.",module,Magento_InstantPurchase
 "Button Text","Botón de texto",module,Magento_InstantPurchase
 Integrations,Integraciones,module,Magento_Integration
 "Add New Integration","Añadir nueva integración",module,Magento_Integration
@@ -7433,7 +7433,7 @@ Options,Opciones,module,Magento_Multishipping
 "We received your order!","Hemos recibido su pedido!",module,Magento_Multishipping
 "Ship to:","Enviar a:",module,Magento_Multishipping
 Error:,Error:,module,Magento_Multishipping
-"We are unable to process your request. Please, try again later.","We are unable to process your request. Please, try again later.",module,Magento_Multishipping
+"We are unable to process your request. Please, try again later.","No podemos procesar su solicitud. Por favor, inténtelo de nuevo más tarde.",module,Magento_Multishipping
 "Message has been rejected: %1","Mensaje ha sido rechazado: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","Limpieza de cola de mensajes de MySQL",module,Magento_MysqlMq
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Todos los tiempos están en minutos. Utilice ""0"" si desea saltar la limpieza automática.",module,Magento_MysqlMq
@@ -7884,8 +7884,8 @@ General,General,module,Magento_NewRelicReporting
 "This is located by navigating to Settings from the New Relic APM website","Este se encuentra navegando a Settings de la nueva página web Relic APM",module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
 "Enable Cron","Habilitar Cron",module,Magento_NewRelicReporting
-"Send Adminhtml and Frontend as Separate Apps","Send Adminhtml and Frontend as Separate Apps",module,Magento_NewRelicReporting
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.",module,Magento_NewRelicReporting
+"Send Adminhtml and Frontend as Separate Apps","Enviar Adminhtml y Frontend como aplicaciones separadas",module,Magento_NewRelicReporting
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Además de la aplicación principal (que incluye toda la ejecución de PHP), se crearán aplicaciones separadas para adminhtml y frontend. Requiere que se establezca el nombre de la nueva aplicación Relic.",module,Magento_NewRelicReporting
 "Delete Selected Problems","Eliminar problemas seleccionados",module,Magento_Newsletter
 "Unsubscribe Selected","Cancelar las suscripciones seleccionadas",module,Magento_Newsletter
 Back,Volver,module,Magento_Newsletter
@@ -8052,7 +8052,7 @@ Enabled,Habilitado,module,Magento_OfflinePayments
 "New Order Status","Nuevo estado del pedido",module,Magento_OfflinePayments
 "Sort Order","Orden de aparición",module,Magento_OfflinePayments
 Title,Título,module,Magento_OfflinePayments
-"Purchase order number is a required field.","Purchase order number is a required field.",module,Magento_OfflinePayments
+"Purchase order number is a required field.","El número de orden de compra es un campo obligatorio.",module,Magento_OfflinePayments
 "Payment from Applicable Countries","Pago desde países aceptados",module,Magento_OfflinePayments
 "Payment from Specific Countries","Pago desde países específicos",module,Magento_OfflinePayments
 "Make Check Payable to","Pagar el cheque a",module,Magento_OfflinePayments
@@ -9015,31 +9015,31 @@ error345,error345,module,Magento_Quote
 Carts,Carritos,module,Magento_Quote
 "Manage carts","Administrar carritos",module,Magento_Quote
 "Invalid state change requested","Cambio de estado inválido solicitado",module,Magento_Quote
-"Shopping cart error: %message","Shopping cart error: %message",module,Magento_QuoteGraphQl
-"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_QuoteGraphQl
-"Missing key ""sku"" in cart item data","Missing key ""sku"" in cart item data",module,Magento_QuoteGraphQl
-"Missing key ""qty"" in cart item data","Missing key ""qty"" in cart item data",module,Magento_QuoteGraphQl
-"Could not find a cart with ID ""%masked_cart_id""","Could not find a cart with ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"The current user cannot perform operations on cart ""%masked_cart_id""","The current user cannot perform operations on cart ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"You cannot specify multiple shipping addresses.","You cannot specify multiple shipping addresses.",module,Magento_QuoteGraphQl
-"The shipping address must contain either ""customer_address_id"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
-"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
-"Option type ""%1"" is not supported","Option type ""%1"" is not supported",module,Magento_QuoteGraphQl
-"%1 doesn't implement CustomizableOptionValueInterface","%1 doesn't implement CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
-"Missing key ""cart_id"" in cart data","Missing key ""cart_id"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""cartItems"" in cart data","Missing key ""cartItems"" in cart data",module,Magento_QuoteGraphQl
-"Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""coupon_code"" is missing","Required parameter ""coupon_code"" is missing",module,Magento_QuoteGraphQl
-"A coupon is already applied to the cart. Please remove it to apply another","A coupon is already applied to the cart. Please remove it to apply another",module,Magento_QuoteGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_QuoteGraphQl
-"Missing key ""product"" in cart data","Missing key ""product"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""type_id"" in product data","Missing key ""type_id"" in product data",module,Magento_QuoteGraphQl
-"Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_addresses"" is missing","Required parameter ""shipping_addresses"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_methods"" is missing","Required parameter ""shipping_methods"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""cart_address_id"" is missing","Required parameter ""cart_address_id"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_carrier_code"" is missing","Required parameter ""shipping_carrier_code"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_method_code"" is missing","Required parameter ""shipping_method_code"" is missing",module,Magento_QuoteGraphQl
+"Shopping cart error: %message","Error del carrito de compras: %message",module,Magento_QuoteGraphQl
+"Could not find a product with SKU ""%sku""","No se pudo encontrar un producto con el SKU ""%sku""",module,Magento_QuoteGraphQl
+"Missing key ""sku"" in cart item data","Falta la clave ""sku"" en los datos del artículo del carrito",module,Magento_QuoteGraphQl
+"Missing key ""qty"" in cart item data","Falta la clave ""qty"" en los datos del artículo del carrito",module,Magento_QuoteGraphQl
+"Could not find a cart with ID ""%masked_cart_id""","No se pudo encontrar un carrito con el ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"The current user cannot perform operations on cart ""%masked_cart_id""","El usuario actual no puede realizar operaciones en el carrito ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping addresses.","No puede especificar múltiples direcciones de envío.",module,Magento_QuoteGraphQl
+"The shipping address must contain either ""customer_address_id"" or ""address"".","La dirección de envío debe contener ""customer_address_id"" o ""address"".",module,Magento_QuoteGraphQl
+"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","La dirección de envío no puede contener ""customer_address_id"" y ""address"" al mismo tiempo.",module,Magento_QuoteGraphQl
+"Option type ""%1"" is not supported","El tipo de opción ""%1"" no es compatible",module,Magento_QuoteGraphQl
+"%1 doesn't implement CustomizableOptionValueInterface","%1 no implementa CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
+"Missing key ""cart_id"" in cart data","Falta la clave ""cart_id"" en los datos del carrito",module,Magento_QuoteGraphQl
+"Missing key ""cartItems"" in cart data","Falta la clave ""cartItems"" en los datos del carrito",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing","Falta el parámetro requerido ""cart_id""",module,Magento_QuoteGraphQl
+"Required parameter ""coupon_code"" is missing","Falta el parámetro requerido ""coupon_code""",module,Magento_QuoteGraphQl
+"A coupon is already applied to the cart. Please remove it to apply another","Ya se ha aplicado un cupón al carrito. Por favor, elimínelo para aplicar otro",module,Magento_QuoteGraphQl
+"""model"" value should be specified","Se debe especificar el valor del ""model""",module,Magento_QuoteGraphQl
+"Missing key ""product"" in cart data","Falta la clave ""product"" en los datos del carrito",module,Magento_QuoteGraphQl
+"Missing key ""type_id"" in product data","Falta la clave ""type_id"" en los datos del producto",module,Magento_QuoteGraphQl
+"Product ""%product_type"" type is not supported","El tipo de producto ""%product_type"" no es compatible",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_addresses"" is missing","Falta el parámetro requerido ""shipping_addresses""",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_methods"" is missing","Falta el parámetro requerido ""shipping_methods""",module,Magento_QuoteGraphQl
+"Required parameter ""cart_address_id"" is missing","Falta el parámetro requerido ""cart_address_id""",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_carrier_code"" is missing","Falta el parámetro requerido ""shipping_carrier_code""",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_method_code"" is missing","Falta el parámetro requerido ""shipping_method_code""",module,Magento_QuoteGraphQl
 "Next >","Siguiente >",module,Magento_ReleaseNotification
 "< Back","< Atrás",module,Magento_ReleaseNotification
 Done,Hecho,module,Magento_ReleaseNotification
@@ -10278,7 +10278,7 @@ SKU,"Unidad de mantenimiento de existencias (SKU)",module,Magento_Sales
 Price,Precio,module,Magento_Sales
 Select,Seleccione,module,Magento_Sales
 Quantity,Cantidad,module,Magento_Sales
-"Shipping Address","Direccion de envio",module,Magento_Sales
+"Shipping Address","Dirección de envío",module,Magento_Sales
 "Shipping Method","Método de envío",module,Magento_Sales
 "Update Changes","Actualizar los cambios",module,Magento_Sales
 "Shopping Cart","Carrito de compras",module,Magento_Sales
@@ -11103,7 +11103,7 @@ Shipment,Envío,module,Magento_SalesArchive
 "Total Quantity","Cantidad Total",module,Magento_SalesArchive
 "Go to Archive","Ir a archivo",module,Magento_SalesArchive
 "The ""%1"" product is not part of the current creditmemo.","El producto ""%1"" no forma parte de la devolución.",module,Magento_SalesInventory
-"The return to stock argument contains product item that is not part of the original order.","La vuelta al argumento común contiene producto de que no es parte de la orden original.",module,Magento_SalesInventory
+"The return to stock argument contains product item that is not part of the original order.","El argumento de devolución al stock contiene un artículo de producto que no forma parte del pedido original.",module,Magento_SalesInventory
 "Cart Price Rules","Regla de precio para el carrito de compras",module,Magento_SalesRule
 "Add New Rule","Añadir nueva regla",module,Magento_SalesRule
 Delete,Borrar,module,Magento_SalesRule
@@ -11618,13 +11618,13 @@ Enabled,Habilitado,module,Magento_SendFriend
 "Max Recipients","Máximos destinatarios.",module,Magento_SendFriend
 "Max Products Sent in 1 Hour","Máximos artículos enviados en 1 hora",module,Magento_SendFriend
 "Limit Sending By","Límite de envío por",module,Magento_SendFriend
-"You can't send messages more than %1 times an hour.","You can't send messages more than %1 times an hour.",module,Magento_SendFriendGraphQl
-"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_SendFriendGraphQl
-"Please provide Name for all of recipients.","Please provide Name for all of recipients.",module,Magento_SendFriendGraphQl
-"Please provide Email for all of recipients.","Please provide Email for all of recipients.",module,Magento_SendFriendGraphQl
-"Please provide Name of sender.","Please provide Name of sender.",module,Magento_SendFriendGraphQl
-"Please provide Email of sender.","Please provide Email of sender.",module,Magento_SendFriendGraphQl
-"Please provide Message.","Please provide Message.",module,Magento_SendFriendGraphQl
+"You can't send messages more than %1 times an hour.","No puedes enviar más de %1 mensajes por hora.",module,Magento_SendFriendGraphQl
+"The product that was requested doesn't exist. Verify the product and try again.","El producto solicitado no existe. Verifique el producto y vuelva a intentarlo.",module,Magento_SendFriendGraphQl
+"Please provide Name for all of recipients.","Por favor, indique el nombre de todos los destinatarios.",module,Magento_SendFriendGraphQl
+"Please provide Email for all of recipients.","Por favor, indique un correo electrónico para todos los destinatarios.",module,Magento_SendFriendGraphQl
+"Please provide Name of sender.","Por favor, indique el nombre del remitente.",module,Magento_SendFriendGraphQl
+"Please provide Email of sender.","Por favor, indique el correo electrónico del remitente.",module,Magento_SendFriendGraphQl
+"Please provide Message.","Por favor, proporcione un mensaje.",module,Magento_SendFriendGraphQl
 "Save and Continue Edit","Guardar y continuar editando",module,Magento_SharedCatalog
 "Catalog Structure","Estructura del catálogo",module,Magento_SharedCatalog
 "Catalog Id","Id de Catálogo",module,Magento_SharedCatalog
@@ -11795,7 +11795,7 @@ tier_price_form,tier_price_form,module,Magento_SharedCatalog
 Website,"Página web",module,Magento_SharedCatalog
 Quantity,Cantidad,module,Magento_SharedCatalog
 "New Shipment for Order #%1","Nuevo envío para el pedido nº %1",module,Magento_Shipping
-"Submit Shipment","Enviar albarán",module,Magento_Shipping
+"Submit Shipment","Enviar pedido",module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Estas tratando de agregar una cantidad para algunos productos que no coincide con la cantidad que fue enviada.",module,Magento_Shipping
 "Products should be added to package(s)","Los artículos deberían ser añadidos a paquete(s)",module,Magento_Shipping
 "The value that you entered is not valid.","El valor que ha introducido no es válido.",module,Magento_Shipping
@@ -11803,15 +11803,15 @@ Quantity,Cantidad,module,Magento_SharedCatalog
 "Custom Value","Valor personalizado",module,Magento_Shipping
 Add,Agregar,module,Magento_Shipping
 "Send Tracking Information","Enviar información de seguimiento",module,Magento_Shipping
-"Are you sure you want to send a Shipment email to customer?","¿Realmente quiere enviar al cliente un mensaje electrónico de envío?",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","¿Realmente quiere enviar al cliente un mensaje electrónico del pedido?",module,Magento_Shipping
 Print,Imprimir,module,Magento_Shipping
-"the shipment email was sent","El correo electrónico del envío fue enviado",module,Magento_Shipping
+"the shipment email was sent","el correo electrónico del pedido fue enviado",module,Magento_Shipping
 "the shipment email is not sent","El correo electrónico del envío no se ha enviado",module,Magento_Shipping
 "Shipment #%1 | %3 (%2)","Envío #%1 | %3 (%2)",module,Magento_Shipping
 "Create Shipping Label...","Crear etiqueta de envío...",module,Magento_Shipping
 "Print Shipping Label","Imprimir etiqueta de envío",module,Magento_Shipping
 "Show Packages","Mostrar paquetes",module,Magento_Shipping
-"About Your Shipment","Acerca de su envío",module,Magento_Shipping
+"About Your Shipment","Acerca de su pedido",module,Magento_Shipping
 "Order # %1","Pedido # %1",module,Magento_Shipping
 "Back to My Orders","Volver a mis pedidos",module,Magento_Shipping
 "View Another Order","Ver otro pedido",module,Magento_Shipping
@@ -11819,27 +11819,27 @@ Print,Imprimir,module,Magento_Shipping
 "Cannot add new comment.","No se puede agregar un nuevo comentario.",module,Magento_Shipping
 "Please specify a carrier.","Por favor especifica una mensajería.",module,Magento_Shipping
 "Please enter a tracking number.","Por favor, introduzca un número de seguimiento.",module,Magento_Shipping
-Shipments,Albaranes,module,Magento_Shipping
+Shipments,Envíos,module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","No podemos inicializar envío para agregar el número de seguimiento.",module,Magento_Shipping
 "Cannot add tracking number.","No se puede agregar el número de seguimiento.",module,Magento_Shipping
 "You created the shipping label.","Ha creado una etiqueta de envío.",module,Magento_Shipping
 "An error occurred while creating shipping label.","Ha ocurrido un error al crear la etiqueta de envío.",module,Magento_Shipping
 "An email confirming the order is underway has been sent to the customer.","Se ha enviado al cliente un correo electrónico que confirma que el pedido está en curso.",module,Magento_Shipping
-"Cannot send shipment information.","No puede enviar la información del envío.",module,Magento_Shipping
+"Cannot send shipment information.","No puede mandar la información del envío.",module,Magento_Shipping
 "There are no shipping labels related to selected orders.","No existen etiquetas de envío vinculadas a los pedidos seleccionados.",module,Magento_Shipping
-"New Shipment","Nuevo envío",module,Magento_Shipping
+"New Shipment","Nuevo pedido",module,Magento_Shipping
 "We don't recognize or support the file extension in this shipment: %1.","No reconocemos o admitimos la extensión de archivo en este envío: %1.",module,Magento_Shipping
 "We can't initialize shipment for delete tracking number.","No podemos inicializar el envío para borrar el número de seguimiento.",module,Magento_Shipping
 "We can't delete tracking number.","No podemos eliminar el número de seguimiento.",module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","No podemos cargar la pista con el identificador de recoleccion en este momento.",module,Magento_Shipping
 "We can't save the shipment right now.","No podemos guardar el envío en este momento.",module,Magento_Shipping
-"""Shipment Document Validation Error(s):\n"" .","""Error (es) de validación del documento de envío: \n"".",module,Magento_Shipping
+"""Shipment Document Validation Error(s):\n"" .","""Error (es) de validación de documentación del pedido: \n"".",module,Magento_Shipping
 "The shipment has been created.","El envío ha sido creado.",module,Magento_Shipping
 "Cannot save shipment.","No se puede guardar el envío.",module,Magento_Shipping
 "The order no longer exists.","Este pedido ya no existe.",module,Magento_Shipping
 "Cannot do shipment for the order separately from invoice.","No se puede realizar envíos para el pedido independientemente de la factura.",module,Magento_Shipping
 "Cannot do shipment for the order.","No se puede hacer el envío para el pedido.",module,Magento_Shipping
-"There are no shipping labels related to selected shipments.","No existen etiquetas de envío vinculadas a los envíos seleccionados.",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","No existen etiquetas de envío vinculadas a los pedidos seleccionados.",module,Magento_Shipping
 "Page not found.","Página no encontrada.",module,Magento_Shipping
 "Tracking Information","Información de seguimiento",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Lo sentimos, pero nosotros no podemos entregar al país de destino con este módulo de envío.",module,Magento_Shipping
@@ -11891,13 +11891,13 @@ message,mensaje,module,Magento_Shipping
 "Items to Ship","Artículos para enviar",module,Magento_Shipping
 "Qty to Ship","Cantidad a enviar",module,Magento_Shipping
 Ship,Enviar,module,Magento_Shipping
-"Shipment Total","Envío Total",module,Magento_Shipping
-"Shipment Comments","Comentarios del envío",module,Magento_Shipping
+"Shipment Total","Pedido Total",module,Magento_Shipping
+"Shipment Comments","Comentarios del pedido",module,Magento_Shipping
 "Comment Text","Texto del comentario",module,Magento_Shipping
 "Shipment Options","Opciones de envío",module,Magento_Shipping
 "Create Shipping Label","Crear etiqueta de envío",module,Magento_Shipping
 "Append Comments","Anexar comentarios",module,Magento_Shipping
-"Email Copy of Shipment","Enviar una copia del envío por correo electrónico",module,Magento_Shipping
+"Email Copy of Shipment","Enviar una copia del pedido por correo electrónico",module,Magento_Shipping
 "Invalid value(s) for Qty to Ship","Valor(es) invalidos de Cantidad para Envio",module,Magento_Shipping
 "Select All","Seleccionar todo",module,Magento_Shipping
 "Product Name","Nombre del producto",module,Magento_Shipping
@@ -11924,13 +11924,13 @@ Action,Acción,module,Magento_Shipping
 "Track Order","Seguimiento de pedidos",module,Magento_Shipping
 "No shipping information available","No hay información disponible sobre el envío",module,Magento_Shipping
 "Shipping and Tracking Information","Información de envío y seguimiento",module,Magento_Shipping
-"Track this shipment","Realizar un seguimiento de este envío",module,Magento_Shipping
+"Track this shipment","Realizar un seguimiento de este pedido",module,Magento_Shipping
 "Items Shipped","Artículos enviados",module,Magento_Shipping
 "Order Total","Total del pedido",module,Magento_Shipping
 "Shipment History","Historial del envío",module,Magento_Shipping
 "Qty Shipped","Cantidad enviada",module,Magento_Shipping
 "Print All Shipments","Imprimir todos los envíos",module,Magento_Shipping
-"Shipment #","Envío nº",module,Magento_Shipping
+"Shipment #","Pedido nº",module,Magento_Shipping
 "Print Shipment","Imprimir envío",module,Magento_Shipping
 "Tracking Number(s):","Número(s) de seguimiento(s):",module,Magento_Shipping
 SKU,SKU,module,Magento_Shipping
