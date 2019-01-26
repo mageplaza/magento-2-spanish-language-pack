@@ -24,51 +24,51 @@ Custom,Personalizado,module,Magento_AdminGws
 Remove,Eliminar,module,Magento_AdminNotification
 "Messages Inbox","Bandeja de entrada",module,Magento_AdminNotification
 "You have %1 new system messages","Tiene %1 nuevos mensajes del sistema",module,Magento_AdminNotification
-"You have %1 new system message","Tiene %1 nuevo mensaje del sistema",module,Magento_AdminNotification
+"You have %1 new system message","Tiene %1 nuevos mensajes del sistema",module,Magento_AdminNotification
 "Incoming Message","Mensaje entrante",module,Magento_AdminNotification
 close,cerrar,module,Magento_AdminNotification
 Notifications,Notificaciones,module,Magento_AdminNotification
 "The message has been marked as Read.","El mensaje se ha marcado como leído.",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","No pudimos marcar la notificación como leída debido a un error.",module,Magento_AdminNotification
 "Please select messages.","Seleccione mensajes.",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","Un total de %1 registro(s) se han marcado como leídos.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","Total de %1 registro(s) se han eliminado.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","No hemos podido quitar los mensajes debido a un error.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Un total de %1 registro(s) han sido marcado como leídos.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","El total de %1 de registro(s) han sido eliminados.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","No hemos podido eliminar los mensajes debido a un error.",module,Magento_AdminNotification
 "The message has been removed.","El mensaje ha sido eliminado.",module,Magento_AdminNotification
-"1 Hour","1 hora",module,Magento_AdminNotification
-"2 Hours","2 horas",module,Magento_AdminNotification
-"6 Hours","6 horas",module,Magento_AdminNotification
-"12 Hours","12 horas",module,Magento_AdminNotification
-"24 Hours","24 horas",module,Magento_AdminNotification
+"1 Hour","1 Hora",module,Magento_AdminNotification
+"2 Hours","2 Horas",module,Magento_AdminNotification
+"6 Hours","6 Horas",module,Magento_AdminNotification
+"12 Hours","12 Horas",module,Magento_AdminNotification
+"24 Hours","24 Horas",module,Magento_AdminNotification
 critical,crítico,module,Magento_AdminNotification
 major,principal,module,Magento_AdminNotification
-minor,secundario,module,Magento_AdminNotification
+minor,menor,module,Magento_AdminNotification
 notice,aviso,module,Magento_AdminNotification
 "Wrong message type","Tipo de mensaje incorrecto",module,Magento_AdminNotification
-"Wrong notification ID specified.","ID de la notificación especificado incorrecto.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","no se recomienda utilizar {{base_url}} en un entorno de producción para declarar la URL Base Insegura/Segura. Le recomendamos cambiar este valor en su <a href=""%1"">configuración</a> Magento.",module,Magento_AdminNotification
+"Wrong notification ID specified.","ID de la notificación especificada es incorrecto.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","no se recomienda utilizar {{base_url}} en un entorno de producción para declarar la URL Base Insegura/Segura. Le recomendamos cambiar este valor en su <a href=""%1"">configuración</a> de Magento.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1.","Uno o más de los tipos de memoria de caché son inválidos: %1 .",module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Por favor, vaya a <a href=""%1"">Administrador de la Cache</a> y actualice los tipos de memoria de caché.",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Por favor, vaya a <a href=""%1"">Administración de la Cache</a> y actualice los tipos de memoria de caché.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","No hemos podido sincronizar uno o más archivos multimedia. Por favor, consulte el archivo de registro para más detalles.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","La sincronización de almacenamiento multimedia se ha completado.",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Su servidor web no está configurado correctamente y permite el acceso no autorizado a archivos sensibles. Por favor, póngase en contacto con su proveedor de hosting.",module,Magento_AdminNotification
 "System Messages:","Mensajes del Sistema:",module,Magento_AdminNotification
-"Critical System Messages","Mensajes críticos del sistema",module,Magento_AdminNotification
+"Critical System Messages","Mensajes Críticos del Sistema",module,Magento_AdminNotification
 "Major System Messages","Mensajes principales del sistema",module,Magento_AdminNotification
 "System messages","Mensajes del Sistema",module,Magento_AdminNotification
 Close,Cerrar,module,Magento_AdminNotification
 "See All (","Ver todos (",module,Magento_AdminNotification
 unread),"no leídos)",module,Magento_AdminNotification
-"Show Toolbar","Mostrar barra de herramientas",module,Magento_AdminNotification
-"Show List","Mostrar lista",module,Magento_AdminNotification
+"Show Toolbar","Mostrar Barra de Herramientas",module,Magento_AdminNotification
+"Show List","Mostrar la Lista",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Utilizar HTTPS para obtener el feed",module,Magento_AdminNotification
-"Update Frequency","Frecuencia de actualización",module,Magento_AdminNotification
-"Last Update","Última actualización",module,Magento_AdminNotification
+"Update Frequency","Frecuencia de Actualización",module,Magento_AdminNotification
+"Last Update","Última Actualización",module,Magento_AdminNotification
 Severity,Importancia,module,Magento_AdminNotification
-"Date Added","Fecha creación",module,Magento_AdminNotification
+"Date Added","Fecha de Creación",module,Magento_AdminNotification
 Message,Mensaje,module,Magento_AdminNotification
 Actions,Acciones,module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Ha visto y resuelto todos los avisos recientes del sistema. Por favor actualice la página web para borrar la alarma de aviso.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Ha visto y resuelto todos los avisos recientes del sistema. Por favor actualice la página web para borrar la notificación de alerta.",module,Magento_AdminNotification
 "Manage Shopping Cart","Administrar carrito de compras",module,Magento_AdvancedCheckout
 "Create Order","Crear pedido",module,Magento_AdvancedCheckout
 Back,Atrás,module,Magento_AdvancedCheckout
@@ -1471,8 +1471,8 @@ Always,Siempre,module,Magento_Captcha
 "Incorrect CAPTCHA","CAPTCHA incorrecto",module,Magento_Captcha
 "Incorrect CAPTCHA.","CAPTCHA incorrecto.",module,Magento_Captcha
 "The account is locked. Please wait and try again or contact %1.","La cuenta está bloqueada. Por favor espere e inténtelo de nuevo o póngase en contacto con %1.",module,Magento_Captcha
-"Please enter the letters and numbers from the image","Por favor introduce las letras y los números de la imagen",module,Magento_Captcha
-"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Aviso</strong>: Captcha es sensible a mayúsculas.",module,Magento_Captcha
+"Please enter the letters and numbers from the image","Por favor introduzca las letras y los números de la imagen",module,Magento_Captcha
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Atención</strong>: Captcha es sensible al uso de mayúsculas y minúsculas.",module,Magento_Captcha
 "Reload captcha","Recargar captcha",module,Magento_Captcha
 "Please type the letters and numbers below","Por favor, escriba las letras y los números siguientes",module,Magento_Captcha
 "Attention: Captcha is case sensitive.","Atención: El Captcha es sensible a mayúsculas.",module,Magento_Captcha
