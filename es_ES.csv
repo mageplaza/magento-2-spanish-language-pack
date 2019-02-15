@@ -547,7 +547,7 @@ Stores,Tiendas,module,Magento_Backend
 Home,"Página de inicio",module,Magento_Backend
 Reset,Restablecer,module,Magento_Backend
 "Are you sure you want to do this?","¿Está seguro que desea hacer esto?",module,Magento_Backend
-label,label,module,Magento_Backend
+label,etiqueta,module,Magento_Backend
 "Add New Image","Añadir nueva imagen",module,Magento_Backend
 "Export block for grid %1 is not defined","Bloque de exportación para %1 de red no está definido",module,Magento_Backend
 "Reset Filter","Restablecer filtro",module,Magento_Backend
@@ -777,7 +777,7 @@ Developer,Desarrollador,module,Magento_Backend
 Debug,Depurar,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Habilitar Consejos en la Ruta de Plantilla para el Escaparate",module,Magento_Backend
 "Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Parameter Value","Valor del parámetro",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Habilitar Consejos en la Ruta de Plantilla para el Administrador",module,Magento_Backend
 "Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
 "Template Settings","Configuración de la Plantilla",module,Magento_Backend
@@ -833,10 +833,10 @@ Host,Servidor,module,Magento_Backend
 "Return-Path Email","Correo electrónico de ruta de retorno",module,Magento_Backend
 "Images Upload Configuration","Images Upload Configuration",module,Magento_Backend
 "Enable Frontend Resize","Enable Frontend Resize",module,Magento_Backend
-"Maximum Width","Maximum Width",module,Magento_Backend
-"Maximum allowed width for uploaded image.","Maximum allowed width for uploaded image.",module,Magento_Backend
-"Maximum Height","Maximum Height",module,Magento_Backend
-"Maximum allowed height for uploaded image.","Maximum allowed height for uploaded image.",module,Magento_Backend
+"Maximum Width","Ancho máximo",module,Magento_Backend
+"Maximum allowed width for uploaded image.","Máxima anchura permitida para la imagen subida.",module,Magento_Backend
+"Maximum Height","Altura máxima",module,Magento_Backend
+"Maximum allowed height for uploaded image.","Máxima altura permitida para la imagen subida.",module,Magento_Backend
 Admin,Administrador,module,Magento_Backend
 "Admin User Emails","Correos electrónicos del usuario administrador",module,Magento_Backend
 "Forgot Password Email Template","Plantilla de Email de Contraseña olvidada",module,Magento_Backend
@@ -14587,6 +14587,6 @@ Footer,"Pie de página",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","La confirmación de su envío está abajo. Gracias otra vez por su compra.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Su envío nº %shipment_id para el pedido nº %order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Actualización el envío de %store_name",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","Mi Cuenta",theme,frontend/Magento/luma
 "Address Book","Libreta de direcciones",theme,frontend/Magento/luma
 "Account Information","Información de la cuenta",theme,frontend/Magento/luma
