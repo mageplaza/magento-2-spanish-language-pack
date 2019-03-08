@@ -2947,7 +2947,7 @@ Edit,Editar,module,Magento_Checkout
 "Estimate Tax","Calcular impuestos",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimación de envío e impuestos",module,Magento_Checkout
 "Excl. Tax","Impuestos NO Incl.",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Ha agregado %1 al <a href=""%2"">carrito de compras</a>.",module,Magento_Checkout
 Loading...,Cargando...,module,Magento_Checkout
 "Order #","Pedido nº",module,Magento_Checkout
 "Proceed to Checkout","Tramitar pedido",module,Magento_Checkout
@@ -5632,7 +5632,7 @@ Letters,Letras,module,Magento_Eav
 "The entity supplied is invalid. Verify the entity and try again.","The entity supplied is invalid. Verify the entity and try again.",module,Magento_Eav
 "The ""%1"" backend model is invalid. Verify the backend model and try again.","The ""%1"" backend model is invalid. Verify the backend model and try again.",module,Magento_Eav
 "Source model ""%1"" not found for attribute ""%2""","Modelo de la fuente ""%1"" no ha encontrado para el atributo ""%2""",module,Magento_Eav
-"The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Eav
+"The ""%1"" attribute value is empty. Set the attribute and try again.","El valor del atributo ""%1"" está vacío. Rellene el atributo y vuelve a intentarlo.",module,Magento_Eav
 "The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","The value of the ""%1"" attribute isn't unique. Set a unique value and try again.",module,Magento_Eav
 "Invalid date","Fecha no válida",module,Magento_Eav
 "The attribute code is empty. Enter the code and try again.","The attribute code is empty. Enter the code and try again.",module,Magento_Eav
