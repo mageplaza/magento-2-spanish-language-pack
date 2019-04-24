@@ -118,11 +118,13 @@ To download and install Spanish pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/es_es/es_ES.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/es_es/`
 
-See this screenshot
+See this screenshot:
 
 ![Spanish pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **es_es**
 
 #### Step 2: Flush cache
 
