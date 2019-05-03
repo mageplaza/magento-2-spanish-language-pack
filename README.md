@@ -5,6 +5,7 @@ Magento 2 platform approves multiple languages around the world, so **Magento 2 
 
 Read more [Magento 2 Spanish Language Pack](https://www.mageplaza.com/magento-2-spanish-language-pack.html)
 
+![Mageplaza Spanish language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
