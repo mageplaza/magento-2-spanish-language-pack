@@ -11,7 +11,7 @@
 "You need more permissions to view this item.","Necesita más permisos para ver este artículo.",module,Magento_AdminGws
 "Please specify at least one website or one store group.","Especifique al menos un sitio web o un grupo de tienda.",module,Magento_AdminGws
 "You need more permissions to set All Scopes to a Role.","Necesita más permisos para establecer todos los ámbitos en un rol.",module,Magento_AdminGws
-"Incorrect website ID: %1","ID de sitio incorrecto: %f1",module,Magento_AdminGws
+"Incorrect website ID: %1","ID de sitio incorrecto: %1",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","Necesitas más permisos para acceder a la página web ""%1"".",module,Magento_AdminGws
 "Incorrect store ID: %1","ID de tienda incorrecta: %1",module,Magento_AdminGws
 "You need more permissions to save this setting.","Necesitas más permisos para guardar esta configuración.",module,Magento_AdminGws
