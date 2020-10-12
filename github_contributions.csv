@@ -1,1 +1,3 @@
 Mageplaza,Mageplaza
+"If an item is %1 in the cart with %2 of these conditions true:","Si un artículo es %1 en la cesta con %2 de estas condiciones verdaderas:",module,Magento_SalesRule
+"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","Si %1 %2 %3 para una subselección de artículos en la cesta coincidiendo %4 de estas condiciones:",module,Magento_SalesRule
