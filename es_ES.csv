@@ -8326,7 +8326,7 @@ esto no afectará al filtro de precios.",module,Magento_LayeredNavigation
 "Billing Information - %1","Información de facturación - %1",module,Magento_Multishipping
 "Review Order - %1","Revisar pedido - %1",module,Magento_Multishipping
 "Total","Totals",module,Magento_Multishipping
-"Total for this address","Gesamtbetrag für diese Adresse",module,Magento_Multishipping
+"Total for this address","Total para esta dirección",module,Magento_Multishipping
 "Shipping Methods","Métodos de envío",module,Magento_Multishipping
 "Edit Address","Editar dirección",module,Magento_Multishipping
 "Edit Billing Address","Modificar dirección de facturación",module,Magento_Multishipping
@@ -8398,7 +8398,7 @@ esto no afectará al filtro de precios.",module,Magento_LayeredNavigation
 "Price","Precio",module,Magento_Multishipping
 "Subtotal","Subtotal",module,Magento_Multishipping
 "Items","Artículos",module,Magento_Multishipping
-"Grand Total:","Gesamtbetrag:",module,Magento_Multishipping
+"Grand Total:","Gran Total:",module,Magento_Multishipping
 "Submitting order information...","Enviando la información del pedido...",module,Magento_Multishipping
 "Not all items were included.","No todos los artículos se incluyeron.",module,Magento_Multishipping
 "For details, see","Para mas detalles, vea",module,Magento_Multishipping
