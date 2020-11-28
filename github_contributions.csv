@@ -1,3 +1,10 @@
 Mageplaza,Mageplaza
 "If an item is %1 in the cart with %2 of these conditions true:","Si un artículo es %1 en la cesta con %2 de estas condiciones verdaderas:",module,Magento_SalesRule
 "If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","Si %1 %2 %3 para una subselección de artículos en la cesta coincidiendo %4 de estas condiciones:",module,Magento_SalesRule
+"Enabled by Default","Habilitado por Defecto",module,Magento_Cms
+"Enabled by Default","Habilitado por Defecto",module,Magento_VersionsCms
+"Yes (302 Found)","Sí (302 Encontrado)",module,Magento_Config
+"Yes (301 Moved Permanently)","Sí (301 Movido Permanentemente)",module,Magento_Config
+"Item not found or already ordered","Artículo no encontrado o ya pedido",module,Magento_Multishipping
+"Unable to save Cron expression","No se puede guardar la expresión Cron",module,Magento_Reminder
+"Recent statistics have been updated.","Se han actualizado las estadísticas recientes.",module,Magento_Reports
