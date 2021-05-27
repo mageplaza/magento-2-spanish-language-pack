@@ -160,7 +160,7 @@
 "%1 products require your attention.","Los artículos %1 requieren su atención.",module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Sí, para grupos de cliente especificados",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Sí, para todos",module,Magento_AdvancedCheckout
-"No","No 	",module,Magento_AdvancedCheckout
+"No","No",module,Magento_AdvancedCheckout
 "The file is corrupt.","El archivo está dañado.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Por favor, sube el archivo en formato CSV.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 artículo(s) necesitan su atención.",module,Magento_AdvancedCheckout
@@ -259,7 +259,7 @@
 "Redirect URL","URL de redirección",module,Magento_AdvancedSearch
 "Suggested Term","Término sugerido",module,Magento_AdvancedSearch
 "Yes","Sí",module,Magento_AdvancedSearch
-"No","No 	",module,Magento_AdvancedSearch
+"No","No",module,Magento_AdvancedSearch
 "Action","Acción",module,Magento_AdvancedSearch
 "Edit","Editar",module,Magento_AdvancedSearch
 "Synonym","Sinónimo",module,Magento_AdvancedSearch
@@ -590,7 +590,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Backup Options","Opciones de copia de seguridad",module,Magento_Backend
 "Create DB Backup","Crear copia de seguridad de la BD",module,Magento_Backend
 "Yes","Sí",module,Magento_Backend
-"No","No 	",module,Magento_Backend
+"No","No",module,Magento_Backend
 "Delete Store","Borrar tienda",module,Magento_Backend
 "Delete Web Site","Eliminar sitio Web",module,Magento_Backend
 "Save Web Site","Guardar sitio Web",module,Magento_Backend
@@ -1479,7 +1479,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Card Number","Número de la tarjeta",module,Magento_Braintree
 "Is Default","Es por defecto",module,Magento_Braintree
 "Yes","Sí",module,Magento_Braintree
-"No","No 	",module,Magento_Braintree
+"No","No",module,Magento_Braintree
 "Edit","Editar",module,Magento_Braintree
 "An error occured with payment processing.","Se ha producido un error con el proceso de pago.",module,Magento_Braintree
 "Can not initialize PayPal (Braintree)","No se puede inicializar PayPal (Braintree)",module,Magento_Braintree
@@ -1767,7 +1767,7 @@ y el descriptor del producto puede ser de hasta 18, 14 o 9 caracteres respectiva
 "Media Image","Imagen multimedia",module,Magento_Catalog
 "Gallery","Galería",module,Magento_Catalog
 "System Properties","Propiedades de sistema",module,Magento_Catalog
-"No","No 	",module,Magento_Catalog
+"No","No",module,Magento_Catalog
 "Yes","Sí",module,Magento_Catalog
 "Data Type for Saving in Database","Tipo de datos para guardar en la base de datos",module,Magento_Catalog
 "Text","Texto",module,Magento_Catalog
@@ -2852,7 +2852,7 @@ Tiempo en segundos entre actualizaciones de widgets.,module,Magento_Catalog
 "Add to Cart","Añadir al carrito",module,Magento_CatalogPermissions
 "Yes, for Everyone","Sí, para todos",module,Magento_CatalogPermissions
 "Yes, for Specified Customer Groups","Sí, para grupos de cliente especificados",module,Magento_CatalogPermissions
-"No","No 	",module,Magento_CatalogPermissions
+"No","No",module,Magento_CatalogPermissions
 "No, Redirect to Landing Page","No, redirigir a la página de inicio",module,Magento_CatalogPermissions
 "Permission with the same scope","Permiso con el mismo alcance",module,Magento_CatalogPermissions
 "You may need more permissions to access this category.","Puede que necesite más permisos para acceder a esta categoría.",module,Magento_CatalogPermissions
@@ -2959,7 +2959,7 @@ Tiempo en segundos entre actualizaciones de widgets.,module,Magento_Catalog
 "Discount Amount","Monto de descuento",module,Magento_CatalogRule
 "Discard subsequent rules","Deseche las reglas subsecuentes",module,Magento_CatalogRule
 "Yes","Sí",module,Magento_CatalogRule
-"No","No 	",module,Magento_CatalogRule
+"No","No",module,Magento_CatalogRule
 "Edit Rule '%1'","Editar regla '%1'",module,Magento_CatalogRule
 "Pricing Structure Rules","Reglas de estructura de precios",module,Magento_CatalogRule
 "Subproduct discounts","Descuentos de subproducto",module,Magento_CatalogRule
@@ -3002,7 +3002,7 @@ Tiempo en segundos entre actualizaciones de widgets.,module,Magento_Catalog
 "Discount Amount","Monto de descuento",module,Magento_CatalogRuleStaging
 "Discard subsequent rules","Deseche las reglas subsecuentes",module,Magento_CatalogRuleStaging
 "Yes","Sí",module,Magento_CatalogRuleStaging
-"No","No 	",module,Magento_CatalogRuleStaging
+"No","No",module,Magento_CatalogRuleStaging
 "Save as a New Update","Guardar como una nueva actualización",module,Magento_CatalogRuleStaging
 "Move to Another Update","Mover a otra actualización",module,Magento_CatalogRuleStaging
 "Delete the Update","Eliminar la actualización",module,Magento_CatalogRuleStaging
@@ -3025,7 +3025,7 @@ Tiempo en segundos entre actualizaciones de widgets.,module,Magento_Catalog
 "Catalog Advanced Search","Búsqueda avanzada de catálogo",module,Magento_CatalogSearch
 "All","Todos",module,Magento_CatalogSearch
 "Yes","Sí",module,Magento_CatalogSearch
-"No","No 	",module,Magento_CatalogSearch
+"No","No",module,Magento_CatalogSearch
 "Results","Resultados",module,Magento_CatalogSearch
 "Advanced Search Results","Resultados de búsqueda avanzada",module,Magento_CatalogSearch
 "Grid","Parrilla",module,Magento_CatalogSearch
@@ -4113,7 +4113,7 @@ por la siguiente razón:",module,Magento_Company
 "We can't save the credit memo because the company associated with this customer does not exist.","No podemos guardar la nota de credito porque la empresa asociada al cliente no existe.",module,Magento_CompanyCredit
 "We can't save the credit memo because the company associated with customer is not active.","No podemos guardar la nota de credito porque la empresa asociada al cliente no está activa.",module,Magento_CompanyCredit
 "Yes","Sí",module,Magento_CompanyCredit
-"No","No 	",module,Magento_CompanyCredit
+"No","No",module,Magento_CompanyCredit
 "The requested Payment Method is not available.","El método de pago solicitado no está disponible.",module,Magento_CompanyCredit
 "Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","Pago A Cuenta no se puede utilizar para este pedido porque el importe de su pedido excede el importe de su crédito.",module,Magento_CompanyCredit
 "Cannot process the request. Please check the operation type and try again.","No se puede procesar la solicitud. Por favor, compruebe el tipo de operación y vuelva a intentarlo.",module,Magento_CompanyCredit
@@ -4314,7 +4314,7 @@ Máximo 255 caracteres permitidos.,module,Magento_CompanyCredit
 "Separate Email","Separate eMail",module,Magento_Config
 "%1 (Default)","%1 (por defecto)",module,Magento_Config
 "title","título",module,Magento_Config
-"No","No 	",module,Magento_Config
+"No","No",module,Magento_Config
 "Optional","Freiwillig",module,Magento_Config
 "Required","Requerido",module,Magento_Config
 "Website","Página web",module,Magento_Config
@@ -4689,7 +4689,7 @@ new products will be created. Use this step to customize images and price for yo
 "[STORE VIEW]","[VISTA DE TIENDA]",module,Magento_CustomAttributeManagement
 "The current module XML block name is undefined.","El actual nombre del bloque módulo XML está indefinido.",module,Magento_CustomAttributeManagement
 "The current module form model pathname is undefined.","El pathname del modulo de forma actual esta indefinido.",module,Magento_CustomAttributeManagement
-"No","No 	",module,Magento_CustomAttributeManagement
+"No","No",module,Magento_CustomAttributeManagement
 "Yes","Sí",module,Magento_CustomAttributeManagement
 "Use helper with defined EAV entity.","Usar helper con entidad EAV definida.",module,Magento_CustomAttributeManagement
 "Default EAV Form","Formulario EAV predeterminado",module,Magento_CustomAttributeManagement
@@ -4788,7 +4788,7 @@ new products will be created. Use this step to customize images and price for yo
 "Add Date","Añadir fecha",module,Magento_Customer
 "Days in Wish List","Días en favoritos",module,Magento_Customer
 "Unlock","Desbloquear",module,Magento_Customer
-"No","No 	",module,Magento_Customer
+"No","No",module,Magento_Customer
 "Yes","Sí",module,Magento_Customer
 "Delete File","Eliminar archivo",module,Magento_Customer
 "Download","Descarga",module,Magento_Customer
@@ -5363,7 +5363,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Balance","Saldo",module,Magento_CustomerBalance
 "Customer notified","Cliente notificado",module,Magento_CustomerBalance
 "Notified","Notificado",module,Magento_CustomerBalance
-"No","No 	",module,Magento_CustomerBalance
+"No","No",module,Magento_CustomerBalance
 "More information","Más información",module,Magento_CustomerBalance
 "Update Balance","Actualizar saldo",module,Magento_CustomerBalance
 "An amount on which to change the balance","Una cantidad con la cual cambiar el balance",module,Magento_CustomerBalance
@@ -5456,7 +5456,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Manage Label / Options","Gestionar etiquetas y opciones",module,Magento_CustomerCustomAttributes
 "Attribute Information","Información de atributo",module,Magento_CustomerCustomAttributes
 "Visible to Customer","Visible al cliente",module,Magento_CustomerCustomAttributes
-"No","No 	",module,Magento_CustomerCustomAttributes
+"No","No",module,Magento_CustomerCustomAttributes
 "Yes","Sí",module,Magento_CustomerCustomAttributes
 "Customer Attributes","Atributos de cliente",module,Magento_CustomerCustomAttributes
 "Edit Customer Attribute ""%1""","Editar atributo de cliente ""%1""",module,Magento_CustomerCustomAttributes
@@ -6076,7 +6076,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Provided downloadable sample is not related to given product.","La muestra descargable proporcionada no está relacionada con el producto.",module,Magento_Downloadable
 "Cannot delete sample with id %1","No se puede eliminar muestra con id %1",module,Magento_Downloadable
 "Yes","Sí",module,Magento_Downloadable
-"No","No 	",module,Magento_Downloadable
+"No","No",module,Magento_Downloadable
 "Use config","Usar config",module,Magento_Downloadable
 "Upload File","Subir archivo",module,Magento_Downloadable
 "URL","URL",module,Magento_Downloadable
@@ -6186,7 +6186,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Input Validation for Store Owner","Validación de entrada para el dueño de la tienda",module,Magento_Eav
 "Required","Requerido",module,Magento_Eav
 "Yes","Sí",module,Magento_Eav
-"No","No 	",module,Magento_Eav
+"No","No",module,Magento_Eav
 "System","Sistema",module,Magento_Eav
 "None","Ninguno",module,Magento_Eav
 "Decimal Number","Número decimal",module,Magento_Eav
@@ -6514,7 +6514,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "New Encryption Key","Nueva clave de cifrado",module,Magento_EncryptionKey
 "The encryption key is used to protect passwords and other sensitive data.","La clave de cifrado se utiliza para proteger las contraseñas y otros datos sensibles.",module,Magento_EncryptionKey
 "Auto-generate a Key","Generar una clave",module,Magento_EncryptionKey
-"No","No 	",module,Magento_EncryptionKey
+"No","No",module,Magento_EncryptionKey
 "Yes","Sí",module,Magento_EncryptionKey
 "The generated key will be displayed after changing.","Se mostrará la clave generada después de cambiar.",module,Magento_EncryptionKey
 "New Key","Nueva clave",module,Magento_EncryptionKey
@@ -6661,7 +6661,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Gift Card Message","Mensaje de la tarjeta de regalo",module,Magento_GiftCard
 "Gift Card Lifetime","Tiempo de vida de tarjeta de regalo",module,Magento_GiftCard
 "Yes","Sí",module,Magento_GiftCard
-"No","No 	",module,Magento_GiftCard
+"No","No",module,Magento_GiftCard
 "Gift Card Is Redeemable","La Tarjeta regalo es canjeable",module,Magento_GiftCard
 "We cannot create this gift card.","No podemos crear esta tarjeta de regalo.",module,Magento_GiftCard
 "N/A","N/D",module,Magento_GiftCard
@@ -6752,7 +6752,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Status","Estatus",module,Magento_GiftCardAccount
 "Active","Activo",module,Magento_GiftCardAccount
 "Yes","Sí",module,Magento_GiftCardAccount
-"No","No 	",module,Magento_GiftCardAccount
+"No","No",module,Magento_GiftCardAccount
 "Redeemable","Redimibles",module,Magento_GiftCardAccount
 "Website","Página web",module,Magento_GiftCardAccount
 "Expiration Date","Fecha de vencimiento",module,Magento_GiftCardAccount
@@ -6990,7 +6990,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Total Items","Total de artículos",module,Magento_GiftRegistry
 "Remaining","Restantes",module,Magento_GiftRegistry
 "Public","Público",module,Magento_GiftRegistry
-"No","No 	",module,Magento_GiftRegistry
+"No","No",module,Magento_GiftRegistry
 "Yes","Sí",module,Magento_GiftRegistry
 "Website","Página web",module,Magento_GiftRegistry
 "Gift Registry Types","Tipo de registro de regalo",module,Magento_GiftRegistry
@@ -7386,7 +7386,7 @@ Plantilla de correo electrónico elegida en función de la devolución del tema 
 "Google Analytics Enhanced Ecommerce Settings","Ajustes de Google Analytics para Ecommerce",module,Magento_GoogleTagManager
 "Send to Google","Enviar a Google",module,Magento_GoogleTagManager
 "Yes","Sí",module,Magento_GoogleTagManager
-"No","No 	",module,Magento_GoogleTagManager
+"No","No",module,Magento_GoogleTagManager
 "Creative","Creativa",module,Magento_GoogleTagManager
 "Universal Analytics","Universal Analytics",module,Magento_GoogleTagManager
 "Google Tag Manager","Gestión de etiquetas Google",module,Magento_GoogleTagManager
@@ -7951,7 +7951,7 @@ e.g. var/export, var/import, var/export/some/dir","Para tipo ""Servidor Local"" 
 "The proper website couldn't be identified","No podía identificar el sitio apropiado",module,Magento_Invitation
 "An email wasn't specified. Enter the email and try again.","Un correo electrónico no fue especificado. Introduzca el correo electrónico y vuelva a intentarlo.",module,Magento_Invitation
 "This invitation is addressed to current customer ""%1"".","Esta invitación está dirigida al cliente actual ""%1"".",module,Magento_Invitation
-"No","No 	",module,Magento_LayeredNavigation
+"No","No",module,Magento_LayeredNavigation
 "Filterable (with results)","Filtrable (con resultados)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filtrable (sin resultados)",module,Magento_LayeredNavigation
 "Use in Layered Navigation","Usar en navegación por capas",module,Magento_LayeredNavigation
@@ -8548,7 +8548,7 @@ esto no afectará al filtro de precios.",module,Magento_LayeredNavigation
 "Cannot delete comment with id %1","No se puede eliminar el comentario con id %1",module,Magento_NegotiableQuote
 "There was an error saving company quote config.","Hubo un error al guardarla configuración del pedido de la empresa.",module,Magento_NegotiableQuote
 "Yes","Sí",module,Magento_NegotiableQuote
-"No","No 	",module,Magento_NegotiableQuote
+"No","No",module,Magento_NegotiableQuote
 "System","Sistema",module,Magento_NegotiableQuote
 " - deleted"," - eliminado",module,Magento_NegotiableQuote
 "Product with ID #%1 is deleted","Se ha eliminado el producto con ID #%1",module,Magento_NegotiableQuote
@@ -9118,7 +9118,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Please correct Shipping Price ""%1"" in the Row #%2.","Por favor corrija el precio de envió ""%1"" en la fila #%2.",module,Magento_OfflineShipping
 "Duplicate Row #%1 (duplicates row #%2)","Fila duplicada #%1 (filas duplicadas #%2)",module,Magento_OfflineShipping
 "Please correct Table Rates File Format.","Por favor corrige el formato de archivo de la Tabla de Tarifas.",module,Magento_OfflineShipping
-"No","No 	",module,Magento_OfflineShipping
+"No","No",module,Magento_OfflineShipping
 "For matching items only","Sólo para artículos correspondientes",module,Magento_OfflineShipping
 "For shipment with matching items","Para envíos con artículos correspondientes",module,Magento_OfflineShipping
 "Field ","Campo ",module,Magento_OfflineShipping
@@ -9217,7 +9217,7 @@ If field is empty default value localhost will be saved.","Lista de acceso IP se
 "Please enter a valid credit card expiration date.","Por favor, introduzca una fecha de caducidad de tarjeta de crédito que está válida.",module,Magento_Payment
 "%1 class doesn't implement \Magento\Payment\Model\MethodInterface","Clade %1 no implementa \Magento\Payment\Model\MethodInterface",module,Magento_Payment
 "Yes","Sí",module,Magento_Payment
-"No","No 	",module,Magento_Payment
+"No","No",module,Magento_Payment
 "Failure #1","Fallo #1",module,Magento_Payment
 "Failure #2","Fallos #2",module,Magento_Payment
 "Expiration Date","Fecha de vencimiento",module,Magento_Payment
@@ -9366,7 +9366,7 @@ If field is empty default value localhost will be saved.","Lista de acceso IP se
 "Authorization","Autorización",module,Magento_Paypal
 "Sale","Venta",module,Magento_Paypal
 "Yes","Sí",module,Magento_Paypal
-"No","No 	",module,Magento_Paypal
+"No","No",module,Magento_Paypal
 "For Virtual Quotes Only","Solo para presupuestos en línea",module,Magento_Paypal
 "Auto","Auto",module,Magento_Paypal
 "Ask Customer","Preguntar al cliente",module,Magento_Paypal
@@ -10527,7 +10527,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "Email","Correo electrónico",module,Magento_Reminder
 "Matched At","Coincidió en",module,Magento_Reminder
 "Thread Active","Hilo activo",module,Magento_Reminder
-"No","No 	",module,Magento_Reminder
+"No","No",module,Magento_Reminder
 "Yes","Sí",module,Magento_Reminder
 "Coupon","Cupón",module,Magento_Reminder
 "N/A","N/D",module,Magento_Reminder
@@ -10683,7 +10683,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "From","Desde",module,Magento_Reports
 "To","Hasta",module,Magento_Reports
 "Yes","Sí",module,Magento_Reports
-"No","No 	",module,Magento_Reports
+"No","No",module,Magento_Reports
 "Empty Rows","Filas vacías",module,Magento_Reports
 "Invalid date specified","Fecha especificada no válida",module,Magento_Reports
 "Refresh","Actualizar",module,Magento_Reports
@@ -11357,7 +11357,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "RMA Item Details","Detalles del artículo RMA",module,Magento_Rma
 "OK","Aceptar",module,Magento_Rma
 "Cancel","Cancelar",module,Magento_Rma
-"No","No 	",module,Magento_Rma
+"No","No",module,Magento_Rma
 "Yes","Sí",module,Magento_Rma
 "Delete Image","Eliminar imagen",module,Magento_Rma
 "View Full Size","Ver tamaño completo",module,Magento_Rma
@@ -11914,7 +11914,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "Applies to Any of the Specified Order Statuses except canceled orders","Se aplica a cualquiera de los Estados orden especificado excepto pedidos cancelados",module,Magento_Sales
 "Cart Price Rule","Regla de precio para el carrito de compras",module,Magento_Sales
 "Yes","Sí",module,Magento_Sales
-"No","No 	",module,Magento_Sales
+"No","No",module,Magento_Sales
 "Show Actual Values","Mostrar valores actuales",module,Magento_Sales
 "New Order RSS","RSS para nuevos pedidos",module,Magento_Sales
 "Subtotal","Subtotal",module,Magento_Sales
@@ -12713,7 +12713,7 @@ target=""_blank""> DevDocs' Información de la versión</a>.,module,Magento_Rele
 "Coupon Code","Código de cupón",module,Magento_SalesRule
 "Created","Creado",module,Magento_SalesRule
 "Uses","Usos",module,Magento_SalesRule
-"No","No 	",module,Magento_SalesRule
+"No","No",module,Magento_SalesRule
 "Yes","Sí",module,Magento_SalesRule
 "Times Used","Tiempos utilizados",module,Magento_SalesRule
 "CSV","CSV",module,Magento_SalesRule
@@ -12935,7 +12935,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Advanced Inventory","Inventario avanzado",module,Magento_ScalableInventory
 "Manage Stock","Gestionar existencias",module,Magento_ScalableInventory
 "Yes","Sí",module,Magento_ScalableInventory
-"No","No 	",module,Magento_ScalableInventory
+"No","No",module,Magento_ScalableInventory
 "Use Config Settings","Usar opciones de configuración",module,Magento_ScalableInventory
 "[GLOBAL]","[GLOBAL]",module,Magento_ScalableInventory
 "Qty","Cantidad",module,Magento_ScalableInventory
@@ -13096,7 +13096,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "New Search","Nueva búsqueda",module,Magento_Search
 "Search Information","Información de búsqueda",module,Magento_Search
 "General Information","Información general",module,Magento_Search
-"No","No 	",module,Magento_Search
+"No","No",module,Magento_Search
 "Yes","Sí",module,Magento_Search
 "Search Query","Término de búsqueda",module,Magento_Search
 "Store","Tienda",module,Magento_Search
@@ -13317,7 +13317,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "A catalog named %catalogName already exists. Please select a different name.","Ya existe un catálogo llamado %catalogName. Por favor, seleccione un nombre diferente.",module,Magento_SharedCatalog
 "You cannot change the customer group for a shared catalog.","No puede cambiar el grupo de clientes para un catalogo compartido.",module,Magento_SharedCatalog
 "Yes","Sí",module,Magento_SharedCatalog
-"No","No 	",module,Magento_SharedCatalog
+"No","No",module,Magento_SharedCatalog
 "Configure","Configurar",module,Magento_SharedCatalog
 "Please <a href=""%1"">create</a> at least a public shared catalog to proceed.","Por favor <a href=""%1"">crear</a> al menos un catálogo compartido público para proceder.",module,Magento_SharedCatalog
 "A shared catalog is linked to this customer group. You must delete the shared catalog before you can delete this customer group.","Un catálogo compartido está vinculado a este grupo de clientes. Debe eliminar el catálogo compartido antes de poder eliminar este grupo de clientes.",module,Magento_SharedCatalog
@@ -13986,7 +13986,7 @@ Seleccione un rango diferente para agregar una nueva actualización futura.",mod
 "Column %1","Columna %1",module,Magento_Support
 "Preparing system report data: Detected Single Row Mode but data may be incomplete.","Preparación de los datos del informe del sistema: modo de fila única detectada, pero los datos pueden estar incompletos.",module,Magento_Support
 "Yes","Sí",module,Magento_Support
-"No","No 	",module,Magento_Support
+"No","No",module,Magento_Support
 "All Eav Attributes","Todos los atributos Eav",module,Magento_Support
 "Category Eav Attributes","Atributos de Categoría Eav",module,Magento_Support
 "Customer Address Eav Attributes","Atributos de dirección de cliente Eav",module,Magento_Support
@@ -14794,7 +14794,7 @@ than a customer might expect. ","Configuración de descuentos de impuestos Adver
 "Add","Agregar",module,Magento_Ui
 "Something went wrong.","Algo salió mal.",module,Magento_Ui
 "Yes","Sí",module,Magento_Ui
-"No","No 	",module,Magento_Ui
+"No","No",module,Magento_Ui
 "Done","Hecho",module,Magento_Ui
 "options","opciones",module,Magento_Ui
 "Select...","Seleccionar...",module,Magento_Ui
@@ -15186,7 +15186,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Anchor symbol (#) is not supported in url rewrite suffix.","El símbolo (#) no está soportado en el sufijo de reescritura de url.",module,Magento_UrlRewrite
 "URL key for specified store already exists","La clave URL para la tienda especificada ya existe",module,Magento_UrlRewrite
 "Exception instance doesn't match %1 type","La instancia de excepción no coincide con el tipo %1",module,Magento_UrlRewrite
-"No","No 	",module,Magento_UrlRewrite
+"No","No",module,Magento_UrlRewrite
 "Temporary (302)","(302) Temporal",module,Magento_UrlRewrite
 "Permanent (301)","(301) Permanente",module,Magento_UrlRewrite
 "Request Path for Specified Store","Solicitud de ruta para la tienda especificada",module,Magento_UrlRewrite
@@ -15450,7 +15450,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Regular","Normal",module,Magento_Usps
 "Large","Grande",module,Magento_Usps
 "Yes","Sí",module,Magento_Usps
-"No","No 	",module,Magento_Usps
+"No","No",module,Magento_Usps
 "Not Required","No requerido",module,Magento_Usps
 "Required","Requerido",module,Magento_Usps
 "For some reason we can't retrieve tracking info right now.","Por alguna razón no se puede obtener la información de seguimiento en este momento.",module,Magento_Usps
@@ -15512,7 +15512,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Variable Code","Código de variable",module,Magento_Variable
 "Variable Name","Nombre de la variable",module,Magento_Variable
 "Use Default Variable Values","Usar valores de variable predeterminados",module,Magento_Variable
-"No","No 	",module,Magento_Variable
+"No","No",module,Magento_Variable
 "Yes","Sí",module,Magento_Variable
 "Variable HTML Value","Valor de la variable HTML",module,Magento_Variable
 "Variable Plain Value","Valor de variable simple",module,Magento_Variable
@@ -15619,7 +15619,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please correct the node data.","Por favor corregir los datos del nodo.",module,Magento_VersionsCms
 "CMS Node with id ""%1"" does not exist.","El nódo CMS con id ""%1"" no existe.",module,Magento_VersionsCms
 "Tree Viewed","Arbol visto",module,Magento_VersionsCms
-"No","No 	",module,Magento_VersionsCms
+"No","No",module,Magento_VersionsCms
 "Chapter","Capítulo",module,Magento_VersionsCms
 "Section","Sección",module,Magento_VersionsCms
 "Both","Ambos",module,Magento_VersionsCms
@@ -15827,7 +15827,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Delete","Borrar",module,Magento_VisualMerchandiser
 "Match products by rule","Coincidir productos por regla",module,Magento_VisualMerchandiser
 "Yes","Sí",module,Magento_VisualMerchandiser
-"No","No 	",module,Magento_VisualMerchandiser
+"No","No",module,Magento_VisualMerchandiser
 "Add Products","Añadir productos",module,Magento_VisualMerchandiser
 "Save and Close","Guardar y Cerrar",module,Magento_VisualMerchandiser
 "On","En",module,Magento_VisualMerchandiser
